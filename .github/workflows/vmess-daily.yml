@@ -1,4 +1,4 @@
-name: 自动采集
+name: auto crawler
 
 # 触发条件
 on:
@@ -17,25 +17,25 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: 迁出代码
+    - name: checkout code
       uses: actions/checkout@v2
-    - name: 安装Python
+    - name: setup Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.6.7'
-    - name: 加载缓存  
+    - name: load cache  
       uses: actions/cache@v2
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-    - name: 设置时区
+    - name: set timezone
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
-    - name: 安装依赖
+    - name: install requirements
       run: |
         pip install -r requirements.txt
-    - name: 执行任务
+    - name: run main.py
       # env:
       #   CONFIG: ${{ secrets.CONFIG }}
       run: |
@@ -55,13 +55,13 @@ jobs:
 #         # Github 项目静态文件的路径
 #         staticSrcPath: subscribe
           
-    - name: 提交更改
+    - name: commit updates
       run: |                 
          git config --local user.email "tzztzx@outlook.com"
          git config --local user.name "david"
          git add subscribe/vmess.txt
          git commit -m "更新订阅链接"
-    - name: 推送更改
+    - name: push updates
       uses:  ad-m/github-push-action@master
       with:
          # github_token: ${{ secrets.TOKEN }}
