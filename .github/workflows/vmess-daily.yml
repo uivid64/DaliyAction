@@ -60,7 +60,7 @@ jobs:
          git config --local user.email "tzztzx@outlook.com"
          git config --local user.name "david"
          git add subscribe/vmess.txt
-         git commit -m "更新订阅链接"
+         git commit -m "update vmess.txt"
     - name: push updates
       uses:  ad-m/github-push-action@master
       with:
