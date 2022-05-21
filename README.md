@@ -1,2 +1,2 @@
 # SubAction
-GitHub Actions for subscribe clash.yml
+GitHub Actions for subscribe vmess.txt
