@@ -59,7 +59,7 @@ jobs:
       run: |                 
          git config --local user.email "tzztzx@outlook.com"
          git config --local user.name "david"
-         git add subscribe/vmess.txt
+         git add *
          git commit -m "update vmess.txt"
     - name: push updates
       uses:  ad-m/github-push-action@master
