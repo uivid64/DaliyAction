@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
 - 2022-08-05, **A Survey on Visual Map Localization Using LiDARs and Cameras**, Elhousni Mahdi et.al., Paper: [http://arxiv.org/abs/2208.03376v1](http://arxiv.org/abs/2208.03376v1)
