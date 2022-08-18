@@ -1,4 +1,4 @@
-> Updated on 2022.08.17
+> Updated on 2022.08.18
 
 ## SLAM
 
@@ -217,6 +217,7 @@
 
 ## Visual Localization
 
+- 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
 - 2022-08-14, **HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
 - 2022-08-13, **Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**, Ming Dai et.al., Paper: [http://arxiv.org/abs/2208.06561v1](http://arxiv.org/abs/2208.06561v1)
@@ -364,6 +365,7 @@
 
 ## Keypoint Detection
 
+- 2022-08-17, **Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**, Muhammad Muzammel et.al., Paper: [http://arxiv.org/abs/2208.08224v1](http://arxiv.org/abs/2208.08224v1)
 - 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
 - 2022-08-07, **CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2208.03660v1](http://arxiv.org/abs/2208.03660v1)
 - 2022-07-29, **Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2208.00090v1](http://arxiv.org/abs/2208.00090v1)
@@ -418,6 +420,7 @@
 
 ## Image Matching
 
+- 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-16, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v2](http://arxiv.org/abs/2208.07039v2), Code: **[https://github.com/infinity7428/hANMCL](https://github.com/infinity7428/hANMCL)**
 - 2022-08-04, **Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2208.02450v1](http://arxiv.org/abs/2208.02450v1), Code: **[https://github.com/vcm-project233/mitml](https://github.com/vcm-project233/mitml)**
 - 2022-08-04, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v2](http://arxiv.org/abs/2208.00928v2)
