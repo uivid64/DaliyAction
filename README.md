@@ -599,3 +599,48 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
+## Gradient Compression
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-08-25**|**Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**|Dylan Turpin et.al.|[2208.12250v1](http://arxiv.org/abs/2208.12250v1)|null|
+|**2022-08-25**|**Optimal estimates for transmission problems including relative conductivities with different signs**|Hongjie Dong et.al.|[2208.12237v1](http://arxiv.org/abs/2208.12237v1)|null|
+|**2022-08-25**|**Accelerated Sparse Recovery via Gradient Descent with Nonlinear Conjugate Gradient Momentum**|Mengqi Hu et.al.|[2208.12183v1](http://arxiv.org/abs/2208.12183v1)|null|
+|**2022-08-25**|**3D Super-Resolution Ultrasound with Adaptive Weight-Based Beamforming**|Jipeng Yan et.al.|[2208.12176v1](http://arxiv.org/abs/2208.12176v1)|null|
+|**2022-08-25**|**Gradient corrections to the one-loop effective action**|Sofia Canevarolo et.al.|[2208.12142v1](http://arxiv.org/abs/2208.12142v1)|null|
+|**2022-08-25**|**The ReprGesture entry to the GENEA Challenge 2022**|Sicheng Yang et.al.|[2208.12133v1](http://arxiv.org/abs/2208.12133v1)|**[link](https://github.com/YoungSeng/ReprGesture)**|
+|**2022-08-25**|**A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method**|Ankur Sinha et.al.|[2208.12118v1](http://arxiv.org/abs/2208.12118v1)|null|
+|**2022-08-25**|**Multi-Objective Trust-Region Filter Method for Nonlinear Constraints using Inexact Gradients**|Manuel Berkemeier et.al.|[2208.12094v1](http://arxiv.org/abs/2208.12094v1)|null|
+|**2022-08-25**|**An apocalypse-free first-order low-rank optimization algorithm with at most one rank reduction attempt per iteration**|Guillaume Olikier et.al.|[2208.12051v1](http://arxiv.org/abs/2208.12051v1)|null|
+|**2022-08-25**|**Efficient Truncated Linear Regression with Unknown Noise Variance**|Constantinos Daskalakis et.al.|[2208.12042v1](http://arxiv.org/abs/2208.12042v1)|**[link](https://github.com/pstefanou12/truncated-regression-with-unknown-noise-variance-neurips-2021)**|
+
+## Distributed Training
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-08-25**|**Boson Sampling with Ultracold Atoms**|Carsten Robens et.al.|[2208.12253v1](http://arxiv.org/abs/2208.12253v1)|null|
+|**2022-08-25**|**Passive Triangulation Attack on ORide**|Shyam Murthy et.al.|[2208.12216v1](http://arxiv.org/abs/2208.12216v1)|null|
+|**2022-08-25**|**Cloud Process Execution Engine: Architecture and Interfaces**|Juergen Manger et.al.|[2208.12214v1](http://arxiv.org/abs/2208.12214v1)|null|
+|**2022-08-25**|**Sustaining Fairness via Incremental Learning**|Somnath Basu Roy Chowdhury et.al.|[2208.12212v1](http://arxiv.org/abs/2208.12212v1)|null|
+|**2022-08-25**|**Learning Relational Causal Models with Cycles through Relational Acyclification**|Ragib Ahsan et.al.|[2208.12210v1](http://arxiv.org/abs/2208.12210v1)|**[link](https://github.com/edgeslab/srcd)**|
+|**2022-08-25**|**Extremal statistics of quadratic forms of GOE/GUE eigenvectors**|Laszlo Erdos et.al.|[2208.12206v1](http://arxiv.org/abs/2208.12206v1)|null|
+|**2022-08-25**|**Probabilistic deconstruction of a theory of gravity, Part II: curved space**|S. Josephine Suh et.al.|[2208.12204v1](http://arxiv.org/abs/2208.12204v1)|null|
+|**2022-08-25**|**ExpoCloud: a Framework for Time and Budget-Effective Parameter Space Explorations Using a Cloud Compute Engine**|Meir Goldenberg et.al.|[2208.12195v1](http://arxiv.org/abs/2208.12195v1)|**[link](https://github.com/mgoldenbe/expocloud)**|
+|**2022-08-25**|**On the prompt contribution to the atmospheric neutrino flux**|Sergey Ostapchenko et.al.|[2208.12185v1](http://arxiv.org/abs/2208.12185v1)|null|
+|**2022-08-25**|**Distributed Optimization with Inexact Oracle**|Kui Zhu et.al.|[2208.12179v1](http://arxiv.org/abs/2208.12179v1)|null|
+
+## Distributed Deep Learning
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-08-21**|**Fed-FSNet: Mitigating Non-I.I.D. Federated Learning via Fuzzy Synthesizing Network**|Jingcai Guo et.al.|[2208.12044v1](http://arxiv.org/abs/2208.12044v1)|null|
+|**2022-08-24**|**Data-Driven Approach to form Energy Resilient Smart Microgrids with Identification of Vulnerable Nodes in Active Electrical Distribution Network**|D Maneesh Reddy et.al.|[2208.11682v1](http://arxiv.org/abs/2208.11682v1)|null|
+|**2022-08-24**|**A methodology for identifying resiliency in renewable electrical distribution system using complex network**|Divyanshi Dwivedi et.al.|[2208.11543v1](http://arxiv.org/abs/2208.11543v1)|null|
+|**2022-08-23**|**Feeder Microgrid Management on an Active Distribution System during a Severe Outage**|Valliappan Muthukaruppan et.al.|[2208.10712v1](http://arxiv.org/abs/2208.10712v1)|null|
+|**2022-08-21**|**Co-optimizing Distributed Energy Resources in Linear Complexity under Net Energy Metering**|Ahmed S. Alahmed et.al.|[2208.09781v1](http://arxiv.org/abs/2208.09781v1)|null|
+|**2022-08-19**|**Technical Report: Asymmetric Mutual Exclusion for RDMA**|Jacob Nelson-Slivon et.al.|[2208.09540v1](http://arxiv.org/abs/2208.09540v1)|null|
+|**2022-08-19**|**Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching**|Yeonhong Park et.al.|[2208.09151v1](http://arxiv.org/abs/2208.09151v1)|**[link](https://github.com/snu-arc/ginex)**|
+|**2022-08-19**|**DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization**|Anshul Nasery et.al.|[2208.09139v1](http://arxiv.org/abs/2208.09139v1)|null|
+|**2022-08-17**|**SYNTHESIS: A Semi-Asynchronous Path-Integrated Stochastic Gradient Method for Distributed Learning in Computing Clusters**|Zhuqing Liu et.al.|[2208.08425v1](http://arxiv.org/abs/2208.08425v1)|null|
+|**2022-08-17**|**Boosting Distributed Training Performance of the Unpadded BERT Model**|Jinle Zeng et.al.|[2208.08124v1](http://arxiv.org/abs/2208.08124v1)|null|
+

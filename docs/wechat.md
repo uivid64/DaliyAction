@@ -492,3 +492,42 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
+## Gradient Compression
+
+- 2022-08-25, **Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**, Dylan Turpin et.al., Paper: [http://arxiv.org/abs/2208.12250v1](http://arxiv.org/abs/2208.12250v1)
+- 2022-08-25, **Optimal estimates for transmission problems including relative conductivities with different signs**, Hongjie Dong et.al., Paper: [http://arxiv.org/abs/2208.12237v1](http://arxiv.org/abs/2208.12237v1)
+- 2022-08-25, **Accelerated Sparse Recovery via Gradient Descent with Nonlinear Conjugate Gradient Momentum**, Mengqi Hu et.al., Paper: [http://arxiv.org/abs/2208.12183v1](http://arxiv.org/abs/2208.12183v1)
+- 2022-08-25, **3D Super-Resolution Ultrasound with Adaptive Weight-Based Beamforming**, Jipeng Yan et.al., Paper: [http://arxiv.org/abs/2208.12176v1](http://arxiv.org/abs/2208.12176v1)
+- 2022-08-25, **Gradient corrections to the one-loop effective action**, Sofia Canevarolo et.al., Paper: [http://arxiv.org/abs/2208.12142v1](http://arxiv.org/abs/2208.12142v1)
+- 2022-08-25, **The ReprGesture entry to the GENEA Challenge 2022**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2208.12133v1](http://arxiv.org/abs/2208.12133v1), Code: **[https://github.com/YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture)**
+- 2022-08-25, **A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method**, Ankur Sinha et.al., Paper: [http://arxiv.org/abs/2208.12118v1](http://arxiv.org/abs/2208.12118v1)
+- 2022-08-25, **Multi-Objective Trust-Region Filter Method for Nonlinear Constraints using Inexact Gradients**, Manuel Berkemeier et.al., Paper: [http://arxiv.org/abs/2208.12094v1](http://arxiv.org/abs/2208.12094v1)
+- 2022-08-25, **An apocalypse-free first-order low-rank optimization algorithm with at most one rank reduction attempt per iteration**, Guillaume Olikier et.al., Paper: [http://arxiv.org/abs/2208.12051v1](http://arxiv.org/abs/2208.12051v1)
+- 2022-08-25, **Efficient Truncated Linear Regression with Unknown Noise Variance**, Constantinos Daskalakis et.al., Paper: [http://arxiv.org/abs/2208.12042v1](http://arxiv.org/abs/2208.12042v1), Code: **[https://github.com/pstefanou12/truncated-regression-with-unknown-noise-variance-neurips-2021](https://github.com/pstefanou12/truncated-regression-with-unknown-noise-variance-neurips-2021)**
+
+## Distributed Training
+
+- 2022-08-25, **Boson Sampling with Ultracold Atoms**, Carsten Robens et.al., Paper: [http://arxiv.org/abs/2208.12253v1](http://arxiv.org/abs/2208.12253v1)
+- 2022-08-25, **Passive Triangulation Attack on ORide**, Shyam Murthy et.al., Paper: [http://arxiv.org/abs/2208.12216v1](http://arxiv.org/abs/2208.12216v1)
+- 2022-08-25, **Cloud Process Execution Engine: Architecture and Interfaces**, Juergen Manger et.al., Paper: [http://arxiv.org/abs/2208.12214v1](http://arxiv.org/abs/2208.12214v1)
+- 2022-08-25, **Sustaining Fairness via Incremental Learning**, Somnath Basu Roy Chowdhury et.al., Paper: [http://arxiv.org/abs/2208.12212v1](http://arxiv.org/abs/2208.12212v1)
+- 2022-08-25, **Learning Relational Causal Models with Cycles through Relational Acyclification**, Ragib Ahsan et.al., Paper: [http://arxiv.org/abs/2208.12210v1](http://arxiv.org/abs/2208.12210v1), Code: **[https://github.com/edgeslab/srcd](https://github.com/edgeslab/srcd)**
+- 2022-08-25, **Extremal statistics of quadratic forms of GOE/GUE eigenvectors**, Laszlo Erdos et.al., Paper: [http://arxiv.org/abs/2208.12206v1](http://arxiv.org/abs/2208.12206v1)
+- 2022-08-25, **Probabilistic deconstruction of a theory of gravity, Part II: curved space**, S. Josephine Suh et.al., Paper: [http://arxiv.org/abs/2208.12204v1](http://arxiv.org/abs/2208.12204v1)
+- 2022-08-25, **ExpoCloud: a Framework for Time and Budget-Effective Parameter Space Explorations Using a Cloud Compute Engine**, Meir Goldenberg et.al., Paper: [http://arxiv.org/abs/2208.12195v1](http://arxiv.org/abs/2208.12195v1), Code: **[https://github.com/mgoldenbe/expocloud](https://github.com/mgoldenbe/expocloud)**
+- 2022-08-25, **On the prompt contribution to the atmospheric neutrino flux**, Sergey Ostapchenko et.al., Paper: [http://arxiv.org/abs/2208.12185v1](http://arxiv.org/abs/2208.12185v1)
+- 2022-08-25, **Distributed Optimization with Inexact Oracle**, Kui Zhu et.al., Paper: [http://arxiv.org/abs/2208.12179v1](http://arxiv.org/abs/2208.12179v1)
+
+## Distributed Deep Learning
+
+- 2022-08-21, **Fed-FSNet: Mitigating Non-I.I.D. Federated Learning via Fuzzy Synthesizing Network**, Jingcai Guo et.al., Paper: [http://arxiv.org/abs/2208.12044v1](http://arxiv.org/abs/2208.12044v1)
+- 2022-08-24, **Data-Driven Approach to form Energy Resilient Smart Microgrids with Identification of Vulnerable Nodes in Active Electrical Distribution Network**, D Maneesh Reddy et.al., Paper: [http://arxiv.org/abs/2208.11682v1](http://arxiv.org/abs/2208.11682v1)
+- 2022-08-24, **A methodology for identifying resiliency in renewable electrical distribution system using complex network**, Divyanshi Dwivedi et.al., Paper: [http://arxiv.org/abs/2208.11543v1](http://arxiv.org/abs/2208.11543v1)
+- 2022-08-23, **Feeder Microgrid Management on an Active Distribution System during a Severe Outage**, Valliappan Muthukaruppan et.al., Paper: [http://arxiv.org/abs/2208.10712v1](http://arxiv.org/abs/2208.10712v1)
+- 2022-08-21, **Co-optimizing Distributed Energy Resources in Linear Complexity under Net Energy Metering**, Ahmed S. Alahmed et.al., Paper: [http://arxiv.org/abs/2208.09781v1](http://arxiv.org/abs/2208.09781v1)
+- 2022-08-19, **Technical Report: Asymmetric Mutual Exclusion for RDMA**, Jacob Nelson-Slivon et.al., Paper: [http://arxiv.org/abs/2208.09540v1](http://arxiv.org/abs/2208.09540v1)
+- 2022-08-19, **Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching**, Yeonhong Park et.al., Paper: [http://arxiv.org/abs/2208.09151v1](http://arxiv.org/abs/2208.09151v1), Code: **[https://github.com/snu-arc/ginex](https://github.com/snu-arc/ginex)**
+- 2022-08-19, **DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization**, Anshul Nasery et.al., Paper: [http://arxiv.org/abs/2208.09139v1](http://arxiv.org/abs/2208.09139v1)
+- 2022-08-17, **SYNTHESIS: A Semi-Asynchronous Path-Integrated Stochastic Gradient Method for Distributed Learning in Computing Clusters**, Zhuqing Liu et.al., Paper: [http://arxiv.org/abs/2208.08425v1](http://arxiv.org/abs/2208.08425v1)
+- 2022-08-17, **Boosting Distributed Training Performance of the Unpadded BERT Model**, Jinle Zeng et.al., Paper: [http://arxiv.org/abs/2208.08124v1](http://arxiv.org/abs/2208.08124v1)
+
