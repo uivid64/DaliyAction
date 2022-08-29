@@ -609,7 +609,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-26**|**Mel Spectrogram Inversion with Stable Pitch**|Bruno Di Giorgi et.al.|[2208.12782v1](http://arxiv.org/abs/2208.12782v1)|null|
 |**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|null|
-|**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan et.al.|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|null|
+|**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan et.al.|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|**[link](https://github.com/v715/DiffDRR)**|
 |**2022-08-26**|**Multi-Scale Architectures Matter: On the Adversarial Robustness of Flow-based Lossless Compression**|Yi-chong Xia et.al.|[2208.12716v1](http://arxiv.org/abs/2208.12716v1)|null|
 |**2022-08-26**|**Stable curves under the Möbius-Plateau energy**|Max Lipton et.al.|[2208.12678v1](http://arxiv.org/abs/2208.12678v1)|null|
 |**2022-08-26**|**Extreme Gradient Boosting for Yield Estimation compared with Deep Learning Approaches**|Florian Huber et.al.|[2208.12633v1](http://arxiv.org/abs/2208.12633v1)|null|
@@ -637,8 +637,8 @@ layout: default
 |**2022-08-26**|**Stimulated Laser Cooling Using Microfabrication**|Chao Li et.al.|[2208.12784v1](http://arxiv.org/abs/2208.12784v1)|null|
 |**2022-08-26**|**Prospect Theory-inspired Automated P2P Energy Trading with Q-learning-based Dynamic Pricing**|Ashutosh Timilsina et.al.|[2208.12777v1](http://arxiv.org/abs/2208.12777v1)|null|
 |**2022-08-26**|**High-speed high-resolution optical correlation-domain reflectometry without using electrical spectrum analyzer**|Guangtao Zhu et.al.|[2208.12775v1](http://arxiv.org/abs/2208.12775v1)|null|
-|**2022-08-26**|**NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems**|Xuyang Li et.al.|[2208.12771v1](http://arxiv.org/abs/2208.12771v1)|null|
-|**2022-08-26**|**Causal Bandits for Linear Structural Equation Models**|Burak Varici et.al.|[2208.12764v1](http://arxiv.org/abs/2208.12764v1)|null|
+|**2022-08-26**|**NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems**|Xuyang Li et.al.|[2208.12771v1](http://arxiv.org/abs/2208.12771v1)|**[link](https://github.com/human-analysis/neural-structural-identification)**|
+|**2022-08-26**|**Causal Bandits for Linear Structural Equation Models**|Burak Varici et.al.|[2208.12764v1](http://arxiv.org/abs/2208.12764v1)|**[link](https://github.com/bvarici/causal-bandits-linear-sem)**|
 |**2022-08-26**|**Task Selection for AutoML System Evaluation**|Jonathan Lorraine et.al.|[2208.12754v1](http://arxiv.org/abs/2208.12754v1)|null|
 |**2022-08-26**|**Automatic Synthesis of Random Generators for Numerically Constrained Algebraic Recursive Types**|Ghiles Ziat et.al.|[2208.12747v1](http://arxiv.org/abs/2208.12747v1)|null|
 |**2022-08-26**|**White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**|Man Zhang et.al.|[2208.12743v1](http://arxiv.org/abs/2208.12743v1)|null|
