@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.28
+## Updated on 2022.08.29
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-26**|**Mel Spectrogram Inversion with Stable Pitch**|Bruno Di Giorgi et.al.|[2208.12782v1](http://arxiv.org/abs/2208.12782v1)|null|
+|**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|null|
+|**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan et.al.|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|null|
+|**2022-08-26**|**Multi-Scale Architectures Matter: On the Adversarial Robustness of Flow-based Lossless Compression**|Yi-chong Xia et.al.|[2208.12716v1](http://arxiv.org/abs/2208.12716v1)|null|
+|**2022-08-26**|**Stable curves under the Möbius-Plateau energy**|Max Lipton et.al.|[2208.12678v1](http://arxiv.org/abs/2208.12678v1)|null|
+|**2022-08-26**|**Extreme Gradient Boosting for Yield Estimation compared with Deep Learning Approaches**|Florian Huber et.al.|[2208.12633v1](http://arxiv.org/abs/2208.12633v1)|null|
+|**2022-08-26**|**On the Implicit Bias in Deep-Learning Algorithms**|Gal Vardi et.al.|[2208.12591v1](http://arxiv.org/abs/2208.12591v1)|null|
+|**2022-08-26**|**Hamilton and Souplet-Zhang type estimations on semilinear parabolic system along geometric flow**|Shyamal Kumar Hui et.al.|[2208.12582v1](http://arxiv.org/abs/2208.12582v1)|null|
+|**2022-08-26**|**Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**|Ruixiang Xue et.al.|[2208.12573v1](http://arxiv.org/abs/2208.12573v1)|null|
+|**2022-08-26**|**Spatial Symmetries in Multipolar Metasurfaces: From Asymmetric Angular Transmittance to Multipolar Extrinsic Chirality**|Karim Achouri et.al.|[2208.12504v1](http://arxiv.org/abs/2208.12504v1)|null|
 |**2022-08-25**|**Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**|Dylan Turpin et.al.|[2208.12250v1](http://arxiv.org/abs/2208.12250v1)|null|
 |**2022-08-25**|**Optimal estimates for transmission problems including relative conductivities with different signs**|Hongjie Dong et.al.|[2208.12237v1](http://arxiv.org/abs/2208.12237v1)|null|
 |**2022-08-25**|**Accelerated Sparse Recovery via Gradient Descent with Nonlinear Conjugate Gradient Momentum**|Mengqi Hu et.al.|[2208.12183v1](http://arxiv.org/abs/2208.12183v1)|null|
@@ -622,6 +632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-26**|**A Model of Mass Extinction Accounting for Species's Differential Evolutionary Response to a Catastrophic Climate Change**|Amer Alsulami et.al.|[2208.12792v1](http://arxiv.org/abs/2208.12792v1)|null|
+|**2022-08-26**|**Non-Markovian models of opinion dynamics on temporal networks**|Weiqi Chu et.al.|[2208.12787v1](http://arxiv.org/abs/2208.12787v1)|null|
+|**2022-08-26**|**Stimulated Laser Cooling Using Microfabrication**|Chao Li et.al.|[2208.12784v1](http://arxiv.org/abs/2208.12784v1)|null|
+|**2022-08-26**|**Prospect Theory-inspired Automated P2P Energy Trading with Q-learning-based Dynamic Pricing**|Ashutosh Timilsina et.al.|[2208.12777v1](http://arxiv.org/abs/2208.12777v1)|null|
+|**2022-08-26**|**High-speed high-resolution optical correlation-domain reflectometry without using electrical spectrum analyzer**|Guangtao Zhu et.al.|[2208.12775v1](http://arxiv.org/abs/2208.12775v1)|null|
+|**2022-08-26**|**NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems**|Xuyang Li et.al.|[2208.12771v1](http://arxiv.org/abs/2208.12771v1)|null|
+|**2022-08-26**|**Causal Bandits for Linear Structural Equation Models**|Burak Varici et.al.|[2208.12764v1](http://arxiv.org/abs/2208.12764v1)|null|
+|**2022-08-26**|**Task Selection for AutoML System Evaluation**|Jonathan Lorraine et.al.|[2208.12754v1](http://arxiv.org/abs/2208.12754v1)|null|
+|**2022-08-26**|**Automatic Synthesis of Random Generators for Numerically Constrained Algebraic Recursive Types**|Ghiles Ziat et.al.|[2208.12747v1](http://arxiv.org/abs/2208.12747v1)|null|
+|**2022-08-26**|**White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**|Man Zhang et.al.|[2208.12743v1](http://arxiv.org/abs/2208.12743v1)|null|
 |**2022-08-25**|**Boson Sampling with Ultracold Atoms**|Carsten Robens et.al.|[2208.12253v1](http://arxiv.org/abs/2208.12253v1)|null|
 |**2022-08-25**|**Passive Triangulation Attack on ORide**|Shyam Murthy et.al.|[2208.12216v1](http://arxiv.org/abs/2208.12216v1)|null|
 |**2022-08-25**|**Cloud Process Execution Engine: Architecture and Interfaces**|Juergen Manger et.al.|[2208.12214v1](http://arxiv.org/abs/2208.12214v1)|null|
@@ -637,6 +657,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-26**|**White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**|Man Zhang et.al.|[2208.12743v1](http://arxiv.org/abs/2208.12743v1)|null|
+|**2022-08-26**|**Flexible Vertical Federated Learning with Heterogeneous Parties**|Timothy Castiglia et.al.|[2208.12672v1](http://arxiv.org/abs/2208.12672v1)|null|
 |**2022-08-21**|**Fed-FSNet: Mitigating Non-I.I.D. Federated Learning via Fuzzy Synthesizing Network**|Jingcai Guo et.al.|[2208.12044v1](http://arxiv.org/abs/2208.12044v1)|null|
 |**2022-08-24**|**Data-Driven Approach to form Energy Resilient Smart Microgrids with Identification of Vulnerable Nodes in Active Electrical Distribution Network**|D Maneesh Reddy et.al.|[2208.11682v1](http://arxiv.org/abs/2208.11682v1)|null|
 |**2022-08-24**|**A methodology for identifying resiliency in renewable electrical distribution system using complex network**|Divyanshi Dwivedi et.al.|[2208.11543v1](http://arxiv.org/abs/2208.11543v1)|null|
