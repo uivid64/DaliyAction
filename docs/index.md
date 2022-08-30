@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-29**|**Online Bidding Algorithms for Return-on-Spend Constrained Advertisers**|Zhe Feng et.al.|[2208.13713v1](http://arxiv.org/abs/2208.13713v1)|null|
+|**2022-08-29**|**Universal wrinkling of supported elastic rings**|Benjamin Foster et.al.|[2208.13672v1](http://arxiv.org/abs/2208.13672v1)|null|
+|**2022-08-29**|**LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**|Kai Zhang et.al.|[2208.13661v1](http://arxiv.org/abs/2208.13661v1)|null|
+|**2022-08-29**|**Jacobian Methods for Dynamic Polarization Control in Optical Applications**|Dawei Wang et.al.|[2208.13660v1](http://arxiv.org/abs/2208.13660v1)|null|
+|**2022-08-29**|**Optimization Methods for One Dimensional Elastodynamics**|Theodoros Katsaounis et.al.|[2208.13657v1](http://arxiv.org/abs/2208.13657v1)|null|
+|**2022-08-29**|**A Variance-Reduced Stochastic Gradient Tracking Algorithm for Decentralized Optimization with Orthogonality Constraints**|Lei Wang et.al.|[2208.13643v1](http://arxiv.org/abs/2208.13643v1)|null|
+|**2022-08-29**|**Nanosecond compressive fluorescence lifetime microscopy imaging via the RATS method with a direct reconstruction of lifetime maps**|Jiri Junek et.al.|[2208.13640v1](http://arxiv.org/abs/2208.13640v1)|null|
+|**2022-08-29**|**Two-dimensional ferromagnetic semiconductors of rare-earth Janus 2H-GdIBr monolayer with large valley polarization**|Cunquan Li et.al.|[2208.13613v1](http://arxiv.org/abs/2208.13613v1)|null|
+|**2022-08-29**|**Approach of variable clustering and compression for learning large Bayesian networks**|Anna V. Bubnova et.al.|[2208.13605v1](http://arxiv.org/abs/2208.13605v1)|null|
+|**2022-08-29**|**The role of symmetrical inhomogeneity in problems of electromagnetic wave propagation**|Mher Davtyan et.al.|[2208.13449v1](http://arxiv.org/abs/2208.13449v1)|null|
 |**2022-08-26**|**Mel Spectrogram Inversion with Stable Pitch**|Bruno Di Giorgi et.al.|[2208.12782v1](http://arxiv.org/abs/2208.12782v1)|null|
 |**2022-08-26**|**Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning**|Cephas Samende et.al.|[2208.12779v1](http://arxiv.org/abs/2208.12779v1)|null|
 |**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan et.al.|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|**[link](https://github.com/v715/DiffDRR)**|
@@ -632,6 +642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-29**|**Signatures of generalized ALP interactions in SM decays of mesons**|Subhajit Ghosh et.al.|[2208.13765v1](http://arxiv.org/abs/2208.13765v1)|null|
+|**2022-08-29**|**Level dynamics and avoided level crossings in driven disordered quantum dots**|András Grabarits et.al.|[2208.13761v1](http://arxiv.org/abs/2208.13761v1)|null|
+|**2022-08-29**|**Simple and Rigorous Proof Method for Practical Security of Quantum Key Distribution in the Single-Qubit Regime Using Mismatched Basis Measurements**|Michel Boyer et.al.|[2208.13754v1](http://arxiv.org/abs/2208.13754v1)|null|
+|**2022-08-29**|**Rapid Blue- and Red-shifted Excursions in H$α$ line profiles synthesized from realistic 3D MHD simulations**|S. Danilovic et.al.|[2208.13749v1](http://arxiv.org/abs/2208.13749v1)|null|
+|**2022-08-29**|**Transport of single nanoparticles through respirators and masks**|K. V. Chinmaya et.al.|[2208.13740v1](http://arxiv.org/abs/2208.13740v1)|null|
+|**2022-08-29**|**FDP control in multivariate linear models using the bootstrap**|Samuel Davenport et.al.|[2208.13724v1](http://arxiv.org/abs/2208.13724v1)|null|
+|**2022-08-29**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v1](http://arxiv.org/abs/2208.13723v1)|null|
+|**2022-08-29**|**Open-Set Semi-Supervised Object Detection**|Yen-Cheng Liu et.al.|[2208.13722v1](http://arxiv.org/abs/2208.13722v1)|null|
+|**2022-08-29**|**Demystifying Arch-hints for Model Extraction: An Attack in Unified Memory System**|Zhendong Wang et.al.|[2208.13720v1](http://arxiv.org/abs/2208.13720v1)|null|
+|**2022-08-29**|**Online Bidding Algorithms for Return-on-Spend Constrained Advertisers**|Zhe Feng et.al.|[2208.13713v1](http://arxiv.org/abs/2208.13713v1)|null|
 |**2022-08-26**|**A Model of Mass Extinction Accounting for Species's Differential Evolutionary Response to a Catastrophic Climate Change**|Amer Alsulami et.al.|[2208.12792v1](http://arxiv.org/abs/2208.12792v1)|null|
 |**2022-08-26**|**Non-Markovian models of opinion dynamics on temporal networks**|Weiqi Chu et.al.|[2208.12787v1](http://arxiv.org/abs/2208.12787v1)|null|
 |**2022-08-26**|**Stimulated Laser Cooling Using Microfabrication**|Chao Li et.al.|[2208.12784v1](http://arxiv.org/abs/2208.12784v1)|null|
@@ -657,8 +677,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-28**|**Asynchronous Training Schemes in Distributed Learning with Time Delay**|Haoxiang Wang et.al.|[2208.13154v1](http://arxiv.org/abs/2208.13154v1)|null|
 |**2022-08-26**|**White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**|Man Zhang et.al.|[2208.12743v1](http://arxiv.org/abs/2208.12743v1)|null|
-|**2022-08-26**|**Flexible Vertical Federated Learning with Heterogeneous Parties**|Timothy Castiglia et.al.|[2208.12672v1](http://arxiv.org/abs/2208.12672v1)|null|
+|**2022-08-26**|**Flexible Vertical Federated Learning with Heterogeneous Parties**|Timothy Castiglia et.al.|[2208.12672v1](http://arxiv.org/abs/2208.12672v1)|**[link](https://github.com/rpi-nsl/flex-vfl)**|
 |**2022-08-21**|**Fed-FSNet: Mitigating Non-I.I.D. Federated Learning via Fuzzy Synthesizing Network**|Jingcai Guo et.al.|[2208.12044v1](http://arxiv.org/abs/2208.12044v1)|null|
 |**2022-08-24**|**Data-Driven Approach to form Energy Resilient Smart Microgrids with Identification of Vulnerable Nodes in Active Electrical Distribution Network**|D Maneesh Reddy et.al.|[2208.11682v1](http://arxiv.org/abs/2208.11682v1)|null|
 |**2022-08-24**|**A methodology for identifying resiliency in renewable electrical distribution system using complex network**|Divyanshi Dwivedi et.al.|[2208.11543v1](http://arxiv.org/abs/2208.11543v1)|null|
