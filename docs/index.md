@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-30**|**Deep Spatial and Tonal Optimisation for Diffusion Inpainting**|Pascal Peter et.al.|[2208.14371v1](http://arxiv.org/abs/2208.14371v1)|null|
+|**2022-08-30**|**SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes**|Partha Das et.al.|[2208.14369v1](http://arxiv.org/abs/2208.14369v1)|null|
+|**2022-08-30**|**Towards robust music source separation on loud commercial music**|Chang-Bin Jeon et.al.|[2208.14355v1](http://arxiv.org/abs/2208.14355v1)|null|
+|**2022-08-30**|**Analysis of Distributed Deep Learning in the Cloud**|Aakash Sharma et.al.|[2208.14344v1](http://arxiv.org/abs/2208.14344v1)|null|
+|**2022-08-30**|**Reynolds Stress Anisotropy Tensor Predictions for Turbulent Channel Flow using Neural Networks**|Jiayi Cai et.al.|[2208.14301v1](http://arxiv.org/abs/2208.14301v1)|null|
+|**2022-08-30**|**On the universal consistency of an over-parametrized deep neural network estimate learned by gradient descent**|Selina Drews et.al.|[2208.14283v1](http://arxiv.org/abs/2208.14283v1)|null|
+|**2022-08-30**|**Advance quantum image representation and compression using DCTEFRQI approach**|Md Ershadul Haque et.al.|[2208.14277v1](http://arxiv.org/abs/2208.14277v1)|null|
+|**2022-08-30**|**Nonlocal Lagrange multipliers and transport densities**|Assis Azevedo et.al.|[2208.14274v1](http://arxiv.org/abs/2208.14274v1)|null|
+|**2022-08-30**|**Similarity-based Link Prediction from Modular Compression of Network Flows**|Christopher Blöcker et.al.|[2208.14220v1](http://arxiv.org/abs/2208.14220v1)|null|
+|**2022-08-30**|**Spatially-resolved properties of early-type group-dominant galaxies with MUSE: gas content, ionisation mechanisms and metallicity gradients**|P. Lagos et.al.|[2208.14115v1](http://arxiv.org/abs/2208.14115v1)|null|
 |**2022-08-29**|**Online Bidding Algorithms for Return-on-Spend Constrained Advertisers**|Zhe Feng et.al.|[2208.13713v1](http://arxiv.org/abs/2208.13713v1)|null|
 |**2022-08-29**|**Universal wrinkling of supported elastic rings**|Benjamin Foster et.al.|[2208.13672v1](http://arxiv.org/abs/2208.13672v1)|null|
 |**2022-08-29**|**LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**|Kai Zhang et.al.|[2208.13661v1](http://arxiv.org/abs/2208.13661v1)|null|
@@ -642,6 +652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-30**|**Fine-Grained Liquid Democracy for Cumulative Ballots**|Matthias Köppe et.al.|[2208.14441v1](http://arxiv.org/abs/2208.14441v1)|null|
+|**2022-08-30**|**Bayesian parameter estimation for targeted anisotropic gravitational-wave background**|Leo Tsukada et.al.|[2208.14421v1](http://arxiv.org/abs/2208.14421v1)|null|
+|**2022-08-30**|**On the (Im)Possibility of Estimating Various Notions of Differential Privacy**|Daniele Gorla et.al.|[2208.14414v1](http://arxiv.org/abs/2208.14414v1)|null|
+|**2022-08-30**|**On the first-order transduction quasiorder of hereditary classes of graphs**|Samuel Braunfeld et.al.|[2208.14412v1](http://arxiv.org/abs/2208.14412v1)|null|
+|**2022-08-30**|**Improving Datacenter Utilization through Containerized Service-Based Architecture**|Aos Mulahuwaish et.al.|[2208.14411v1](http://arxiv.org/abs/2208.14411v1)|null|
+|**2022-08-30**|**Efficient Probabilistic Computing with Stochastic Perovskite Nickelates**|Tae Joon Park et.al.|[2208.14408v1](http://arxiv.org/abs/2208.14408v1)|null|
+|**2022-08-30**|**A New Truncation Algorithm for Markov Chain Equilibrium Distributions with Computable Error Bounds**|Alex Infanger et.al.|[2208.14406v1](http://arxiv.org/abs/2208.14406v1)|null|
+|**2022-08-30**|**Biased Bytes: On the Validity of Estimating Food Consumption from Digital Traces**|Kristina Gligorić et.al.|[2208.14401v1](http://arxiv.org/abs/2208.14401v1)|null|
+|**2022-08-30**|**Evaporation of a sessile colloidal water-glycerol droplet: Marangoni ring formation**|Lijun Thayyil Raju et.al.|[2208.14396v1](http://arxiv.org/abs/2208.14396v1)|null|
+|**2022-08-30**|**Do algebraic numbers follow Khinchin's Law?**|Philipp Sibbertsen et.al.|[2208.14359v1](http://arxiv.org/abs/2208.14359v1)|null|
 |**2022-08-29**|**Signatures of generalized ALP interactions in SM decays of mesons**|Subhajit Ghosh et.al.|[2208.13765v1](http://arxiv.org/abs/2208.13765v1)|null|
 |**2022-08-29**|**Level dynamics and avoided level crossings in driven disordered quantum dots**|András Grabarits et.al.|[2208.13761v1](http://arxiv.org/abs/2208.13761v1)|null|
 |**2022-08-29**|**Simple and Rigorous Proof Method for Practical Security of Quantum Key Distribution in the Single-Qubit Regime Using Mismatched Basis Measurements**|Michel Boyer et.al.|[2208.13754v1](http://arxiv.org/abs/2208.13754v1)|null|
@@ -677,6 +697,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-30**|**Analysis of Distributed Deep Learning in the Cloud**|Aakash Sharma et.al.|[2208.14344v1](http://arxiv.org/abs/2208.14344v1)|null|
+|**2022-08-30**|**EasyScale: Accuracy-consistent Elastic Training for Deep Learning**|Mingzhen Li et.al.|[2208.14228v1](http://arxiv.org/abs/2208.14228v1)|null|
+|**2022-08-30**|**The BioExcel methodology for developing dynamic, scalable, reliable and portable computational biomolecular workflows**|Jorge Ejarque et.al.|[2208.14130v1](http://arxiv.org/abs/2208.14130v1)|null|
+|**2022-08-30**|**On Temporal Isolation Assessment in Virtualized Railway Signaling as a Service Systems**|Domenico Cotroneo et.al.|[2208.14109v1](http://arxiv.org/abs/2208.14109v1)|null|
 |**2022-08-28**|**Asynchronous Training Schemes in Distributed Learning with Time Delay**|Haoxiang Wang et.al.|[2208.13154v1](http://arxiv.org/abs/2208.13154v1)|null|
 |**2022-08-26**|**White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**|Man Zhang et.al.|[2208.12743v1](http://arxiv.org/abs/2208.12743v1)|null|
 |**2022-08-26**|**Flexible Vertical Federated Learning with Heterogeneous Parties**|Timothy Castiglia et.al.|[2208.12672v1](http://arxiv.org/abs/2208.12672v1)|**[link](https://github.com/rpi-nsl/flex-vfl)**|
