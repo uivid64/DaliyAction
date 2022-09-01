@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-08-31, **Concept Gradient: Concept-based Interpretation Without Linear Assumption**, Andrew Bai et.al., Paper: [http://arxiv.org/abs/2208.14966v1](http://arxiv.org/abs/2208.14966v1)
+- 2022-08-31, **Inference of Mixed Graphical Models for Dichotomous Phenotypes using Markov Random Field Model**, Jaehyun Park et.al., Paper: [http://arxiv.org/abs/2208.14959v1](http://arxiv.org/abs/2208.14959v1)
+- 2022-08-31, **Clamping effect on temperature-induced valence transition in epitaxial EuPd$_2$Si$_2$ thin films grown on MgO(001)**, Sebastian Kölsch et.al., Paper: [http://arxiv.org/abs/2208.14912v1](http://arxiv.org/abs/2208.14912v1)
+- 2022-08-31, **Experiments On A Conduction Cooled Superconducting Radio Frequency Cavity With Field Emission Cathode**, Y. Ji et.al., Paper: [http://arxiv.org/abs/2208.14905v1](http://arxiv.org/abs/2208.14905v1)
+- 2022-08-31, **Gyrokinetic simulations of turbulence and zonal flows driven by steep profile gradients using a delta-f approach with an evolving background Maxwellian**, Moahan Murugappan et.al., Paper: [http://arxiv.org/abs/2208.14862v1](http://arxiv.org/abs/2208.14862v1)
+- 2022-08-31, **QuantNAS for super resolution: searching for efficient quantization-friendly architectures against quantization noise**, Egor Shvetsov et.al., Paper: [http://arxiv.org/abs/2208.14839v1](http://arxiv.org/abs/2208.14839v1)
+- 2022-08-31, **Predicting spatial distribution of Palmer Drought Severity Index**, V. Grabar et.al., Paper: [http://arxiv.org/abs/2208.14833v1](http://arxiv.org/abs/2208.14833v1)
+- 2022-08-31, **Sparsification of the regularized magnetic Laplacian with multi-type spanning forests**, Michaël Fanuel et.al., Paper: [http://arxiv.org/abs/2208.14797v1](http://arxiv.org/abs/2208.14797v1)
+- 2022-08-31, **Computing all-vs-all MEMs in run-length encoded collections of HiFi reads**, Diego Díaz-Domínguez et.al., Paper: [http://arxiv.org/abs/2208.14787v1](http://arxiv.org/abs/2208.14787v1)
+- 2022-08-31, **Accelerating Deep Unrolling Networks via Dimensionality Reduction**, Junqi Tang et.al., Paper: [http://arxiv.org/abs/2208.14784v1](http://arxiv.org/abs/2208.14784v1)
 - 2022-08-30, **Deep Spatial and Tonal Optimisation for Diffusion Inpainting**, Pascal Peter et.al., Paper: [http://arxiv.org/abs/2208.14371v1](http://arxiv.org/abs/2208.14371v1)
 - 2022-08-30, **SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes**, Partha Das et.al., Paper: [http://arxiv.org/abs/2208.14369v1](http://arxiv.org/abs/2208.14369v1)
 - 2022-08-30, **Towards robust music source separation on loud commercial music**, Chang-Bin Jeon et.al., Paper: [http://arxiv.org/abs/2208.14355v1](http://arxiv.org/abs/2208.14355v1)
@@ -537,6 +547,16 @@
 
 ## Distributed Training
 
+- 2022-08-31, **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2208.15001v1](http://arxiv.org/abs/2208.15001v1)
+- 2022-08-31, **On the two-point function of the one-dimensional KPZ equation**, Sergio I. López et.al., Paper: [http://arxiv.org/abs/2208.14987v1](http://arxiv.org/abs/2208.14987v1)
+- 2022-08-31, **Primordial black holes and gravitational waves from dissipation during inflation**, Guillermo Ballesteros et.al., Paper: [http://arxiv.org/abs/2208.14978v1](http://arxiv.org/abs/2208.14978v1)
+- 2022-08-31, **Exclusive: Elite Hiring, Disparities, and Solutions**, Soumitra Shukla et.al., Paper: [http://arxiv.org/abs/2208.14972v1](http://arxiv.org/abs/2208.14972v1)
+- 2022-08-31, **Zero-day DDoS Attack Detection**, Cameron Boeder et.al., Paper: [http://arxiv.org/abs/2208.14971v1](http://arxiv.org/abs/2208.14971v1)
+- 2022-08-31, **Implications of Jupiter Inward Gas-Driven Migration for the Inner Solar System**, Rogerio Deienno et.al., Paper: [http://arxiv.org/abs/2208.14970v1](http://arxiv.org/abs/2208.14970v1)
+- 2022-08-31, **Replica symmetry breaking for Ulam's problem**, P. Krabbe et.al., Paper: [http://arxiv.org/abs/2208.14955v1](http://arxiv.org/abs/2208.14955v1)
+- 2022-08-31, **Statistical inference for multivariate extremes via a geometric approach**, Jennifer Wadsworth et.al., Paper: [http://arxiv.org/abs/2208.14951v1](http://arxiv.org/abs/2208.14951v1)
+- 2022-08-31, **The EDGE-CALIFA survey: the role of spiral arms and bars in driving central molecular gas concentrations**, Si-Yue Yu et.al., Paper: [http://arxiv.org/abs/2208.14950v1](http://arxiv.org/abs/2208.14950v1)
+- 2022-08-31, **Limiting spectral distribution for large sample correlation matrices**, Nina Dörnemann et.al., Paper: [http://arxiv.org/abs/2208.14948v1](http://arxiv.org/abs/2208.14948v1)
 - 2022-08-30, **Fine-Grained Liquid Democracy for Cumulative Ballots**, Matthias Köppe et.al., Paper: [http://arxiv.org/abs/2208.14441v1](http://arxiv.org/abs/2208.14441v1)
 - 2022-08-30, **Bayesian parameter estimation for targeted anisotropic gravitational-wave background**, Leo Tsukada et.al., Paper: [http://arxiv.org/abs/2208.14421v1](http://arxiv.org/abs/2208.14421v1)
 - 2022-08-30, **On the (Im)Possibility of Estimating Various Notions of Differential Privacy**, Daniele Gorla et.al., Paper: [http://arxiv.org/abs/2208.14414v1](http://arxiv.org/abs/2208.14414v1)
@@ -580,6 +600,7 @@
 
 ## Distributed Deep Learning
 
+- 2022-08-31, **Synchronous High-frequency Distributed Readout For Edge Processing At The Fermilab Main Injector And Recycler**, J. R. Berlioz et.al., Paper: [http://arxiv.org/abs/2208.14873v1](http://arxiv.org/abs/2208.14873v1)
 - 2022-08-30, **Analysis of Distributed Deep Learning in the Cloud**, Aakash Sharma et.al., Paper: [http://arxiv.org/abs/2208.14344v1](http://arxiv.org/abs/2208.14344v1)
 - 2022-08-30, **EasyScale: Accuracy-consistent Elastic Training for Deep Learning**, Mingzhen Li et.al., Paper: [http://arxiv.org/abs/2208.14228v1](http://arxiv.org/abs/2208.14228v1)
 - 2022-08-30, **The BioExcel methodology for developing dynamic, scalable, reliable and portable computational biomolecular workflows**, Jorge Ejarque et.al., Paper: [http://arxiv.org/abs/2208.14130v1](http://arxiv.org/abs/2208.14130v1)
