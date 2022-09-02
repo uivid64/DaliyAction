@@ -1,4 +1,4 @@
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## SLAM
 
@@ -609,7 +609,7 @@
 |**2022-08-31**|**Experiments On A Conduction Cooled Superconducting Radio Frequency Cavity With Field Emission Cathode**|Y. Ji et.al.|[2208.14905v1](http://arxiv.org/abs/2208.14905v1)|null|
 |**2022-08-31**|**Gyrokinetic simulations of turbulence and zonal flows driven by steep profile gradients using a delta-f approach with an evolving background Maxwellian**|Moahan Murugappan et.al.|[2208.14862v1](http://arxiv.org/abs/2208.14862v1)|null|
 |**2022-08-31**|**QuantNAS for super resolution: searching for efficient quantization-friendly architectures against quantization noise**|Egor Shvetsov et.al.|[2208.14839v1](http://arxiv.org/abs/2208.14839v1)|null|
-|**2022-08-31**|**Predicting spatial distribution of Palmer Drought Severity Index**|V. Grabar et.al.|[2208.14833v1](http://arxiv.org/abs/2208.14833v1)|null|
+|**2022-09-01**|**Predicting spatial distribution of Palmer Drought Severity Index**|V. Grabar et.al.|[2208.14833v2](http://arxiv.org/abs/2208.14833v2)|null|
 |**2022-08-31**|**Sparsification of the regularized magnetic Laplacian with multi-type spanning forests**|Michaël Fanuel et.al.|[2208.14797v1](http://arxiv.org/abs/2208.14797v1)|null|
 |**2022-08-31**|**Computing all-vs-all MEMs in run-length encoded collections of HiFi reads**|Diego Díaz-Domínguez et.al.|[2208.14787v1](http://arxiv.org/abs/2208.14787v1)|null|
 |**2022-08-31**|**Accelerating Deep Unrolling Networks via Dimensionality Reduction**|Junqi Tang et.al.|[2208.14784v1](http://arxiv.org/abs/2208.14784v1)|null|
