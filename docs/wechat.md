@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-01, **Learning with Differentiable Algorithms**, Felix Petersen et.al., Paper: [http://arxiv.org/abs/2209.00616v1](http://arxiv.org/abs/2209.00616v1)
+- 2022-09-01, **On the Energy-Efficiency Maximization for IRS-Assisted MIMOME Wiretap Channels**, Anshu Mukherjee et.al., Paper: [http://arxiv.org/abs/2209.00581v1](http://arxiv.org/abs/2209.00581v1)
+- 2022-09-01, **A Predictor-Corrector Strategy for Adaptivity in Dynamical Low-Rank Approximations**, Cory Hauck et.al., Paper: [http://arxiv.org/abs/2209.00550v1](http://arxiv.org/abs/2209.00550v1)
+- 2022-09-01, **Actor Prioritized Experience Replay**, Baturay Saglam et.al., Paper: [http://arxiv.org/abs/2209.00532v1](http://arxiv.org/abs/2209.00532v1), Code: **[https://github.com/baturaysaglam/la3p](https://github.com/baturaysaglam/la3p)**
+- 2022-09-01, **Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations**, Axel Laborieux et.al., Paper: [http://arxiv.org/abs/2209.00530v1](http://arxiv.org/abs/2209.00530v1)
+- 2022-09-01, **Quantum Mixed State Compiling**, Nic Ezzell et.al., Paper: [http://arxiv.org/abs/2209.00528v1](http://arxiv.org/abs/2209.00528v1)
+- 2022-09-01, **Geometric thermodynamics for the Fokker-Planck equation: Stochastic thermodynamic links between information geometry and optimal transport**, Sosuke Ito et.al., Paper: [http://arxiv.org/abs/2209.00527v1](http://arxiv.org/abs/2209.00527v1)
+- 2022-09-01, **Mass-driven vortex collisions in flat superfluids**, Andrea Richaud et.al., Paper: [http://arxiv.org/abs/2209.00493v1](http://arxiv.org/abs/2209.00493v1)
+- 2022-09-01, **Towards Hexapod Gait Adaptation using Enumerative Encoding of Gaits: Gradient-Free Heuristics**, Victor Parque et.al., Paper: [http://arxiv.org/abs/2209.00486v1](http://arxiv.org/abs/2209.00486v1)
+- 2022-09-01, **Optimal Regularized Online Convex Allocation by Adaptive Re-Solving**, Wanteng Ma et.al., Paper: [http://arxiv.org/abs/2209.00399v1](http://arxiv.org/abs/2209.00399v1)
 - 2022-08-31, **Concept Gradient: Concept-based Interpretation Without Linear Assumption**, Andrew Bai et.al., Paper: [http://arxiv.org/abs/2208.14966v1](http://arxiv.org/abs/2208.14966v1)
 - 2022-08-31, **Inference of Mixed Graphical Models for Dichotomous Phenotypes using Markov Random Field Model**, Jaehyun Park et.al., Paper: [http://arxiv.org/abs/2208.14959v1](http://arxiv.org/abs/2208.14959v1)
 - 2022-08-31, **Clamping effect on temperature-induced valence transition in epitaxial EuPd$_2$Si$_2$ thin films grown on MgO(001)**, Sebastian Kölsch et.al., Paper: [http://arxiv.org/abs/2208.14912v1](http://arxiv.org/abs/2208.14912v1)
@@ -547,6 +557,16 @@
 
 ## Distributed Training
 
+- 2022-09-01, **Coagulation equations for non-spherical clusters**, Iulia Cristian et.al., Paper: [http://arxiv.org/abs/2209.00644v1](http://arxiv.org/abs/2209.00644v1)
+- 2022-09-01, **Fair mapping**, Sébastien Gambs et.al., Paper: [http://arxiv.org/abs/2209.00617v1](http://arxiv.org/abs/2209.00617v1)
+- 2022-09-01, **ID and OOD Performance Are Sometimes Inversely Correlated on Real-world Datasets**, Damien Teney et.al., Paper: [http://arxiv.org/abs/2209.00613v1](http://arxiv.org/abs/2209.00613v1)
+- 2022-09-01, **Cross Entropy Benchmark for Measurement-Induced Phase Transitions**, Yaodong Li et.al., Paper: [http://arxiv.org/abs/2209.00609v1](http://arxiv.org/abs/2209.00609v1)
+- 2022-09-01, **Python Implementation of the Dynamic Distributed Dimensional Data Model**, Hayden Jananthan et.al., Paper: [http://arxiv.org/abs/2209.00602v1](http://arxiv.org/abs/2209.00602v1)
+- 2022-09-01, **Reproducible Cross-border High Performance Computing for Scientific Portals**, Kessy Abarenkov et.al., Paper: [http://arxiv.org/abs/2209.00596v1](http://arxiv.org/abs/2209.00596v1)
+- 2022-09-01, **Measurement of the top-quark mass using a leptonic invariant mass in $pp$ collisions at $\sqrt{s}=13~\textrm{TeV}$ with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2209.00583v1](http://arxiv.org/abs/2209.00583v1)
+- 2022-09-01, **Analysis of indistinguishable trajectories of a nonholonomic vehicle subject to range measurements**, Francesco Riz et.al., Paper: [http://arxiv.org/abs/2209.00567v1](http://arxiv.org/abs/2209.00567v1)
+- 2022-09-01, **Growth parameters of Bi0.1Y2.9Fe5O12 thin films for high frequency applications**, Ganesh Gurjar et.al., Paper: [http://arxiv.org/abs/2209.00558v1](http://arxiv.org/abs/2209.00558v1)
+- 2022-09-01, **A gap at 1 au in the disk of DI Cha A revealed by infrared interferometry**, Tímea Juhász et.al., Paper: [http://arxiv.org/abs/2209.00553v1](http://arxiv.org/abs/2209.00553v1)
 - 2022-08-31, **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2208.15001v1](http://arxiv.org/abs/2208.15001v1)
 - 2022-08-31, **On the two-point function of the one-dimensional KPZ equation**, Sergio I. López et.al., Paper: [http://arxiv.org/abs/2208.14987v1](http://arxiv.org/abs/2208.14987v1)
 - 2022-08-31, **Primordial black holes and gravitational waves from dissipation during inflation**, Guillermo Ballesteros et.al., Paper: [http://arxiv.org/abs/2208.14978v1](http://arxiv.org/abs/2208.14978v1)
