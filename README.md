@@ -1,4 +1,4 @@
-## Updated on 2022.09.03
+## Updated on 2022.09.04
 
 ## SLAM
 
@@ -607,7 +607,7 @@
 |**2022-09-01**|**On the Energy-Efficiency Maximization for IRS-Assisted MIMOME Wiretap Channels**|Anshu Mukherjee et.al.|[2209.00581v1](http://arxiv.org/abs/2209.00581v1)|null|
 |**2022-09-01**|**A Predictor-Corrector Strategy for Adaptivity in Dynamical Low-Rank Approximations**|Cory Hauck et.al.|[2209.00550v1](http://arxiv.org/abs/2209.00550v1)|null|
 |**2022-09-01**|**Actor Prioritized Experience Replay**|Baturay Saglam et.al.|[2209.00532v1](http://arxiv.org/abs/2209.00532v1)|**[link](https://github.com/baturaysaglam/la3p)**|
-|**2022-09-01**|**Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations**|Axel Laborieux et.al.|[2209.00530v1](http://arxiv.org/abs/2209.00530v1)|null|
+|**2022-09-01**|**Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations**|Axel Laborieux et.al.|[2209.00530v1](http://arxiv.org/abs/2209.00530v1)|**[link](https://github.com/Laborieux-Axel/holomorphic_eqprop)**|
 |**2022-09-01**|**Quantum Mixed State Compiling**|Nic Ezzell et.al.|[2209.00528v1](http://arxiv.org/abs/2209.00528v1)|null|
 |**2022-09-01**|**Geometric thermodynamics for the Fokker-Planck equation: Stochastic thermodynamic links between information geometry and optimal transport**|Sosuke Ito et.al.|[2209.00527v1](http://arxiv.org/abs/2209.00527v1)|null|
 |**2022-09-01**|**Mass-driven vortex collisions in flat superfluids**|Andrea Richaud et.al.|[2209.00493v1](http://arxiv.org/abs/2209.00493v1)|null|
