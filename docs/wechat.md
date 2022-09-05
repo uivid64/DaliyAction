@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-02, **Revisiting Outer Optimization in Adversarial Training**, Ali Dabouei et.al., Paper: [http://arxiv.org/abs/2209.01199v1](http://arxiv.org/abs/2209.01199v1)
+- 2022-09-02, **In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**, Alexander J McGhee et.al., Paper: [http://arxiv.org/abs/2209.01164v1](http://arxiv.org/abs/2209.01164v1)
+- 2022-09-02, **Future Gradient Descent for Adapting the Temporal Shifting Data Distribution in Online Recommendation Systems**, Mao Ye et.al., Paper: [http://arxiv.org/abs/2209.01143v1](http://arxiv.org/abs/2209.01143v1)
+- 2022-09-02, **Differentiable Optimal Control via Differential Dynamic Programming**, Traiko Dinev et.al., Paper: [http://arxiv.org/abs/2209.01117v1](http://arxiv.org/abs/2209.01117v1)
+- 2022-09-02, **Transport dynamics study of laser-accelerated proton beams and design of double achromatic beam translation system**, J. G. Zhu et.al., Paper: [http://arxiv.org/abs/2209.01082v1](http://arxiv.org/abs/2209.01082v1)
+- 2022-09-02, **Density of subalgebras of Lipschitz functions in metric Sobolev spaces and applications to Wasserstein Sobolev spaces**, Massimo Fornasier et.al., Paper: [http://arxiv.org/abs/2209.00974v1](http://arxiv.org/abs/2209.00974v1)
+- 2022-09-02, **Reducing The Amortization Gap of Entropy Bottleneck In End-to-End Image Compression**, Muhammet Balcilar et.al., Paper: [http://arxiv.org/abs/2209.00964v1](http://arxiv.org/abs/2209.00964v1)
+- 2022-09-02, **Local Optimization Often is Ill-conditioned in Genetic Programming for Symbolic Regression**, Gabriel Kronberger et.al., Paper: [http://arxiv.org/abs/2209.00942v1](http://arxiv.org/abs/2209.00942v1)
+- 2022-09-02, **Edge-Aware Extended Star-Tetrix Transforms for CFA-Sampled Raw Camera Image Compression**, Taizo Suzuki et.al., Paper: [http://arxiv.org/abs/2209.00932v1](http://arxiv.org/abs/2209.00932v1)
+- 2022-09-02, **Large and non-linear permeability amplification with polymeric additives in hydrogel membranes**, Malak Alaa Eddine et.al., Paper: [http://arxiv.org/abs/2209.00907v1](http://arxiv.org/abs/2209.00907v1)
 - 2022-09-01, **Learning with Differentiable Algorithms**, Felix Petersen et.al., Paper: [http://arxiv.org/abs/2209.00616v1](http://arxiv.org/abs/2209.00616v1)
 - 2022-09-01, **On the Energy-Efficiency Maximization for IRS-Assisted MIMOME Wiretap Channels**, Anshu Mukherjee et.al., Paper: [http://arxiv.org/abs/2209.00581v1](http://arxiv.org/abs/2209.00581v1)
 - 2022-09-01, **A Predictor-Corrector Strategy for Adaptivity in Dynamical Low-Rank Approximations**, Cory Hauck et.al., Paper: [http://arxiv.org/abs/2209.00550v1](http://arxiv.org/abs/2209.00550v1)
@@ -557,6 +567,16 @@
 
 ## Distributed Training
 
+- 2022-09-02, **GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**, Vivian U et.al., Paper: [http://arxiv.org/abs/2209.01210v1](http://arxiv.org/abs/2209.01210v1)
+- 2022-09-02, **Co-Imitation: Learning Design and Behaviour by Imitation**, Chang Rajani et.al., Paper: [http://arxiv.org/abs/2209.01207v1](http://arxiv.org/abs/2209.01207v1)
+- 2022-09-02, **Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**, Han Wu et.al., Paper: [http://arxiv.org/abs/2209.01205v1](http://arxiv.org/abs/2209.01205v1)
+- 2022-09-02, **Petals: Collaborative Inference and Fine-tuning of Large Models**, Alexander Borzunov et.al., Paper: [http://arxiv.org/abs/2209.01188v1](http://arxiv.org/abs/2209.01188v1)
+- 2022-09-02, **Statistical analysis of initial state and final state response in heavy-ion collisions**, Nicolas Borghini et.al., Paper: [http://arxiv.org/abs/2209.01176v1](http://arxiv.org/abs/2209.01176v1)
+- 2022-09-02, **Optimal bump functions for shallow ReLU networks: Weight decay, depth separation and the curse of dimensionality**, Stephan Wojtowytsch et.al., Paper: [http://arxiv.org/abs/2209.01173v1](http://arxiv.org/abs/2209.01173v1)
+- 2022-09-02, **First Hitting Diffusion Models**, Mao Ye et.al., Paper: [http://arxiv.org/abs/2209.01170v1](http://arxiv.org/abs/2209.01170v1)
+- 2022-09-02, **The Fokker-Planck equation of the superstatistical fractional Brownian motion with application to passive tracers inside cytoplasm**, Claudio Runfola et.al., Paper: [http://arxiv.org/abs/2209.01167v1](http://arxiv.org/abs/2209.01167v1)
+- 2022-09-02, **ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos**, Xiaoyang Zou et.al., Paper: [http://arxiv.org/abs/2209.01148v1](http://arxiv.org/abs/2209.01148v1)
+- 2022-09-02, **Optimisation of the WEAVE target assignment algorithm**, Sarah Hughes et.al., Paper: [http://arxiv.org/abs/2209.01145v1](http://arxiv.org/abs/2209.01145v1)
 - 2022-09-01, **Coagulation equations for non-spherical clusters**, Iulia Cristian et.al., Paper: [http://arxiv.org/abs/2209.00644v1](http://arxiv.org/abs/2209.00644v1)
 - 2022-09-01, **Fair mapping**, Sébastien Gambs et.al., Paper: [http://arxiv.org/abs/2209.00617v1](http://arxiv.org/abs/2209.00617v1)
 - 2022-09-01, **ID and OOD Performance Are Sometimes Inversely Correlated on Real-world Datasets**, Damien Teney et.al., Paper: [http://arxiv.org/abs/2209.00613v1](http://arxiv.org/abs/2209.00613v1)
