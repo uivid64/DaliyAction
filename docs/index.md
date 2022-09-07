@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.06
+## Updated on 2022.09.07
 
 ## SLAM
 
@@ -608,7 +608,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-02**|**Revisiting Outer Optimization in Adversarial Training**|Ali Dabouei et.al.|[2209.01199v1](http://arxiv.org/abs/2209.01199v1)|null|
-|**2022-09-02**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v1](http://arxiv.org/abs/2209.01164v1)|null|
+|**2022-09-06**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v2](http://arxiv.org/abs/2209.01164v2)|null|
 |**2022-09-02**|**Future Gradient Descent for Adapting the Temporal Shifting Data Distribution in Online Recommendation Systems**|Mao Ye et.al.|[2209.01143v1](http://arxiv.org/abs/2209.01143v1)|null|
 |**2022-09-02**|**Differentiable Optimal Control via Differential Dynamic Programming**|Traiko Dinev et.al.|[2209.01117v1](http://arxiv.org/abs/2209.01117v1)|null|
 |**2022-09-02**|**Transport dynamics study of laser-accelerated proton beams and design of double achromatic beam translation system**|J. G. Zhu et.al.|[2209.01082v1](http://arxiv.org/abs/2209.01082v1)|null|
