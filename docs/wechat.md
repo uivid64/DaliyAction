@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-06, **Bag of Tricks for FGSM Adversarial Training**, Zichao Li et.al., Paper: [http://arxiv.org/abs/2209.02684v1](http://arxiv.org/abs/2209.02684v1), Code: **[https://github.com/ucsc-vlaa/bag-of-tricks-for-fgsm-at](https://github.com/ucsc-vlaa/bag-of-tricks-for-fgsm-at)**
+- 2022-09-06, **Hardware Software Co-design of Statistical and Deep Learning Frameworks for Wideband Sensing on Zynq System on Chip**, Rohith Rajesh et.al., Paper: [http://arxiv.org/abs/2209.02661v1](http://arxiv.org/abs/2209.02661v1)
+- 2022-09-06, **Jacobian determinants for (nonlinear) gradient of planar $\infty$-harmonic functions and applications**, Hongjie Dong et.al., Paper: [http://arxiv.org/abs/2209.02659v1](http://arxiv.org/abs/2209.02659v1)
+- 2022-09-06, **Modeling and Active Learning for Experiments with Quantitative-Sequence Factors**, Qian Xiao et.al., Paper: [http://arxiv.org/abs/2209.02644v1](http://arxiv.org/abs/2209.02644v1)
+- 2022-09-06, **Multi-agent Deep Reinforcement Learning for Charge-sustaining Control of Multi-mode Hybrid Vehicles**, Min Hua et.al., Paper: [http://arxiv.org/abs/2209.02633v1](http://arxiv.org/abs/2209.02633v1)
+- 2022-09-06, **Deep filter bank regression for super-resolution of anisotropic MR brain images**, Samuel W. Remedios et.al., Paper: [http://arxiv.org/abs/2209.02611v1](http://arxiv.org/abs/2209.02611v1)
+- 2022-09-06, **Localized states in active fluids**, Luca Barberi et.al., Paper: [http://arxiv.org/abs/2209.02581v1](http://arxiv.org/abs/2209.02581v1)
+- 2022-09-06, **Cross Modal Compression: Towards Human-comprehensible Semantic Compression**, Jiguo Li et.al., Paper: [http://arxiv.org/abs/2209.02574v1](http://arxiv.org/abs/2209.02574v1)
+- 2022-09-06, **Finite-Time Error Bounds for Greedy-GQ**, Yue Wang et.al., Paper: [http://arxiv.org/abs/2209.02555v1](http://arxiv.org/abs/2209.02555v1)
+- 2022-09-06, **A machine learning approach to photometric metallicities of giant stars**, Connor P. Fallows et.al., Paper: [http://arxiv.org/abs/2209.02553v1](http://arxiv.org/abs/2209.02553v1)
 - 2022-09-02, **Revisiting Outer Optimization in Adversarial Training**, Ali Dabouei et.al., Paper: [http://arxiv.org/abs/2209.01199v1](http://arxiv.org/abs/2209.01199v1)
 - 2022-09-06, **In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**, Alexander J McGhee et.al., Paper: [http://arxiv.org/abs/2209.01164v2](http://arxiv.org/abs/2209.01164v2)
 - 2022-09-02, **Future Gradient Descent for Adapting the Temporal Shifting Data Distribution in Online Recommendation Systems**, Mao Ye et.al., Paper: [http://arxiv.org/abs/2209.01143v1](http://arxiv.org/abs/2209.01143v1)
@@ -567,6 +577,16 @@
 
 ## Distributed Training
 
+- 2022-09-06, **Reshaping and ejection processes on rubble-pile asteroids by impacts**, S. D. Raducan et.al., Paper: [http://arxiv.org/abs/2209.02677v1](http://arxiv.org/abs/2209.02677v1)
+- 2022-09-06, **Orchestrating Collaborative Cybersecurity: A Secure Framework for Distributed Privacy-Preserving Threat Intelligence Sharing**, Juan R. Trocoso-Pastoriza et.al., Paper: [http://arxiv.org/abs/2209.02676v1](http://arxiv.org/abs/2209.02676v1)
+- 2022-09-06, **Symphony: Cosmological Zoom-in Simulation Suites over Four Decades of Host Halo Mass**, Ethan O. Nadler et.al., Paper: [http://arxiv.org/abs/2209.02675v1](http://arxiv.org/abs/2209.02675v1)
+- 2022-09-06, **TAPA: A Scalable Task-Parallel Dataflow Programming Framework for Modern FPGAs with Co-Optimization of HLS and Physical Design**, Licheng Guo et.al., Paper: [http://arxiv.org/abs/2209.02663v1](http://arxiv.org/abs/2209.02663v1)
+- 2022-09-06, **Jacobian determinants for (nonlinear) gradient of planar $\infty$-harmonic functions and applications**, Hongjie Dong et.al., Paper: [http://arxiv.org/abs/2209.02659v1](http://arxiv.org/abs/2209.02659v1)
+- 2022-09-06, **Polynuclear growth and the Toda lattice**, Konstantin Matetski et.al., Paper: [http://arxiv.org/abs/2209.02643v1](http://arxiv.org/abs/2209.02643v1)
+- 2022-09-06, **Presolar O- and C-anomalous grains in unequilibrated ordinary chondrite matrices**, Jens Barosch et.al., Paper: [http://arxiv.org/abs/2209.02632v1](http://arxiv.org/abs/2209.02632v1)
+- 2022-09-06, **Generalized quasi, Ioffe-time, and pseudo quark distributions of the pion in the Nambu--Jona-Lasinio model**, Vanamali Shastry et.al., Paper: [http://arxiv.org/abs/2209.02619v1](http://arxiv.org/abs/2209.02619v1)
+- 2022-09-06, **Merged-GHCIDR: Geometrical Approach to Reduce Image Data**, Devvrat Joshi et.al., Paper: [http://arxiv.org/abs/2209.02609v1](http://arxiv.org/abs/2209.02609v1)
+- 2022-09-06, **Resonant leptoquark at NLO with POWHEG**, Luca Buonocore et.al., Paper: [http://arxiv.org/abs/2209.02599v1](http://arxiv.org/abs/2209.02599v1)
 - 2022-09-02, **GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**, Vivian U et.al., Paper: [http://arxiv.org/abs/2209.01210v1](http://arxiv.org/abs/2209.01210v1)
 - 2022-09-02, **Co-Imitation: Learning Design and Behaviour by Imitation**, Chang Rajani et.al., Paper: [http://arxiv.org/abs/2209.01207v1](http://arxiv.org/abs/2209.01207v1)
 - 2022-09-02, **Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**, Han Wu et.al., Paper: [http://arxiv.org/abs/2209.01205v1](http://arxiv.org/abs/2209.01205v1)
@@ -640,6 +660,10 @@
 
 ## Distributed Deep Learning
 
+- 2022-09-06, **TSO-DSO Coordination for the Procurement of Balancing and Congestion Management Services: Assessment of a meshed-to-meshed topology**, Leandro Lind et.al., Paper: [http://arxiv.org/abs/2209.02360v1](http://arxiv.org/abs/2209.02360v1)
+- 2022-09-05, **A Formal Theory of Choreographic Programming**, Luís Cruz-Filipe et.al., Paper: [http://arxiv.org/abs/2209.01886v1](http://arxiv.org/abs/2209.01886v1)
+- 2022-09-04, **Recursive Gaussian Process over graphs for Integrating Multi-timescale Measurements in Low-Observable Distribution Systems**, Shweta Dahale et.al., Paper: [http://arxiv.org/abs/2209.01703v1](http://arxiv.org/abs/2209.01703v1)
+- 2022-09-03, **Ridgeline: A 2D Roofline Model for Distributed Systems**, Fabio Checconi et.al., Paper: [http://arxiv.org/abs/2209.01368v1](http://arxiv.org/abs/2209.01368v1)
 - 2022-08-31, **Synchronous High-frequency Distributed Readout For Edge Processing At The Fermilab Main Injector And Recycler**, J. R. Berlioz et.al., Paper: [http://arxiv.org/abs/2208.14873v1](http://arxiv.org/abs/2208.14873v1)
 - 2022-08-30, **Analysis of Distributed Deep Learning in the Cloud**, Aakash Sharma et.al., Paper: [http://arxiv.org/abs/2208.14344v1](http://arxiv.org/abs/2208.14344v1)
 - 2022-08-30, **EasyScale: Accuracy-consistent Elastic Training for Deep Learning**, Mingzhen Li et.al., Paper: [http://arxiv.org/abs/2208.14228v1](http://arxiv.org/abs/2208.14228v1)
