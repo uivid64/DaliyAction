@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.07
+## Updated on 2022.09.08
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Riemannian optimization for non-centered mixture of scaled Gaussian distributions**|Antoine Collas et.al.|[2209.03315v1](http://arxiv.org/abs/2209.03315v1)|null|
+|**2022-09-07**|**Deep low-frequency radio observations of Abell 2256 II: The ultra-steep spectrum radio halo**|K. Rajpurohit et.al.|[2209.03288v1](http://arxiv.org/abs/2209.03288v1)|null|
+|**2022-09-07**|**Compact and Robust Deep Learning Architecture for Fluorescence Lifetime Imaging and FPGA Implementation**|Zhenya Zang et.al.|[2209.03272v1](http://arxiv.org/abs/2209.03272v1)|null|
+|**2022-09-07**|**A Comprehensive Study of Adjoint-Based Optimization of Non-Linear Systems with Application to Burgers' Equation**|Alexandru Fikl et.al.|[2209.03270v1](http://arxiv.org/abs/2209.03270v1)|null|
+|**2022-09-07**|**Manifold Free Riemannian Optimization**|Boris Shustin et.al.|[2209.03269v1](http://arxiv.org/abs/2209.03269v1)|null|
+|**2022-09-07**|**Feasibility of a Pulsed Ponderomotive Phase Plate for Electron Beams**|K. A. H. van Leeuwen et.al.|[2209.03201v1](http://arxiv.org/abs/2209.03201v1)|null|
+|**2022-09-07**|**Wulff shape symmetry of solutions to overdetermined problems for Finsler Monge-Ampère equations**|Andrea Cianchi et.al.|[2209.03194v1](http://arxiv.org/abs/2209.03194v1)|null|
+|**2022-09-07**|**On the Effectiveness of Compact Biomedical Transformers**|Omid Rohanian et.al.|[2209.03182v1](http://arxiv.org/abs/2209.03182v1)|null|
+|**2022-09-07**|**On the utility and protection of optimization with differential privacy and classic regularization techniques**|Eugenio Lomurno et.al.|[2209.03175v1](http://arxiv.org/abs/2209.03175v1)|null|
+|**2022-09-07**|**Parallel and Streaming Wavelet Neural Networks for Classification and Regression under Apache Spark**|Eduru Harindra Venkatesh et.al.|[2209.03056v1](http://arxiv.org/abs/2209.03056v1)|null|
 |**2022-09-06**|**Bag of Tricks for FGSM Adversarial Training**|Zichao Li et.al.|[2209.02684v1](http://arxiv.org/abs/2209.02684v1)|**[link](https://github.com/ucsc-vlaa/bag-of-tricks-for-fgsm-at)**|
 |**2022-09-06**|**Hardware Software Co-design of Statistical and Deep Learning Frameworks for Wideband Sensing on Zynq System on Chip**|Rohith Rajesh et.al.|[2209.02661v1](http://arxiv.org/abs/2209.02661v1)|null|
 |**2022-09-06**|**Jacobian determinants for (nonlinear) gradient of planar $\infty$-harmonic functions and applications**|Hongjie Dong et.al.|[2209.02659v1](http://arxiv.org/abs/2209.02659v1)|null|
@@ -692,6 +702,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Large Scale Enrichment and Statistical Cyber Characterization of Network Traffic**|Ivan Kawaminami et.al.|[2209.03341v1](http://arxiv.org/abs/2209.03341v1)|null|
+|**2022-09-07**|**On the Wasserstein median of probability measures**|Kisung You et.al.|[2209.03318v1](http://arxiv.org/abs/2209.03318v1)|null|
+|**2022-09-07**|**On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation**|Changtong Zan et.al.|[2209.03316v1](http://arxiv.org/abs/2209.03316v1)|null|
+|**2022-09-07**|**Riemannian optimization for non-centered mixture of scaled Gaussian distributions**|Antoine Collas et.al.|[2209.03315v1](http://arxiv.org/abs/2209.03315v1)|null|
+|**2022-09-07**|**Deep low-frequency radio observations of Abell 2256 II: The ultra-steep spectrum radio halo**|K. Rajpurohit et.al.|[2209.03288v1](http://arxiv.org/abs/2209.03288v1)|null|
+|**2022-09-07**|**Center-of-mass energy determination using $\mathrm{e}^{+} \mathrm{e}^{-} \to μ^{+} μ^{-} (γ)$ events at future $\mathrm{e}^{+} \mathrm{e}^{-}$ colliders**|Brendon Madison et.al.|[2209.03281v1](http://arxiv.org/abs/2209.03281v1)|null|
+|**2022-09-07**|**Flavour anti-$k_\text{T}$ algorithm applied to $Wb\bar{b}$ production at the LHC**|Heribertus Bayu Hartanto et.al.|[2209.03280v1](http://arxiv.org/abs/2209.03280v1)|null|
+|**2022-09-07**|**Detectability of Rotational Modulation in Kepler Sun-like Stars as a Function of Age**|Kento Masuda et.al.|[2209.03279v1](http://arxiv.org/abs/2209.03279v1)|null|
+|**2022-09-07**|**Separation cutoff for Activated Random Walks**|Alexandre Bristiel et.al.|[2209.03274v1](http://arxiv.org/abs/2209.03274v1)|null|
+|**2022-09-07**|**No More Attacks on Proof-of-Stake Ethereum?**|Francesco D'Amato et.al.|[2209.03255v1](http://arxiv.org/abs/2209.03255v1)|null|
 |**2022-09-06**|**Reshaping and ejection processes on rubble-pile asteroids by impacts**|S. D. Raducan et.al.|[2209.02677v1](http://arxiv.org/abs/2209.02677v1)|null|
 |**2022-09-06**|**Orchestrating Collaborative Cybersecurity: A Secure Framework for Distributed Privacy-Preserving Threat Intelligence Sharing**|Juan R. Trocoso-Pastoriza et.al.|[2209.02676v1](http://arxiv.org/abs/2209.02676v1)|null|
 |**2022-09-06**|**Symphony: Cosmological Zoom-in Simulation Suites over Four Decades of Host Halo Mass**|Ethan O. Nadler et.al.|[2209.02675v1](http://arxiv.org/abs/2209.02675v1)|null|
