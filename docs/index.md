@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.08
+## Updated on 2022.09.09
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-08**|**Global well-posedness of the 1d compressible Navier-Stokes system with rough data**|Ke Chen et.al.|[2209.03938v1](http://arxiv.org/abs/2209.03938v1)|null|
+|**2022-09-08**|**SE(3)-DiffusionFields: Learning cost functions for joint grasp and motion optimization through diffusion**|Julen Urain et.al.|[2209.03855v1](http://arxiv.org/abs/2209.03855v1)|null|
+|**2022-09-08**|**Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems**|Darin Acosta et.al.|[2209.03794v1](http://arxiv.org/abs/2209.03794v1)|null|
+|**2022-09-08**|**Cepheid Metallicity in the Leavitt Law (C- MetaLL) survey: II.High-resolution spectroscopy of the most metal poor Galactic Cepheids**|E. Trentin et.al.|[2209.03792v1](http://arxiv.org/abs/2209.03792v1)|null|
+|**2022-09-08**|**Stochastic gradient descent with gradient estimator for categorical features**|Paul Peseux et.al.|[2209.03771v1](http://arxiv.org/abs/2209.03771v1)|null|
+|**2022-09-08**|**Incorporating Locality of Images to Generate Targeted Transferable Adversarial Examples**|Zhipeng Wei et.al.|[2209.03716v1](http://arxiv.org/abs/2209.03716v1)|null|
+|**2022-09-08**|**Losing momentum in continuous-time stochastic optimisation**|Kexin Jin et.al.|[2209.03705v1](http://arxiv.org/abs/2209.03705v1)|null|
+|**2022-09-08**|**Training Scale-Invariant Neural Networks on the Sphere Can Happen in Three Regimes**|Maxim Kodryan et.al.|[2209.03695v1](http://arxiv.org/abs/2209.03695v1)|null|
+|**2022-09-08**|**Spin polarization measurements in relativistic heavy-ion collisions**|Debojit Sarkar et.al.|[2209.03689v1](http://arxiv.org/abs/2209.03689v1)|null|
+|**2022-09-08**|**Tuning of Quantum Paraelectricity of M-type Hexaferrite BaFe12O19 by External Parameters**|Jing Zhang et.al.|[2209.03680v1](http://arxiv.org/abs/2209.03680v1)|null|
 |**2022-09-07**|**Riemannian optimization for non-centered mixture of scaled Gaussian distributions**|Antoine Collas et.al.|[2209.03315v1](http://arxiv.org/abs/2209.03315v1)|null|
 |**2022-09-07**|**Deep low-frequency radio observations of Abell 2256 II: The ultra-steep spectrum radio halo**|K. Rajpurohit et.al.|[2209.03288v1](http://arxiv.org/abs/2209.03288v1)|null|
 |**2022-09-07**|**Compact and Robust Deep Learning Architecture for Fluorescence Lifetime Imaging and FPGA Implementation**|Zhenya Zang et.al.|[2209.03272v1](http://arxiv.org/abs/2209.03272v1)|null|
@@ -702,6 +712,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-08**|**Data Feedback Loops: Model-driven Amplification of Dataset Biases**|Rohan Taori et.al.|[2209.03942v1](http://arxiv.org/abs/2209.03942v1)|**[link](https://github.com/rtaori/data_feedback)**|
+|**2022-09-08**|**Supernovae double-peaked light curves from double-nickel distribution**|Mariana Orellana et.al.|[2209.03923v1](http://arxiv.org/abs/2209.03923v1)|null|
+|**2022-09-08**|**N$^3$LO+N$^3$LL QCD improved Higgs pair cross sections**|A. H. Ajjath et.al.|[2209.03914v1](http://arxiv.org/abs/2209.03914v1)|null|
+|**2022-09-08**|**Distance estimates for AGB stars from parallax measurements**|M. Andriantsaralaza et.al.|[2209.03906v1](http://arxiv.org/abs/2209.03906v1)|null|
+|**2022-09-08**|**Random statistical analysis of transverse momentum spectra of strange particles and dependence of related parameters on centrality in high energy collisions at the LHC**|Xu-Hong Zhang et.al.|[2209.03894v1](http://arxiv.org/abs/2209.03894v1)|null|
+|**2022-09-08**|**What You See is What You Get: Local Labor Markets and Skill Acquisition**|Benjamin Niswonger et.al.|[2209.03892v1](http://arxiv.org/abs/2209.03892v1)|null|
+|**2022-09-08**|**A Framework for Evaluating Privacy-Utility Trade-off in Vertical Federated Learning**|Yan Kang et.al.|[2209.03885v1](http://arxiv.org/abs/2209.03885v1)|null|
+|**2022-09-08**|**Ballot-Polling Audits of Instant-Runoff Voting Elections with a Dirichlet-Tree Model**|Floyd Everest et.al.|[2209.03881v1](http://arxiv.org/abs/2209.03881v1)|null|
+|**2022-09-08**|**Two decades of X-ray observations of the isolated neutron star RX J1856.5-3754: detection of thermal and non-thermal hard X-rays and refined spin-down measurement**|Davide De Grandis et.al.|[2209.03874v1](http://arxiv.org/abs/2209.03874v1)|null|
+|**2022-09-08**|**Density, not radius, separates rocky and water-rich small planets orbiting M dwarf stars**|R. Luque et.al.|[2209.03871v1](http://arxiv.org/abs/2209.03871v1)|null|
 |**2022-09-07**|**Large Scale Enrichment and Statistical Cyber Characterization of Network Traffic**|Ivan Kawaminami et.al.|[2209.03341v1](http://arxiv.org/abs/2209.03341v1)|null|
 |**2022-09-07**|**On the Wasserstein median of probability measures**|Kisung You et.al.|[2209.03318v1](http://arxiv.org/abs/2209.03318v1)|null|
 |**2022-09-07**|**On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation**|Changtong Zan et.al.|[2209.03316v1](http://arxiv.org/abs/2209.03316v1)|**[link](https://github.com/zanchangtong/ptvsri)**|
@@ -797,6 +817,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-08**|**Assessing Active Distribution Network Flexibility: On the Effects of Nonlinearities and Nonconvexities**|Andrey Churkin et.al.|[2209.03845v1](http://arxiv.org/abs/2209.03845v1)|null|
+|**2022-09-08**|**Optimization-based framework for low-voltage grid reinforcement assessment under various levels of flexibility and coordination**|Soner Candas et.al.|[2209.03715v1](http://arxiv.org/abs/2209.03715v1)|null|
 |**2022-09-06**|**TSO-DSO Coordination for the Procurement of Balancing and Congestion Management Services: Assessment of a meshed-to-meshed topology**|Leandro Lind et.al.|[2209.02360v1](http://arxiv.org/abs/2209.02360v1)|null|
 |**2022-09-05**|**A Formal Theory of Choreographic Programming**|Luís Cruz-Filipe et.al.|[2209.01886v1](http://arxiv.org/abs/2209.01886v1)|null|
 |**2022-09-04**|**Recursive Gaussian Process over graphs for Integrating Multi-timescale Measurements in Low-Observable Distribution Systems**|Shweta Dahale et.al.|[2209.01703v1](http://arxiv.org/abs/2209.01703v1)|null|
