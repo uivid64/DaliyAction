@@ -498,7 +498,7 @@
 - 2022-09-08, **SE(3)-DiffusionFields: Learning cost functions for joint grasp and motion optimization through diffusion**, Julen Urain et.al., Paper: [http://arxiv.org/abs/2209.03855v1](http://arxiv.org/abs/2209.03855v1)
 - 2022-09-08, **Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems**, Darin Acosta et.al., Paper: [http://arxiv.org/abs/2209.03794v1](http://arxiv.org/abs/2209.03794v1)
 - 2022-09-08, **Cepheid Metallicity in the Leavitt Law (C- MetaLL) survey: II.High-resolution spectroscopy of the most metal poor Galactic Cepheids**, E. Trentin et.al., Paper: [http://arxiv.org/abs/2209.03792v1](http://arxiv.org/abs/2209.03792v1)
-- 2022-09-08, **Stochastic gradient descent with gradient estimator for categorical features**, Paul Peseux et.al., Paper: [http://arxiv.org/abs/2209.03771v1](http://arxiv.org/abs/2209.03771v1)
+- 2022-09-08, **Stochastic gradient descent with gradient estimator for categorical features**, Paul Peseux et.al., Paper: [http://arxiv.org/abs/2209.03771v1](http://arxiv.org/abs/2209.03771v1), Code: **[https://github.com/ppmdatix/gce](https://github.com/ppmdatix/gce)**
 - 2022-09-08, **Incorporating Locality of Images to Generate Targeted Transferable Adversarial Examples**, Zhipeng Wei et.al., Paper: [http://arxiv.org/abs/2209.03716v1](http://arxiv.org/abs/2209.03716v1)
 - 2022-09-08, **Losing momentum in continuous-time stochastic optimisation**, Kexin Jin et.al., Paper: [http://arxiv.org/abs/2209.03705v1](http://arxiv.org/abs/2209.03705v1)
 - 2022-09-08, **Training Scale-Invariant Neural Networks on the Sphere Can Happen in Three Regimes**, Maxim Kodryan et.al., Paper: [http://arxiv.org/abs/2209.03695v1](http://arxiv.org/abs/2209.03695v1)
