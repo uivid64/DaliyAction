@@ -1,4 +1,4 @@
-## Updated on 2022.09.11
+## Updated on 2022.09.12
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-09**|**Private Read Update Write (PRUW) in Federated Submodel Learning (FSL): Communication Efficient Schemes With and Without Sparsification**|Sajani Vithana et.al.|[2209.04421v1](http://arxiv.org/abs/2209.04421v1)|null|
+|**2022-09-09**|**GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**|Jiahao Pang et.al.|[2209.04401v1](http://arxiv.org/abs/2209.04401v1)|null|
+|**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|null|
+|**2022-09-09**|**Energy-Aware JPEG Image Compression: A Multi-Objective Approach**|Seyed Jalaleddin Mousavirad et.al.|[2209.04374v1](http://arxiv.org/abs/2209.04374v1)|**[link](https://github.com/seyedjalaleddinmousavirad/multiobjectivejpegimagecompression)**|
+|**2022-09-09**|**Towards Confidence-guided Shape Completion for Robotic Applications**|Andrea Rosasco et.al.|[2209.04300v1](http://arxiv.org/abs/2209.04300v1)|**[link](https://github.com/andrearosasco/hyperpcr)**|
+|**2022-09-09**|**Robust-by-Design Classification via Unitary-Gradient Neural Networks**|Fabio Brau et.al.|[2209.04293v1](http://arxiv.org/abs/2209.04293v1)|null|
+|**2022-09-09**|**Non-isothermal direct bundle simulation of SMC compression molding with a non-Newtonian compressible matrix**|Nils Meyer et.al.|[2209.04257v1](http://arxiv.org/abs/2209.04257v1)|null|
+|**2022-09-09**|**Pressure-induced high-temperature superconductivity in ternary Y-Zr-H compounds**|Wendi Zhao et.al.|[2209.04217v1](http://arxiv.org/abs/2209.04217v1)|null|
+|**2022-09-09**|**Differentially Private Stochastic Gradient Descent with Low-Noise**|Puyu Wang et.al.|[2209.04188v1](http://arxiv.org/abs/2209.04188v1)|null|
+|**2022-09-09**|**The Problem of Marginality in Model Reductions of Turbulence**|C. Gillot et.al.|[2209.04064v1](http://arxiv.org/abs/2209.04064v1)|null|
 |**2022-09-08**|**Global well-posedness of the 1d compressible Navier-Stokes system with rough data**|Ke Chen et.al.|[2209.03938v1](http://arxiv.org/abs/2209.03938v1)|null|
 |**2022-09-08**|**SE(3)-DiffusionFields: Learning cost functions for joint grasp and motion optimization through diffusion**|Julen Urain et.al.|[2209.03855v1](http://arxiv.org/abs/2209.03855v1)|null|
 |**2022-09-08**|**Snowmass Topical Group Summary Report: IF04 -- Trigger and Data Acquisition Systems**|Darin Acosta et.al.|[2209.03794v1](http://arxiv.org/abs/2209.03794v1)|null|
@@ -708,6 +718,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-09**|**Improved Masked Image Generation with Token-Critic**|José Lezama et.al.|[2209.04439v1](http://arxiv.org/abs/2209.04439v1)|null|
+|**2022-09-09**|**Mediation Analysis with Multiple Exposures and Multiple Mediators**|Yi Zhao et.al.|[2209.04405v1](http://arxiv.org/abs/2209.04405v1)|null|
+|**2022-09-09**|**GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**|Jiahao Pang et.al.|[2209.04401v1](http://arxiv.org/abs/2209.04401v1)|null|
+|**2022-09-09**|**SFR estimations from z=0 to z=0.9 -- A comparison of SFR calibrators for star-forming galaxies**|M. Figueira et.al.|[2209.04390v1](http://arxiv.org/abs/2209.04390v1)|null|
+|**2022-09-09**|**Resilient Consensus via Voronoi Communication Graphs**|Kelsey Saulnier et.al.|[2209.04381v1](http://arxiv.org/abs/2209.04381v1)|null|
+|**2022-09-09**|**The Enigma of Orbital Angular Momentum of Spatiotemporal Vortex Pulses**|Konstantin Y. Bliokh et.al.|[2209.04371v1](http://arxiv.org/abs/2209.04371v1)|null|
+|**2022-09-09**|**On Specification-based Cyber-Attack Detection in Smart Grids**|Ömer Sen Dennis van der Velde et.al.|[2209.04354v1](http://arxiv.org/abs/2209.04354v1)|null|
+|**2022-09-09**|**Orthogonal run-and-tumble walks**|Luca Angelani et.al.|[2209.04331v1](http://arxiv.org/abs/2209.04331v1)|null|
+|**2022-09-09**|**Saliency Guided Adversarial Training for Learning Generalizable Features with Applications to Medical Imaging Classification System**|Xin Li et.al.|[2209.04326v1](http://arxiv.org/abs/2209.04326v1)|null|
+|**2022-09-09**|**Estimating Racial Disparities in Emergency General Surgery**|Eli Ben-Michael et.al.|[2209.04321v1](http://arxiv.org/abs/2209.04321v1)|null|
 |**2022-09-08**|**Data Feedback Loops: Model-driven Amplification of Dataset Biases**|Rohan Taori et.al.|[2209.03942v1](http://arxiv.org/abs/2209.03942v1)|**[link](https://github.com/rtaori/data_feedback)**|
 |**2022-09-08**|**Supernovae double-peaked light curves from double-nickel distribution**|Mariana Orellana et.al.|[2209.03923v1](http://arxiv.org/abs/2209.03923v1)|null|
 |**2022-09-08**|**N$^3$LO+N$^3$LL QCD improved Higgs pair cross sections**|A. H. Ajjath et.al.|[2209.03914v1](http://arxiv.org/abs/2209.03914v1)|null|
@@ -813,6 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
 |**2022-09-08**|**Assessing Active Distribution Network Flexibility: On the Effects of Nonlinearities and Nonconvexities**|Andrey Churkin et.al.|[2209.03845v1](http://arxiv.org/abs/2209.03845v1)|null|
 |**2022-09-08**|**Optimization-based framework for low-voltage grid reinforcement assessment under various levels of flexibility and coordination**|Soner Candas et.al.|[2209.03715v1](http://arxiv.org/abs/2209.03715v1)|null|
 |**2022-09-06**|**TSO-DSO Coordination for the Procurement of Balancing and Congestion Management Services: Assessment of a meshed-to-meshed topology**|Leandro Lind et.al.|[2209.02360v1](http://arxiv.org/abs/2209.02360v1)|null|
