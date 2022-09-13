@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-12, **Soft Diffusion: Score Matching for General Corruptions**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2209.05442v1](http://arxiv.org/abs/2209.05442v1)
+- 2022-09-12, **Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**, Jinwook Huh et.al., Paper: [http://arxiv.org/abs/2209.05432v1](http://arxiv.org/abs/2209.05432v1)
+- 2022-09-12, **Effects of Radiative Diffusion on the Dynamical Corotation Torque in Three-Dimensional Protoplanetary Disks**, Han-Gyeol Yun et.al., Paper: [http://arxiv.org/abs/2209.05417v1](http://arxiv.org/abs/2209.05417v1)
+- 2022-09-12, **Local estimates for vectorial Rudin-Osher-Fatemi type problems in one dimension**, Zofia Grochulska et.al., Paper: [http://arxiv.org/abs/2209.05415v1](http://arxiv.org/abs/2209.05415v1)
+- 2022-09-12, **Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**, N. Andrés et.al., Paper: [http://arxiv.org/abs/2209.05386v1](http://arxiv.org/abs/2209.05386v1)
+- 2022-09-12, **Modeling of Political Systems using Wasserstein Gradient Flows**, Nicolas Lanzetti et.al., Paper: [http://arxiv.org/abs/2209.05382v1](http://arxiv.org/abs/2209.05382v1)
+- 2022-09-12, **Backtracking New Q-Newton's method: a good algorithm for optimization and solving systems of equations**, Tuyen Trung Truong et.al., Paper: [http://arxiv.org/abs/2209.05378v1](http://arxiv.org/abs/2209.05378v1)
+- 2022-09-12, **Convergence of Batch Stochastic Gradient Descent Methods with Approximate Gradients and/or Noisy Measurements: Theory and Computational Results**, Rajeeva L. Karandikar et.al., Paper: [http://arxiv.org/abs/2209.05372v1](http://arxiv.org/abs/2209.05372v1)
+- 2022-09-12, **Optimal control for stochastic nonlinear Schrodinger equation on graph**, Jianbo Cui et.al., Paper: [http://arxiv.org/abs/2209.05346v1](http://arxiv.org/abs/2209.05346v1)
+- 2022-09-12, **Self-supervised Sequential Information Bottleneck for Robust Exploration in Deep Reinforcement Learning**, Bang You et.al., Paper: [http://arxiv.org/abs/2209.05333v1](http://arxiv.org/abs/2209.05333v1)
 - 2022-09-09, **Private Read Update Write (PRUW) in Federated Submodel Learning (FSL): Communication Efficient Schemes With and Without Sparsification**, Sajani Vithana et.al., Paper: [http://arxiv.org/abs/2209.04421v1](http://arxiv.org/abs/2209.04421v1)
 - 2022-09-09, **GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**, Jiahao Pang et.al., Paper: [http://arxiv.org/abs/2209.04401v1](http://arxiv.org/abs/2209.04401v1)
 - 2022-09-09, **Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2209.04375v1](http://arxiv.org/abs/2209.04375v1), Code: **[https://github.com/ciaranbench/unsupervised-hsi-seg](https://github.com/ciaranbench/unsupervised-hsi-seg)**
@@ -607,6 +617,16 @@
 
 ## Distributed Training
 
+- 2022-09-12, **Constraining the physics of star formation from CIB-cosmic shear cross-correlations**, Baptiste Jego et.al., Paper: [http://arxiv.org/abs/2209.05472v1](http://arxiv.org/abs/2209.05472v1)
+- 2022-09-12, **Gluon Transverse-Momentum-Dependent Distributions from Large-Momentum Effective Theory**, Ruilin Zhu et.al., Paper: [http://arxiv.org/abs/2209.05443v1](http://arxiv.org/abs/2209.05443v1)
+- 2022-09-12, **Explicitly Controllable 3D-Aware Portrait Generation**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2209.05434v1](http://arxiv.org/abs/2209.05434v1)
+- 2022-09-12, **On distributional symmetries on the CAR algebra**, Vitonofrio Crismale et.al., Paper: [http://arxiv.org/abs/2209.05431v1](http://arxiv.org/abs/2209.05431v1)
+- 2022-09-12, **Towards More Efficient Data Valuation in Healthcare Federated Learning using Ensembling**, Sourav Kumar et.al., Paper: [http://arxiv.org/abs/2209.05424v1](http://arxiv.org/abs/2209.05424v1)
+- 2022-09-12, **Chromosome Segmentation Analysis Using Image Processing Techniques and Autoencoders**, Amritha S Pallavoor et.al., Paper: [http://arxiv.org/abs/2209.05414v1](http://arxiv.org/abs/2209.05414v1)
+- 2022-09-12, **Holistic Segmentation**, Stefano Gasperini et.al., Paper: [http://arxiv.org/abs/2209.05407v1](http://arxiv.org/abs/2209.05407v1)
+- 2022-09-12, **Single-shot polarimetry of vector beams by supervised learning**, Davide Pierangeli et.al., Paper: [http://arxiv.org/abs/2209.05393v1](http://arxiv.org/abs/2209.05393v1)
+- 2022-09-12, **An Ising model for the thermal and dynamic properties of supercooled liquids and the glass transition**, Ralph V. Chamberlin et.al., Paper: [http://arxiv.org/abs/2209.05388v1](http://arxiv.org/abs/2209.05388v1)
+- 2022-09-12, **Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**, N. Andrés et.al., Paper: [http://arxiv.org/abs/2209.05386v1](http://arxiv.org/abs/2209.05386v1)
 - 2022-09-09, **Improved Masked Image Generation with Token-Critic**, José Lezama et.al., Paper: [http://arxiv.org/abs/2209.04439v1](http://arxiv.org/abs/2209.04439v1)
 - 2022-09-09, **Mediation Analysis with Multiple Exposures and Multiple Mediators**, Yi Zhao et.al., Paper: [http://arxiv.org/abs/2209.04405v1](http://arxiv.org/abs/2209.04405v1)
 - 2022-09-09, **GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**, Jiahao Pang et.al., Paper: [http://arxiv.org/abs/2209.04401v1](http://arxiv.org/abs/2209.04401v1)
@@ -720,6 +740,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-09-10, **A generic framework for coded caching and distributed computation schemes**, Min Xu et.al., Paper: [http://arxiv.org/abs/2209.04647v1](http://arxiv.org/abs/2209.04647v1)
+- 2022-09-09, **Parameterized Linear Power Flow for High Fidelity Voltage Solutions in Distribution Systems**, Marija Marković et.al., Paper: [http://arxiv.org/abs/2209.04508v1](http://arxiv.org/abs/2209.04508v1)
 - 2022-09-08, **Majority Vote for Distributed Differentially Private Sign Selection**, Weidong Liu et.al., Paper: [http://arxiv.org/abs/2209.04419v1](http://arxiv.org/abs/2209.04419v1)
 - 2022-09-08, **Assessing Active Distribution Network Flexibility: On the Effects of Nonlinearities and Nonconvexities**, Andrey Churkin et.al., Paper: [http://arxiv.org/abs/2209.03845v1](http://arxiv.org/abs/2209.03845v1)
 - 2022-09-08, **Optimization-based framework for low-voltage grid reinforcement assessment under various levels of flexibility and coordination**, Soner Candas et.al., Paper: [http://arxiv.org/abs/2209.03715v1](http://arxiv.org/abs/2209.03715v1)
