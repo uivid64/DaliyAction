@@ -1,4 +1,4 @@
-> Updated on 2022.09.12
+> Updated on 2022.09.13
 
 ## SLAM
 
@@ -496,7 +496,7 @@
 
 - 2022-09-09, **Private Read Update Write (PRUW) in Federated Submodel Learning (FSL): Communication Efficient Schemes With and Without Sparsification**, Sajani Vithana et.al., Paper: [http://arxiv.org/abs/2209.04421v1](http://arxiv.org/abs/2209.04421v1)
 - 2022-09-09, **GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**, Jiahao Pang et.al., Paper: [http://arxiv.org/abs/2209.04401v1](http://arxiv.org/abs/2209.04401v1)
-- 2022-09-09, **Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2209.04375v1](http://arxiv.org/abs/2209.04375v1)
+- 2022-09-09, **Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2209.04375v1](http://arxiv.org/abs/2209.04375v1), Code: **[https://github.com/ciaranbench/unsupervised-hsi-seg](https://github.com/ciaranbench/unsupervised-hsi-seg)**
 - 2022-09-09, **Energy-Aware JPEG Image Compression: A Multi-Objective Approach**, Seyed Jalaleddin Mousavirad et.al., Paper: [http://arxiv.org/abs/2209.04374v1](http://arxiv.org/abs/2209.04374v1), Code: **[https://github.com/seyedjalaleddinmousavirad/multiobjectivejpegimagecompression](https://github.com/seyedjalaleddinmousavirad/multiobjectivejpegimagecompression)**
 - 2022-09-09, **Towards Confidence-guided Shape Completion for Robotic Applications**, Andrea Rosasco et.al., Paper: [http://arxiv.org/abs/2209.04300v1](http://arxiv.org/abs/2209.04300v1), Code: **[https://github.com/andrearosasco/hyperpcr](https://github.com/andrearosasco/hyperpcr)**
 - 2022-09-09, **Robust-by-Design Classification via Unitary-Gradient Neural Networks**, Fabio Brau et.al., Paper: [http://arxiv.org/abs/2209.04293v1](http://arxiv.org/abs/2209.04293v1)
