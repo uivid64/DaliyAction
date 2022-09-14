@@ -1,4 +1,4 @@
-## Updated on 2022.09.13
+## Updated on 2022.09.14
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**Fast fitting of neural ordinary differential equations by Bayesian neural gradient matching to infer ecological interactions from time series data**|Willem Bonnaffé et.al.|[2209.06184v1](http://arxiv.org/abs/2209.06184v1)|null|
+|**2022-09-13**|**Meta-Gradients in Non-Stationary Environments**|Jelena Luketina et.al.|[2209.06159v1](http://arxiv.org/abs/2209.06159v1)|null|
+|**2022-09-13**|**D-Lite: Navigation-Oriented Compression of 3D Scene Graphs under Communication Constraints**|Yun Chang et.al.|[2209.06111v1](http://arxiv.org/abs/2209.06111v1)|null|
+|**2022-09-13**|**On floating point precision in computational fluid dynamics using OpenFOAM**|F. Brogi et.al.|[2209.06105v1](http://arxiv.org/abs/2209.06105v1)|null|
+|**2022-09-13**|**Analysis of Self-Attention Head Diversity for Conformer-based Automatic Speech Recognition**|Kartik Audhkhasi et.al.|[2209.06096v1](http://arxiv.org/abs/2209.06096v1)|null|
+|**2022-09-13**|**The recursive representation of Gaussian quantum mechanics**|Yuan Yao et.al.|[2209.06069v1](http://arxiv.org/abs/2209.06069v1)|null|
+|**2022-09-13**|**Space-Efficient Random Walks on Streaming Graphs**|Serafeim Papadias et.al.|[2209.06063v1](http://arxiv.org/abs/2209.06063v1)|null|
+|**2022-09-13**|**Sparse Video Representation Using Steered Mixture-of-Experts With Global Motion Compensation**|Rolf Jongebloed et.al.|[2209.05993v1](http://arxiv.org/abs/2209.05993v1)|null|
+|**2022-09-13**|**Data-Driven Compressed Sensing for Massive Wireless Access**|Yanna Bai et.al.|[2209.05951v1](http://arxiv.org/abs/2209.05951v1)|null|
+|**2022-09-13**|**Modular implementation of linear and cubic-scaling approaches based on the orbital minimization method in electronic structure codes using atomic orbitals**|Irina Lebedeva et.al.|[2209.05934v1](http://arxiv.org/abs/2209.05934v1)|null|
 |**2022-09-12**|**Soft Diffusion: Score Matching for General Corruptions**|Giannis Daras et.al.|[2209.05442v1](http://arxiv.org/abs/2209.05442v1)|null|
 |**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|null|
 |**2022-09-12**|**Effects of Radiative Diffusion on the Dynamical Corotation Torque in Three-Dimensional Protoplanetary Disks**|Han-Gyeol Yun et.al.|[2209.05417v1](http://arxiv.org/abs/2209.05417v1)|null|
@@ -728,6 +738,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|null|
+|**2022-09-13**|**Simulations of PBH formation at the QCD epoch and comparison with the GWTC-3 catalog**|Albert Escrivà et.al.|[2209.06196v1](http://arxiv.org/abs/2209.06196v1)|null|
+|**2022-09-13**|**PET image denoising based on denoising diffusion probabilistic models**|Kuang Gong et.al.|[2209.06167v1](http://arxiv.org/abs/2209.06167v1)|null|
+|**2022-09-13**|**Mandator and Sporades: Robust Wide-Area Consensus with Efficient Request Dissemination**|Pasindu Tennage et.al.|[2209.06152v1](http://arxiv.org/abs/2209.06152v1)|null|
+|**2022-09-13**|**High Performance Dataframes from Parallel Processing Patterns**|Niranda Perera et.al.|[2209.06146v1](http://arxiv.org/abs/2209.06146v1)|null|
+|**2022-09-13**|**Characterizing the Performance of Node-Aware Strategies for Irregular Point-to-Point Communication on Heterogeneous Architectures**|Shelby Lockhart et.al.|[2209.06141v1](http://arxiv.org/abs/2209.06141v1)|null|
+|**2022-09-13**|**Inclusive Production Cross Sections at N3LO**|Julien Baglio et.al.|[2209.06138v1](http://arxiv.org/abs/2209.06138v1)|null|
+|**2022-09-13**|**A deep variational free energy approach to dense hydrogen**|Hao Xie et.al.|[2209.06095v1](http://arxiv.org/abs/2209.06095v1)|**[link](https://github.com/fermiflow/hydrogen)**|
+|**2022-09-13**|**Small-scale chaotic dynamo and spontaneous breaking of local reflectional symmetry in magnetohydrodynamics**|A. Bershadskii et.al.|[2209.06089v1](http://arxiv.org/abs/2209.06089v1)|null|
+|**2022-09-13**|**Chiplets and the Codelet Model**|Dawson Fox et.al.|[2209.06083v1](http://arxiv.org/abs/2209.06083v1)|null|
 |**2022-09-12**|**Constraining the physics of star formation from CIB-cosmic shear cross-correlations**|Baptiste Jego et.al.|[2209.05472v1](http://arxiv.org/abs/2209.05472v1)|null|
 |**2022-09-12**|**Gluon Transverse-Momentum-Dependent Distributions from Large-Momentum Effective Theory**|Ruilin Zhu et.al.|[2209.05443v1](http://arxiv.org/abs/2209.05443v1)|null|
 |**2022-09-12**|**Explicitly Controllable 3D-Aware Portrait Generation**|Junshu Tang et.al.|[2209.05434v1](http://arxiv.org/abs/2209.05434v1)|null|
@@ -853,6 +873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-12**|**A SOCP-based ACOPF for Operational Scheduling of Three-phase Unbalanced Distribution Systems and Coordination of PV Smart Inverters**|Mingyue He et.al.|[2209.05613v1](http://arxiv.org/abs/2209.05613v1)|null|
 |**2022-09-10**|**A generic framework for coded caching and distributed computation schemes**|Min Xu et.al.|[2209.04647v1](http://arxiv.org/abs/2209.04647v1)|null|
 |**2022-09-09**|**Parameterized Linear Power Flow for High Fidelity Voltage Solutions in Distribution Systems**|Marija Marković et.al.|[2209.04508v1](http://arxiv.org/abs/2209.04508v1)|null|
 |**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
