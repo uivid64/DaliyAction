@@ -1,4 +1,4 @@
-> Updated on 2022.09.14
+> Updated on 2022.09.15
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-14, **Nonlinear evolution of streaming instabilities in accreting protoplanetary disks**, Chun-Yen Hsu et.al., Paper: [http://arxiv.org/abs/2209.06784v1](http://arxiv.org/abs/2209.06784v1)
+- 2022-09-14, **Segment-level thermal sensitivity analysis for exo-Earth imaging**, Ananya Sahoo et.al., Paper: [http://arxiv.org/abs/2209.06762v1](http://arxiv.org/abs/2209.06762v1)
+- 2022-09-14, **Well-posedness of a class of stochastic partial differential equations with fully monotone coefficients perturbed by Lévy noise**, Ankit Kumar et.al., Paper: [http://arxiv.org/abs/2209.06657v1](http://arxiv.org/abs/2209.06657v1)
+- 2022-09-14, **Structure and dynamics of motor-driven microtubule bundles**, Bezia Lemma et.al., Paper: [http://arxiv.org/abs/2209.06637v1](http://arxiv.org/abs/2209.06637v1)
+- 2022-09-14, **Determination of diffusion coefficients of mercury atoms in various gases from longitudinal spin relaxation in magnetic gradients**, B. Clément et.al., Paper: [http://arxiv.org/abs/2209.06621v1](http://arxiv.org/abs/2209.06621v1)
+- 2022-09-14, **Geometrically Frustrated Systems which are as Singles Hotter Than in Company**, Wolfgang R. Bauer et.al., Paper: [http://arxiv.org/abs/2209.06616v1](http://arxiv.org/abs/2209.06616v1)
+- 2022-09-14, **Generation of Spin-Wave Pulses by Inverse Design**, Silvia Casulleras et.al., Paper: [http://arxiv.org/abs/2209.06608v1](http://arxiv.org/abs/2209.06608v1)
+- 2022-09-14, **The role of photospheric converging motion in initiation of solar eruptions**, Xinkai Bian et.al., Paper: [http://arxiv.org/abs/2209.06561v1](http://arxiv.org/abs/2209.06561v1)
+- 2022-09-14, **Compression for Qubit Clocks**, Yuxiang Yang et.al., Paper: [http://arxiv.org/abs/2209.06519v1](http://arxiv.org/abs/2209.06519v1)
+- 2022-09-14, **Overexpansion-dominated Coronal Mass Ejection Formation and Induced Radio Bursts**, B. T. Wang et.al., Paper: [http://arxiv.org/abs/2209.06508v1](http://arxiv.org/abs/2209.06508v1)
 - 2022-09-13, **Fast fitting of neural ordinary differential equations by Bayesian neural gradient matching to infer ecological interactions from time series data**, Willem Bonnaffé et.al., Paper: [http://arxiv.org/abs/2209.06184v1](http://arxiv.org/abs/2209.06184v1)
 - 2022-09-13, **Meta-Gradients in Non-Stationary Environments**, Jelena Luketina et.al., Paper: [http://arxiv.org/abs/2209.06159v1](http://arxiv.org/abs/2209.06159v1)
 - 2022-09-13, **D-Lite: Navigation-Oriented Compression of 3D Scene Graphs under Communication Constraints**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2209.06111v1](http://arxiv.org/abs/2209.06111v1)
@@ -627,6 +637,16 @@
 
 ## Distributed Training
 
+- 2022-09-14, **Mod-$\varphi$ convergence of Stirling distributions and limit theorems for zeros of their generating functions**, Zakhar Kabluchko et.al., Paper: [http://arxiv.org/abs/2209.06808v1](http://arxiv.org/abs/2209.06808v1)
+- 2022-09-14, **Analytic solution of the resolvent equations for heterogeneous random graphs: spectral and localization properties**, Jeferson D. Silva et.al., Paper: [http://arxiv.org/abs/2209.06805v1](http://arxiv.org/abs/2209.06805v1)
+- 2022-09-14, **Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**, Yuke Wang et.al., Paper: [http://arxiv.org/abs/2209.06800v1](http://arxiv.org/abs/2209.06800v1)
+- 2022-09-14, **IMT to Satellite Stochastic Interference Modeling and Coexistence Analysis of Upper 6 GHz Band Service**, Reza Aghazadeh Ayoubi et.al., Paper: [http://arxiv.org/abs/2209.06780v1](http://arxiv.org/abs/2209.06780v1)
+- 2022-09-14, **MID Property for Delay Systems: Insights on Spectral Values with Intermediate Multiplicity**, Islam Boussaada et.al., Paper: [http://arxiv.org/abs/2209.06757v1](http://arxiv.org/abs/2209.06757v1)
+- 2022-09-14, **Finite Necessary and Sufficient Stability Conditions for Linear System with Pointwise and Distributed Delays**, Alejandro Castaño et.al., Paper: [http://arxiv.org/abs/2209.06748v1](http://arxiv.org/abs/2209.06748v1)
+- 2022-09-14, **The extremal landscape for the C$β$E ensemble**, Elliot Paquette et.al., Paper: [http://arxiv.org/abs/2209.06743v1](http://arxiv.org/abs/2209.06743v1)
+- 2022-09-14, **On Language Clustering: A Non-parametric Statistical Approach**, Anagh Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2209.06720v1](http://arxiv.org/abs/2209.06720v1)
+- 2022-09-14, **Out-of-Vocabulary Challenge Report**, Sergi Garcia-Bordils et.al., Paper: [http://arxiv.org/abs/2209.06717v1](http://arxiv.org/abs/2209.06717v1)
+- 2022-09-14, **Revisiting the Evidence for an Intermediate-mass Black Hole in the Center of NGC 6624 with Simulations**, Li-Chun Wang et.al., Paper: [http://arxiv.org/abs/2209.06714v1](http://arxiv.org/abs/2209.06714v1)
 - 2022-09-13, **Normalizing Flows for Interventional Density Estimation**, Valentyn Melnychuk et.al., Paper: [http://arxiv.org/abs/2209.06203v1](http://arxiv.org/abs/2209.06203v1)
 - 2022-09-13, **Simulations of PBH formation at the QCD epoch and comparison with the GWTC-3 catalog**, Albert Escrivà et.al., Paper: [http://arxiv.org/abs/2209.06196v1](http://arxiv.org/abs/2209.06196v1)
 - 2022-09-13, **PET image denoising based on denoising diffusion probabilistic models**, Kuang Gong et.al., Paper: [http://arxiv.org/abs/2209.06167v1](http://arxiv.org/abs/2209.06167v1)
