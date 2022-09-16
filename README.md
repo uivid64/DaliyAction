@@ -1,4 +1,4 @@
-## Updated on 2022.09.15
+## Updated on 2022.09.16
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**On the complexity of finding stationary points of smooth functions in one dimension**|Sinho Chewi et.al.|[2209.07513v1](http://arxiv.org/abs/2209.07513v1)|null|
+|**2022-09-15**|**Random initialisations performing above chance and how to find them**|Frederik Benzing et.al.|[2209.07509v1](http://arxiv.org/abs/2209.07509v1)|null|
+|**2022-09-15**|**Bidirectional Learning for Offline Infinite-width Model-based Optimization**|Can et.al.|[2209.07507v1](http://arxiv.org/abs/2209.07507v1)|null|
+|**2022-09-15**|**Large-scale circulations in a shear-free convective turbulence: Mean-field simulations**|G. Orian et.al.|[2209.07477v1](http://arxiv.org/abs/2209.07477v1)|null|
+|**2022-09-15**|**Neural Networks Reduction via Lumping**|Dalila Ressi et.al.|[2209.07475v1](http://arxiv.org/abs/2209.07475v1)|null|
+|**2022-09-15**|**Efficiency Ordering of Stochastic Gradient Descent**|Jie Hu et.al.|[2209.07446v1](http://arxiv.org/abs/2209.07446v1)|null|
+|**2022-09-15**|**Mean-Field Approximation of Cooperative Constrained Multi-Agent Reinforcement Learning (CMARL)**|Washim Uddin Mondal et.al.|[2209.07437v1](http://arxiv.org/abs/2209.07437v1)|null|
+|**2022-09-15**|**Large Impact of Small Vertex Cuts on the Mechanics of Origami Bellows**|Mengzhu Yang et.al.|[2209.07422v1](http://arxiv.org/abs/2209.07422v1)|null|
+|**2022-09-15**|**Private Stochastic Optimization in the Presence of Outliers: Optimal Rates for (Non-Smooth) Convex Losses and Extension to Non-Convex Losses**|Andrew Lowy et.al.|[2209.07403v1](http://arxiv.org/abs/2209.07403v1)|null|
+|**2022-09-15**|**Steady state propulsion of isotropic active colloids along a wall**|Nikhil Desai et.al.|[2209.07371v1](http://arxiv.org/abs/2209.07371v1)|null|
 |**2022-09-14**|**Nonlinear evolution of streaming instabilities in accreting protoplanetary disks**|Chun-Yen Hsu et.al.|[2209.06784v1](http://arxiv.org/abs/2209.06784v1)|null|
 |**2022-09-14**|**Segment-level thermal sensitivity analysis for exo-Earth imaging**|Ananya Sahoo et.al.|[2209.06762v1](http://arxiv.org/abs/2209.06762v1)|null|
 |**2022-09-14**|**Well-posedness of a class of stochastic partial differential equations with fully monotone coefficients perturbed by Lévy noise**|Ankit Kumar et.al.|[2209.06657v1](http://arxiv.org/abs/2209.06657v1)|null|
@@ -748,6 +758,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Test-Time Training with Masked Autoencoders**|Yossi Gandelsman et.al.|[2209.07522v1](http://arxiv.org/abs/2209.07522v1)|null|
+|**2022-09-15**|**On-Device Domain Generalization**|Kaiyang Zhou et.al.|[2209.07521v1](http://arxiv.org/abs/2209.07521v1)|null|
+|**2022-09-15**|**Distribution Aware Metrics for Conditional Natural Language Generation**|David M Chan et.al.|[2209.07518v1](http://arxiv.org/abs/2209.07518v1)|null|
+|**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
+|**2022-09-15**|**Bidirectional Learning for Offline Infinite-width Model-based Optimization**|Can et.al.|[2209.07507v1](http://arxiv.org/abs/2209.07507v1)|null|
+|**2022-09-15**|**Unsupervised Opinion Summarization Using Approximate Geodesics**|Somnath Basu Roy Chowdhury et.al.|[2209.07496v1](http://arxiv.org/abs/2209.07496v1)|null|
+|**2022-09-15**|**Defending Root DNS Servers Against DDoS Using Layered Defenses**|A S M Rizvi et.al.|[2209.07491v1](http://arxiv.org/abs/2209.07491v1)|null|
+|**2022-09-15**|**Semi-Symbolic Inference for Efficient Streaming Probabilistic Programming**|Eric Atkinson et.al.|[2209.07490v1](http://arxiv.org/abs/2209.07490v1)|null|
+|**2022-09-15**|**Distributed Aperture Telescopes and the Dragonfly Telephoto Array**|Roberto G. Abraham et.al.|[2209.07488v1](http://arxiv.org/abs/2209.07488v1)|null|
+|**2022-09-15**|**The pathfinder Dragonfly Spectral Line Mapper: Pushing the limits for ultra-low surface brightness spectroscopy**|Deborah M. Lokhorst et.al.|[2209.07487v1](http://arxiv.org/abs/2209.07487v1)|null|
 |**2022-09-14**|**Mod-$\varphi$ convergence of Stirling distributions and limit theorems for zeros of their generating functions**|Zakhar Kabluchko et.al.|[2209.06808v1](http://arxiv.org/abs/2209.06808v1)|null|
 |**2022-09-14**|**Analytic solution of the resolvent equations for heterogeneous random graphs: spectral and localization properties**|Jeferson D. Silva et.al.|[2209.06805v1](http://arxiv.org/abs/2209.06805v1)|null|
 |**2022-09-14**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
