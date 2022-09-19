@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.18
+## Updated on 2022.09.19
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**Parallel assembly of arbitrary defect-free atom arrays with a multi-tweezer algorithm**|Weikun Tian et.al.|[2209.08038v1](http://arxiv.org/abs/2209.08038v1)|null|
+|**2022-09-16**|**DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization**|Kevin Bello et.al.|[2209.08037v1](http://arxiv.org/abs/2209.08037v1)|null|
+|**2022-09-16**|**Rejuvenation engineering in metallic glasses by stress and structure modulation**|D. Şopu et.al.|[2209.08032v1](http://arxiv.org/abs/2209.08032v1)|null|
+|**2022-09-16**|**Stability and Generalization for Markov Chain Stochastic Gradient Methods**|Puyu Wang et.al.|[2209.08005v1](http://arxiv.org/abs/2209.08005v1)|null|
+|**2022-09-16**|**StyleGAN Encoder-Based Attack for Block Scrambled Face Images**|AprilPyone MaungMaung et.al.|[2209.07953v1](http://arxiv.org/abs/2209.07953v1)|null|
+|**2022-09-16**|**Measurement of AGN dust extinction based on the near-infrared flux variability of WISE data**|Shoichiro Mizukoshi et.al.|[2209.07933v1](http://arxiv.org/abs/2209.07933v1)|null|
+|**2022-09-16**|**A simple KPFM-based approach for electrostatic-free topographic measurements: the case of MoS$_2$ on SiO$_2$**|Aloïs Arrighi et.al.|[2209.07925v1](http://arxiv.org/abs/2209.07925v1)|null|
+|**2022-09-16**|**MetaMask: Revisiting Dimensional Confounder for Self-Supervised Learning**|Jiangmeng Li et.al.|[2209.07902v1](http://arxiv.org/abs/2209.07902v1)|null|
+|**2022-09-16**|**Probing the Galactic halo with RR Lyrae stars $-$ III. The chemical and kinematic properties of the stellar halo**|Gaochao Liu et.al.|[2209.07885v1](http://arxiv.org/abs/2209.07885v1)|null|
+|**2022-09-16**|**FairGBM: Gradient Boosting with Fairness Constraints**|André F Cruz et.al.|[2209.07850v1](http://arxiv.org/abs/2209.07850v1)|null|
 |**2022-09-15**|**On the complexity of finding stationary points of smooth functions in one dimension**|Sinho Chewi et.al.|[2209.07513v1](http://arxiv.org/abs/2209.07513v1)|null|
 |**2022-09-15**|**Random initialisations performing above chance and how to find them**|Frederik Benzing et.al.|[2209.07509v1](http://arxiv.org/abs/2209.07509v1)|null|
 |**2022-09-15**|**Bidirectional Learning for Offline Infinite-width Model-based Optimization**|Can et.al.|[2209.07507v1](http://arxiv.org/abs/2209.07507v1)|null|
@@ -762,6 +772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**A finite-state stationary process with long-range dependence and fractional multinomial distribution**|Jeonghwa Lee et.al.|[2209.08081v1](http://arxiv.org/abs/2209.08081v1)|null|
+|**2022-09-16**|**Case Studies for Computing Density of Reachable States for Safe Autonomous Motion Planning**|Yue Meng et.al.|[2209.08073v1](http://arxiv.org/abs/2209.08073v1)|null|
+|**2022-09-16**|**Reweighted Anderson-Darling Tests of Goodness-of-Fit**|Chuanhai Liu et.al.|[2209.08050v1](http://arxiv.org/abs/2209.08050v1)|null|
+|**2022-09-16**|**Rejuvenation engineering in metallic glasses by stress and structure modulation**|D. Şopu et.al.|[2209.08032v1](http://arxiv.org/abs/2209.08032v1)|null|
+|**2022-09-16**|**Fast approximation of search trees on trees with centroid trees**|Benjamin Aram Berendsohn et.al.|[2209.08024v1](http://arxiv.org/abs/2209.08024v1)|null|
+|**2022-09-16**|**Robust Inference of Manifold Density and Geometry by Doubly Stochastic Scaling**|Boris Landa et.al.|[2209.08004v1](http://arxiv.org/abs/2209.08004v1)|null|
+|**2022-09-16**|**Decentralized and stable matching in Peer-to-Peer energy trading**|Nitin Singha et.al.|[2209.07994v1](http://arxiv.org/abs/2209.07994v1)|null|
+|**2022-09-16**|**Spectroscopic study of solar transition region oscillations in the quiet-Sun observed by IRIS using Si IV spectral line**|Kartika Sangal et.al.|[2209.07993v1](http://arxiv.org/abs/2209.07993v1)|null|
+|**2022-09-16**|**Is the Moon there if nobody looks: A reply to Gill and Lambare**|Marian Kupczynski et.al.|[2209.07992v1](http://arxiv.org/abs/2209.07992v1)|null|
+|**2022-09-16**|**Prophet Inequalities for Cost Minimization**|Vasilis Livanos et.al.|[2209.07988v1](http://arxiv.org/abs/2209.07988v1)|null|
 |**2022-09-15**|**Test-Time Training with Masked Autoencoders**|Yossi Gandelsman et.al.|[2209.07522v1](http://arxiv.org/abs/2209.07522v1)|null|
 |**2022-09-15**|**On-Device Domain Generalization**|Kaiyang Zhou et.al.|[2209.07521v1](http://arxiv.org/abs/2209.07521v1)|null|
 |**2022-09-15**|**Distribution Aware Metrics for Conditional Natural Language Generation**|David M Chan et.al.|[2209.07518v1](http://arxiv.org/abs/2209.07518v1)|null|
@@ -917,6 +937,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**Reinforcement Learning Based Cooperative P2P Energy Trading between DC Nanogrid Clusters with Wind and PV Energy Resources**|Sangkeum Lee et.al.|[2209.07744v1](http://arxiv.org/abs/2209.07744v1)|null|
+|**2022-09-16**|**Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**|Jie Feng et.al.|[2209.07669v1](http://arxiv.org/abs/2209.07669v1)|null|
 |**2022-09-12**|**A SOCP-based ACOPF for Operational Scheduling of Three-phase Unbalanced Distribution Systems and Coordination of PV Smart Inverters**|Mingyue He et.al.|[2209.05613v1](http://arxiv.org/abs/2209.05613v1)|null|
 |**2022-09-10**|**A generic framework for coded caching and distributed computation schemes**|Min Xu et.al.|[2209.04647v1](http://arxiv.org/abs/2209.04647v1)|null|
 |**2022-09-09**|**Parameterized Linear Power Flow for High Fidelity Voltage Solutions in Distribution Systems**|Marija Marković et.al.|[2209.04508v1](http://arxiv.org/abs/2209.04508v1)|null|
