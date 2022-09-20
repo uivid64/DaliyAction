@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**Data-Driven Stochastic Optimal Control Using Kernel Gradients**|Adam J. Thorpe et.al.|[2209.09205v1](http://arxiv.org/abs/2209.09205v1)|null|
+|**2022-09-19**|**Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms**|Marcello Carioni et.al.|[2209.09167v1](http://arxiv.org/abs/2209.09167v1)|null|
+|**2022-09-19**|**On the Theoretical Properties of Noise Correlation in Stochastic Optimization**|Aurelien Lucchi et.al.|[2209.09162v1](http://arxiv.org/abs/2209.09162v1)|null|
+|**2022-09-19**|**Plastic ridge formation in a compressed thin amorphous film**|Gianfranco Cordella et.al.|[2209.09055v1](http://arxiv.org/abs/2209.09055v1)|null|
+|**2022-09-19**|**Machine Learning the Hubble Constant**|Carlos Bengaly et.al.|[2209.09017v1](http://arxiv.org/abs/2209.09017v1)|null|
+|**2022-09-19**|**Enforcing the consensus between Trajectory Optimization and Policy Learning for precise robot control**|Quentin Le Lidec et.al.|[2209.09006v1](http://arxiv.org/abs/2209.09006v1)|null|
+|**2022-09-19**|**EcoFormer: Energy-Saving Attention with Linear Complexity**|Jing Liu et.al.|[2209.09004v1](http://arxiv.org/abs/2209.09004v1)|null|
+|**2022-09-19**|**MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation**|Chuanxia Zheng et.al.|[2209.09002v1](http://arxiv.org/abs/2209.09002v1)|null|
+|**2022-09-19**|**Generalization Bounds for Stochastic Gradient Descent via Localized $\varepsilon$-Covers**|Sejun Park et.al.|[2209.08951v1](http://arxiv.org/abs/2209.08951v1)|null|
+|**2022-09-19**|**Pressure robust mixed methods for nearly incompressible elasticity**|Seshadri R. Basava et.al.|[2209.08916v1](http://arxiv.org/abs/2209.08916v1)|null|
 |**2022-09-16**|**Parallel assembly of arbitrary defect-free atom arrays with a multi-tweezer algorithm**|Weikun Tian et.al.|[2209.08038v1](http://arxiv.org/abs/2209.08038v1)|null|
 |**2022-09-16**|**DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization**|Kevin Bello et.al.|[2209.08037v1](http://arxiv.org/abs/2209.08037v1)|null|
 |**2022-09-16**|**Rejuvenation engineering in metallic glasses by stress and structure modulation**|D. Şopu et.al.|[2209.08032v1](http://arxiv.org/abs/2209.08032v1)|null|
@@ -772,6 +782,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data**|Rihuan Ke et.al.|[2209.09214v1](http://arxiv.org/abs/2209.09214v1)|null|
+|**2022-09-19**|**Proceedings of the Sixth Working Formal Methods Symposium**|Vlad Rusu et.al.|[2209.09208v1](http://arxiv.org/abs/2209.09208v1)|null|
+|**2022-09-19**|**Data-Driven Stochastic Optimal Control Using Kernel Gradients**|Adam J. Thorpe et.al.|[2209.09205v1](http://arxiv.org/abs/2209.09205v1)|null|
+|**2022-09-19**|**Dimension matters when modeling network communities in hyperbolic spaces**|Béatrice Désy et.al.|[2209.09201v1](http://arxiv.org/abs/2209.09201v1)|null|
+|**2022-09-19**|**Stationary states of an active Brownian particle in a harmonic trap**|Urvashi Nakul et.al.|[2209.09184v1](http://arxiv.org/abs/2209.09184v1)|null|
+|**2022-09-19**|**Learning-based Uncertainty-aware Navigation in 3D Off-Road Terrains**|Hojin Lee et.al.|[2209.09177v1](http://arxiv.org/abs/2209.09177v1)|null|
+|**2022-09-19**|**Exponential Family Trend Filtering on Lattices**|Veeranjaneyulu Sadhanala et.al.|[2209.09175v1](http://arxiv.org/abs/2209.09175v1)|null|
+|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
+|**2022-09-19**|**Duration modeling with semi-Markov Conditional Random Fields for keyphrase extraction**|Xiaolei Lu et.al.|[2209.09149v1](http://arxiv.org/abs/2209.09149v1)|null|
+|**2022-09-19**|**Effect of Sn on generalized stacking fault energy surfaces in zirconium and its hydrides**|P. Chakraborty et.al.|[2209.09147v1](http://arxiv.org/abs/2209.09147v1)|null|
 |**2022-09-16**|**A finite-state stationary process with long-range dependence and fractional multinomial distribution**|Jeonghwa Lee et.al.|[2209.08081v1](http://arxiv.org/abs/2209.08081v1)|null|
 |**2022-09-16**|**Case Studies for Computing Density of Reachable States for Safe Autonomous Motion Planning**|Yue Meng et.al.|[2209.08073v1](http://arxiv.org/abs/2209.08073v1)|null|
 |**2022-09-16**|**Reweighted Anderson-Darling Tests of Goodness-of-Fit**|Chuanhai Liu et.al.|[2209.08050v1](http://arxiv.org/abs/2209.08050v1)|null|
@@ -937,6 +957,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**Proceedings of the Sixth Working Formal Methods Symposium**|Vlad Rusu et.al.|[2209.09208v1](http://arxiv.org/abs/2209.09208v1)|null|
+|**2022-09-18**|**Empirical Analysis on Top-k Gradient Sparsification for Distributed Deep Learning in a Supercomputing Environment**|Daegun Yoon et.al.|[2209.08497v1](http://arxiv.org/abs/2209.08497v1)|null|
+|**2022-09-17**|**pFedDef: Defending Grey-Box Attacks for Personalized Federated Learning**|Taejin Kim et.al.|[2209.08412v1](http://arxiv.org/abs/2209.08412v1)|**[link](https://github.com/tj-kim/pfeddef_v1)**|
+|**2022-09-17**|**Linear Network Coding Based Fast Data Synchronization for Wireless Ad Hoc Networks with Controlled Topology**|Die Hu et.al.|[2209.08255v1](http://arxiv.org/abs/2209.08255v1)|null|
 |**2022-09-16**|**Reinforcement Learning Based Cooperative P2P Energy Trading between DC Nanogrid Clusters with Wind and PV Energy Resources**|Sangkeum Lee et.al.|[2209.07744v1](http://arxiv.org/abs/2209.07744v1)|null|
 |**2022-09-16**|**Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**|Jie Feng et.al.|[2209.07669v1](http://arxiv.org/abs/2209.07669v1)|null|
 |**2022-09-12**|**A SOCP-based ACOPF for Operational Scheduling of Three-phase Unbalanced Distribution Systems and Coordination of PV Smart Inverters**|Mingyue He et.al.|[2209.05613v1](http://arxiv.org/abs/2209.05613v1)|null|
