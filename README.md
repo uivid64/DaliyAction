@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Compressing the cosmological information in one-dimensional correlations of the Lyman-$α$ forest**|Christian Pedersen et.al.|[2209.09895v1](http://arxiv.org/abs/2209.09895v1)|null|
+|**2022-09-20**|**Characteristics of a Nickel Vanadium redox flow battery Based on COMSOL**|Anupam Saha et.al.|[2209.09872v1](http://arxiv.org/abs/2209.09872v1)|null|
+|**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
+|**2022-09-20**|**Optical properties of SiV and GeV color centers in nanodiamonds under hydrostatic pressures up to 180 GPa**|Baptiste Vindolet et.al.|[2209.09792v1](http://arxiv.org/abs/2209.09792v1)|null|
+|**2022-09-20**|**Dimensionality reduction with variational encoders based on subsystem purification**|Raja Selvarajan et.al.|[2209.09791v1](http://arxiv.org/abs/2209.09791v1)|null|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v1](http://arxiv.org/abs/2209.09776v1)|null|
+|**2022-09-20**|**A Deep Reinforcement Learning-Based Charging Scheduling Approach with Augmented Lagrangian for Electric Vehicle**|Guibin. Chen et.al.|[2209.09772v1](http://arxiv.org/abs/2209.09772v1)|null|
+|**2022-09-20**|**A high-order artificial compressibility method based on Taylor series time-stepping for variable density flow**|Lukas Lundgren et.al.|[2209.09698v1](http://arxiv.org/abs/2209.09698v1)|null|
+|**2022-09-20**|**Frame Size Optimization Using a Machine Learning Approach in WLAN Downlink MU-MIMO Channel**|Lemlem Kassa et.al.|[2209.09687v1](http://arxiv.org/abs/2209.09687v1)|null|
 |**2022-09-19**|**Data-Driven Stochastic Optimal Control Using Kernel Gradients**|Adam J. Thorpe et.al.|[2209.09205v1](http://arxiv.org/abs/2209.09205v1)|null|
 |**2022-09-19**|**Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms**|Marcello Carioni et.al.|[2209.09167v1](http://arxiv.org/abs/2209.09167v1)|null|
 |**2022-09-19**|**On the Theoretical Properties of Noise Correlation in Stochastic Optimization**|Aurelien Lucchi et.al.|[2209.09162v1](http://arxiv.org/abs/2209.09162v1)|null|
@@ -778,6 +788,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
+|**2022-09-20**|**Modeling of 3D Printable Electrical Machineries Ferromagnetic Parts**|Shinthia Binte Eskender et.al.|[2209.09894v1](http://arxiv.org/abs/2209.09894v1)|null|
+|**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|
+|**2022-09-20**|**Soft Action Priors: Towards Robust Policy Transfer**|Matheus Centa et.al.|[2209.09882v1](http://arxiv.org/abs/2209.09882v1)|null|
+|**2022-09-20**|**Rethink the Adversarial Scenario-based Safety Testing of Robots: the Comparability and Optimal Aggressiveness**|Bowen Weng et.al.|[2209.09879v1](http://arxiv.org/abs/2209.09879v1)|null|
+|**2022-09-20**|**Characteristics of a Nickel Vanadium redox flow battery Based on COMSOL**|Anupam Saha et.al.|[2209.09872v1](http://arxiv.org/abs/2209.09872v1)|null|
+|**2022-09-20**|**Modified Macdonald polynomials and the multispecies zero range process: II**|Arvind Ayyer et.al.|[2209.09859v1](http://arxiv.org/abs/2209.09859v1)|null|
+|**2022-09-20**|**Extremely Simple Activation Shaping for Out-of-Distribution Detection**|Andrija Djurisic et.al.|[2209.09858v1](http://arxiv.org/abs/2209.09858v1)|**[link](https://github.com/andrijazz/ash)**|
+|**2022-09-20**|**Frequency Dropout: Feature-Level Regularization via Randomized Filtering**|Mobarakol Islam et.al.|[2209.09844v1](http://arxiv.org/abs/2209.09844v1)|null|
+|**2022-09-20**|**Improving Replay-Based Continual Semantic Segmentation with Smart Data Selection**|Tobias Kalb et.al.|[2209.09839v1](http://arxiv.org/abs/2209.09839v1)|**[link](https://github.com/tobiaskalb/disjoint_cityscape_splits)**|
 |**2022-09-19**|**Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data**|Rihuan Ke et.al.|[2209.09214v1](http://arxiv.org/abs/2209.09214v1)|null|
 |**2022-09-19**|**Proceedings of the Sixth Working Formal Methods Symposium**|Vlad Rusu et.al.|[2209.09208v1](http://arxiv.org/abs/2209.09208v1)|null|
 |**2022-09-19**|**Data-Driven Stochastic Optimal Control Using Kernel Gradients**|Adam J. Thorpe et.al.|[2209.09205v1](http://arxiv.org/abs/2209.09205v1)|null|
