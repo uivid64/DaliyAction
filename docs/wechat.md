@@ -1,4 +1,4 @@
-> Updated on 2022.09.20
+> Updated on 2022.09.21
 
 ## SLAM
 
@@ -498,7 +498,7 @@
 - 2022-09-19, **Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms**, Marcello Carioni et.al., Paper: [http://arxiv.org/abs/2209.09167v1](http://arxiv.org/abs/2209.09167v1)
 - 2022-09-19, **On the Theoretical Properties of Noise Correlation in Stochastic Optimization**, Aurelien Lucchi et.al., Paper: [http://arxiv.org/abs/2209.09162v1](http://arxiv.org/abs/2209.09162v1)
 - 2022-09-19, **Plastic ridge formation in a compressed thin amorphous film**, Gianfranco Cordella et.al., Paper: [http://arxiv.org/abs/2209.09055v1](http://arxiv.org/abs/2209.09055v1)
-- 2022-09-19, **Machine Learning the Hubble Constant**, Carlos Bengaly et.al., Paper: [http://arxiv.org/abs/2209.09017v1](http://arxiv.org/abs/2209.09017v1)
+- 2022-09-19, **Machine Learning the Hubble Constant**, Carlos Bengaly et.al., Paper: [http://arxiv.org/abs/2209.09017v1](http://arxiv.org/abs/2209.09017v1), Code: **[https://github.com/astrobengaly/machine_learning_h0](https://github.com/astrobengaly/machine_learning_h0)**
 - 2022-09-19, **Enforcing the consensus between Trajectory Optimization and Policy Learning for precise robot control**, Quentin Le Lidec et.al., Paper: [http://arxiv.org/abs/2209.09006v1](http://arxiv.org/abs/2209.09006v1)
 - 2022-09-19, **EcoFormer: Energy-Saving Attention with Linear Complexity**, Jing Liu et.al., Paper: [http://arxiv.org/abs/2209.09004v1](http://arxiv.org/abs/2209.09004v1)
 - 2022-09-19, **MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation**, Chuanxia Zheng et.al., Paper: [http://arxiv.org/abs/2209.09002v1](http://arxiv.org/abs/2209.09002v1)
@@ -845,7 +845,7 @@
 - 2022-09-17, **pFedDef: Defending Grey-Box Attacks for Personalized Federated Learning**, Taejin Kim et.al., Paper: [http://arxiv.org/abs/2209.08412v1](http://arxiv.org/abs/2209.08412v1), Code: **[https://github.com/tj-kim/pfeddef_v1](https://github.com/tj-kim/pfeddef_v1)**
 - 2022-09-17, **Linear Network Coding Based Fast Data Synchronization for Wireless Ad Hoc Networks with Controlled Topology**, Die Hu et.al., Paper: [http://arxiv.org/abs/2209.08255v1](http://arxiv.org/abs/2209.08255v1)
 - 2022-09-16, **Reinforcement Learning Based Cooperative P2P Energy Trading between DC Nanogrid Clusters with Wind and PV Energy Resources**, Sangkeum Lee et.al., Paper: [http://arxiv.org/abs/2209.07744v1](http://arxiv.org/abs/2209.07744v1)
-- 2022-09-16, **Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**, Jie Feng et.al., Paper: [http://arxiv.org/abs/2209.07669v1](http://arxiv.org/abs/2209.07669v1)
+- 2022-09-16, **Stability Constrained Reinforcement Learning for Real-Time Voltage Control in Distribution Systems**, Jie Feng et.al., Paper: [http://arxiv.org/abs/2209.07669v1](http://arxiv.org/abs/2209.07669v1), Code: **[https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control](https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control)**
 - 2022-09-12, **A SOCP-based ACOPF for Operational Scheduling of Three-phase Unbalanced Distribution Systems and Coordination of PV Smart Inverters**, Mingyue He et.al., Paper: [http://arxiv.org/abs/2209.05613v1](http://arxiv.org/abs/2209.05613v1)
 - 2022-09-10, **A generic framework for coded caching and distributed computation schemes**, Min Xu et.al., Paper: [http://arxiv.org/abs/2209.04647v1](http://arxiv.org/abs/2209.04647v1)
 - 2022-09-09, **Parameterized Linear Power Flow for High Fidelity Voltage Solutions in Distribution Systems**, Marija Marković et.al., Paper: [http://arxiv.org/abs/2209.04508v1](http://arxiv.org/abs/2209.04508v1)
