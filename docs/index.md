@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.21
+## Updated on 2022.09.22
 
 ## SLAM
 
@@ -610,10 +610,10 @@ layout: default
 |**2022-09-20**|**Compressing the cosmological information in one-dimensional correlations of the Lyman-$α$ forest**|Christian Pedersen et.al.|[2209.09895v1](http://arxiv.org/abs/2209.09895v1)|null|
 |**2022-09-20**|**Characteristics of a Nickel Vanadium redox flow battery Based on COMSOL**|Anupam Saha et.al.|[2209.09872v1](http://arxiv.org/abs/2209.09872v1)|null|
 |**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
-|**2022-09-20**|**Optical properties of SiV and GeV color centers in nanodiamonds under hydrostatic pressures up to 180 GPa**|Baptiste Vindolet et.al.|[2209.09792v1](http://arxiv.org/abs/2209.09792v1)|null|
+|**2022-09-21**|**Optical properties of SiV and GeV color centers in nanodiamonds under hydrostatic pressures up to 180 GPa**|Baptiste Vindolet et.al.|[2209.09792v2](http://arxiv.org/abs/2209.09792v2)|null|
 |**2022-09-20**|**Dimensionality reduction with variational encoders based on subsystem purification**|Raja Selvarajan et.al.|[2209.09791v1](http://arxiv.org/abs/2209.09791v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
-|**2022-09-20**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v1](http://arxiv.org/abs/2209.09776v1)|null|
+|**2022-09-21**|**IRS Assisted NOMA Aided Mobile Edge Computing with Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning**|Jiadong Yu et.al.|[2209.09776v2](http://arxiv.org/abs/2209.09776v2)|null|
 |**2022-09-20**|**A Deep Reinforcement Learning-Based Charging Scheduling Approach with Augmented Lagrangian for Electric Vehicle**|Guibin. Chen et.al.|[2209.09772v1](http://arxiv.org/abs/2209.09772v1)|null|
 |**2022-09-20**|**A high-order artificial compressibility method based on Taylor series time-stepping for variable density flow**|Lukas Lundgren et.al.|[2209.09698v1](http://arxiv.org/abs/2209.09698v1)|null|
 |**2022-09-20**|**Frame Size Optimization Using a Machine Learning Approach in WLAN Downlink MU-MIMO Channel**|Lemlem Kassa et.al.|[2209.09687v1](http://arxiv.org/abs/2209.09687v1)|null|
