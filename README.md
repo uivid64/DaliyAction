@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
+|**2022-09-21**|**An unconditionally energy stable and positive upwind DG scheme for the Keller-Segel model**|Daniel Acosta-Soba et.al.|[2209.10508v1](http://arxiv.org/abs/2209.10508v1)|null|
+|**2022-09-21**|**Gemino: Practical and Robust Neural Compression for Video Conferencing**|Vibhaalakshmi Sivaraman et.al.|[2209.10507v1](http://arxiv.org/abs/2209.10507v1)|null|
+|**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|**[link](https://github.com/swarnahub/summarizationprograms)**|
+|**2022-09-21**|**PHz scale spectral broadening and few-cycle compression of Yb:KGW laser pulses in a pressurized, gas-filled hollow-core fiber**|Z. Pi et.al.|[2209.10472v1](http://arxiv.org/abs/2209.10472v1)|null|
+|**2022-09-21**|**Stability studies of first order spin-hydrodynamic frameworks**|Asaad Daher et.al.|[2209.10460v1](http://arxiv.org/abs/2209.10460v1)|null|
+|**2022-09-21**|**Two Dimensional Sparse-Regularization-Based InSAR Imaging with Back-Projection Embedding**|Xu Zhan et.al.|[2209.10417v1](http://arxiv.org/abs/2209.10417v1)|null|
+|**2022-09-21**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|null|
+|**2022-09-21**|**Microscopic origin of the valence transition in tetragonal EuPd$_2$Si$_2$**|Young-Joon Song et.al.|[2209.10354v1](http://arxiv.org/abs/2209.10354v1)|null|
+|**2022-09-21**|**Cold-atom sources for the Matter-wave laser Interferometric Gravitation Antenna (MIGA)**|Quentin Beaufils et.al.|[2209.10234v1](http://arxiv.org/abs/2209.10234v1)|null|
 |**2022-09-20**|**Compressing the cosmological information in one-dimensional correlations of the Lyman-$α$ forest**|Christian Pedersen et.al.|[2209.09895v1](http://arxiv.org/abs/2209.09895v1)|null|
 |**2022-09-20**|**Characteristics of a Nickel Vanadium redox flow battery Based on COMSOL**|Anupam Saha et.al.|[2209.09872v1](http://arxiv.org/abs/2209.09872v1)|null|
 |**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
@@ -788,6 +798,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
+|**2022-09-21**|**Terrace effects in grazing-incidence fast atom diffraction from a LiF(001) surface**|L. Frisco et.al.|[2209.10530v1](http://arxiv.org/abs/2209.10530v1)|null|
+|**2022-09-21**|**Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces**|Saeed Vahidian et.al.|[2209.10526v1](http://arxiv.org/abs/2209.10526v1)|**[link](https://github.com/mmorafah/pacfl)**|
+|**2022-09-21**|**Consensus-based Fast and Energy-Efficient Multi-Robot Task Allocation**|Prabhat Mahato et.al.|[2209.10513v1](http://arxiv.org/abs/2209.10513v1)|null|
+|**2022-09-21**|**A Generalization of the DMC**|Sergey Tridenski et.al.|[2209.10506v1](http://arxiv.org/abs/2209.10506v1)|null|
+|**2022-09-21**|**Random graphs from structured classes**|Colin McDiarmid et.al.|[2209.10476v1](http://arxiv.org/abs/2209.10476v1)|null|
+|**2022-09-21**|**Change my Mind: Data Driven Estimate of Open-Mindedness from Political Discussions**|Valentina Pansanella et.al.|[2209.10470v1](http://arxiv.org/abs/2209.10470v1)|null|
+|**2022-09-21**|**Estimation of circular statistics in the presence of measurement bias**|Abdallah Alsammani et.al.|[2209.10468v1](http://arxiv.org/abs/2209.10468v1)|null|
+|**2022-09-21**|**Understanding Information Disclosure from Secure Computation Output: A Study of Average Salary Computation**|Alessandro Baccarini et.al.|[2209.10457v1](http://arxiv.org/abs/2209.10457v1)|null|
+|**2022-09-21**|**Coaxing the Eclipsing Binary V367 Cygni Out of Its Shell**|T. J. Davidge et.al.|[2209.10449v1](http://arxiv.org/abs/2209.10449v1)|null|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**Modeling of 3D Printable Electrical Machineries Ferromagnetic Parts**|Shinthia Binte Eskender et.al.|[2209.09894v1](http://arxiv.org/abs/2209.09894v1)|null|
 |**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|
@@ -973,6 +993,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Building Flexible, Low-Cost Wireless Access Networks With Magma**|Shaddi Hasan et.al.|[2209.10001v1](http://arxiv.org/abs/2209.10001v1)|null|
 |**2022-09-19**|**Proceedings of the Sixth Working Formal Methods Symposium**|Vlad Rusu et.al.|[2209.09208v1](http://arxiv.org/abs/2209.09208v1)|null|
 |**2022-09-18**|**Empirical Analysis on Top-k Gradient Sparsification for Distributed Deep Learning in a Supercomputing Environment**|Daegun Yoon et.al.|[2209.08497v1](http://arxiv.org/abs/2209.08497v1)|null|
 |**2022-09-17**|**pFedDef: Defending Grey-Box Attacks for Personalized Federated Learning**|Taejin Kim et.al.|[2209.08412v1](http://arxiv.org/abs/2209.08412v1)|**[link](https://github.com/tj-kim/pfeddef_v1)**|
