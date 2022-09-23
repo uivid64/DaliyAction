@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**Poisson Flow Generative Models**|Yilun Xu et.al.|[2209.11178v1](http://arxiv.org/abs/2209.11178v1)|**[link](https://github.com/newbeeer/poisson_flow)**|
+|**2022-09-22**|**Characterisation of gradient flows for a given functional**|Morris Brooks et.al.|[2209.11149v1](http://arxiv.org/abs/2209.11149v1)|null|
+|**2022-09-22**|**Structure Learning of Quantum Embeddings**|Massimiliano Incudini et.al.|[2209.11144v1](http://arxiv.org/abs/2209.11144v1)|null|
+|**2022-09-22**|**Direct Emission of Strong Radio Pulses During Magnetar Flares**|Christopher Thompson et.al.|[2209.11136v1](http://arxiv.org/abs/2209.11136v1)|null|
+|**2022-09-22**|**Training neural network ensembles via trajectory sampling**|Jamie F. Mair et.al.|[2209.11116v1](http://arxiv.org/abs/2209.11116v1)|null|
+|**2022-09-22**|**High-dimensional spatial mode sorting and optical circuit design using multi-plane light conversion**|Hlib Kupianskyi et.al.|[2209.11081v1](http://arxiv.org/abs/2209.11081v1)|null|
+|**2022-09-22**|**Simulation-based inference of Bayesian hierarchical models while checking for model misspecification**|Florent Leclercq et.al.|[2209.11057v1](http://arxiv.org/abs/2209.11057v1)|**[link](https://github.com/florent-leclercq/pyselfi)**|
+|**2022-09-22**|**One-Shot Messaging at Any Load Through Random Sub-Channeling in OFDM**|Gerhard Wunder et.al.|[2209.11056v1](http://arxiv.org/abs/2209.11056v1)|null|
+|**2022-09-22**|**Hybrid actor-critic algorithm for quantum reinforcement learning at CERN beam lines**|Michael Schenk et.al.|[2209.11044v1](http://arxiv.org/abs/2209.11044v1)|null|
+|**2022-09-22**|**Stochastic Optimization of 3D Non-Cartesian Sampling Trajectory (SNOPY)**|Guanhua Wang et.al.|[2209.11030v1](http://arxiv.org/abs/2209.11030v1)|null|
 |**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
 |**2022-09-21**|**An unconditionally energy stable and positive upwind DG scheme for the Keller-Segel model**|Daniel Acosta-Soba et.al.|[2209.10508v1](http://arxiv.org/abs/2209.10508v1)|null|
 |**2022-09-22**|**Gemino: Practical and Robust Neural Compression for Video Conferencing**|Vibhaalakshmi Sivaraman et.al.|[2209.10507v2](http://arxiv.org/abs/2209.10507v2)|null|
@@ -802,6 +812,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**Quantum theory in finite dimension cannot explain every general process with finite memory**|Marco Fanizza et.al.|[2209.11225v1](http://arxiv.org/abs/2209.11225v1)|null|
+|**2022-09-22**|**Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**|Tim D. Pearce et.al.|[2209.11219v1](http://arxiv.org/abs/2209.11219v1)|null|
+|**2022-09-22**|**Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions**|Sitan Chen et.al.|[2209.11215v1](http://arxiv.org/abs/2209.11215v1)|null|
+|**2022-09-22**|**Geometric Gauge Freedom in Multisymplectic Field Theories**|Jordi Gaset et.al.|[2209.11212v1](http://arxiv.org/abs/2209.11212v1)|null|
+|**2022-09-22**|**A Better Angle on Hadron Transverse Momentum Distributions at the EIC**|Anjie Gao et.al.|[2209.11211v1](http://arxiv.org/abs/2209.11211v1)|null|
+|**2022-09-22**|**Poisson Flow Generative Models**|Yilun Xu et.al.|[2209.11178v1](http://arxiv.org/abs/2209.11178v1)|**[link](https://github.com/newbeeer/poisson_flow)**|
+|**2022-09-22**|**Heavy-flavor impact on CTEQ-TEA global QCD analyses**|Marco Guzzi et.al.|[2209.11143v1](http://arxiv.org/abs/2209.11143v1)|null|
+|**2022-09-22**|**A Generalist Neural Algorithmic Learner**|Borja Ibarz et.al.|[2209.11142v1](http://arxiv.org/abs/2209.11142v1)|null|
+|**2022-09-22**|**Kinematical higher-twist corrections in $γ^* γ\to M \bar M $**|Cédric Lorcé et.al.|[2209.11140v1](http://arxiv.org/abs/2209.11140v1)|null|
+|**2022-09-22**|**Extensions of true skewness for unimodal distributions**|Yevgeniy Kovchegov et.al.|[2209.11139v1](http://arxiv.org/abs/2209.11139v1)|null|
 |**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
 |**2022-09-21**|**Terrace effects in grazing-incidence fast atom diffraction from a LiF(001) surface**|L. Frisco et.al.|[2209.10530v1](http://arxiv.org/abs/2209.10530v1)|null|
 |**2022-09-21**|**Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces**|Saeed Vahidian et.al.|[2209.10526v1](http://arxiv.org/abs/2209.10526v1)|**[link](https://github.com/mmorafah/pacfl)**|
@@ -997,6 +1017,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**|Jack Saunders et.al.|[2209.11094v1](http://arxiv.org/abs/2209.11094v1)|null|
+|**2022-09-22**|**Combined Unbalanced Distribution System State and Line Impedance Matrix Estimation**|Marta Vanin et.al.|[2209.10938v1](http://arxiv.org/abs/2209.10938v1)|null|
+|**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
+|**2022-09-21**|**A Supervisory Volt/VAR Control Scheme for Coordinating Voltage Regulators with Smart Inverters on a Distribution System**|Valliappan Muthukaruppan et.al.|[2209.10681v1](http://arxiv.org/abs/2209.10681v1)|null|
 |**2022-09-20**|**Building Flexible, Low-Cost Wireless Access Networks With Magma**|Shaddi Hasan et.al.|[2209.10001v1](http://arxiv.org/abs/2209.10001v1)|**[link](https://github.com/magma/magma)**|
 |**2022-09-19**|**Proceedings of the Sixth Working Formal Methods Symposium**|Vlad Rusu et.al.|[2209.09208v1](http://arxiv.org/abs/2209.09208v1)|null|
 |**2022-09-18**|**Empirical Analysis on Top-k Gradient Sparsification for Distributed Deep Learning in a Supercomputing Environment**|Daegun Yoon et.al.|[2209.08497v1](http://arxiv.org/abs/2209.08497v1)|null|
