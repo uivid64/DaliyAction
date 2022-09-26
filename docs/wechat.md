@@ -1,4 +1,4 @@
-> Updated on 2022.09.25
+> Updated on 2022.09.26
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-23, **Estimating the entanglement of random multipartite quantum states**, Khurshed Fitter et.al., Paper: [http://arxiv.org/abs/2209.11754v1](http://arxiv.org/abs/2209.11754v1)
+- 2022-09-23, **Replica approach to the generalized Rosenzweig-Porter model**, Davide Venturelli et.al., Paper: [http://arxiv.org/abs/2209.11732v1](http://arxiv.org/abs/2209.11732v1)
+- 2022-09-23, **Towards critical and supercritical electromagnetic fields**, M. Marklund et.al., Paper: [http://arxiv.org/abs/2209.11720v1](http://arxiv.org/abs/2209.11720v1)
+- 2022-09-23, **Interaction Between an Optically Levitated Nanoparticle and Its Thermal Image: Internal Thermometry via Displacement Sensing**, Thomas Agrenius et.al., Paper: [http://arxiv.org/abs/2209.11642v1](http://arxiv.org/abs/2209.11642v1)
+- 2022-09-23, **From Weakly Supervised Learning to Active Learning**, Vivien Cabannes et.al., Paper: [http://arxiv.org/abs/2209.11629v1](http://arxiv.org/abs/2209.11629v1)
+- 2022-09-23, **UAV-Assisted Hierarchical Aggregation for Over-the-Air Federated Learning**, Xiangyu Zhong et.al., Paper: [http://arxiv.org/abs/2209.11624v1](http://arxiv.org/abs/2209.11624v1)
+- 2022-09-23, **Topology of Reionisation times: concepts, measurements and comparisons to gaussian random field predictions**, Emilie Thélie et.al., Paper: [http://arxiv.org/abs/2209.11608v1](http://arxiv.org/abs/2209.11608v1)
+- 2022-09-23, **I-SPLIT: Deep Network Interpretability for Split Computing**, Federico Cunico et.al., Paper: [http://arxiv.org/abs/2209.11607v1](http://arxiv.org/abs/2209.11607v1)
+- 2022-09-23, **Buchdahl quark stars within $f(Q)$ theory**, Oleksii Sokoliuk et.al., Paper: [http://arxiv.org/abs/2209.11590v1](http://arxiv.org/abs/2209.11590v1)
+- 2022-09-23, **MAGIC: Mask-Guided Image Synthesis by Inverting a Quasi-Robust Classifier**, Mozhdeh Rouhsedaghat et.al., Paper: [http://arxiv.org/abs/2209.11549v1](http://arxiv.org/abs/2209.11549v1)
 - 2022-09-22, **Poisson Flow Generative Models**, Yilun Xu et.al., Paper: [http://arxiv.org/abs/2209.11178v1](http://arxiv.org/abs/2209.11178v1), Code: **[https://github.com/newbeeer/poisson_flow](https://github.com/newbeeer/poisson_flow)**
 - 2022-09-22, **Characterisation of gradient flows for a given functional**, Morris Brooks et.al., Paper: [http://arxiv.org/abs/2209.11149v1](http://arxiv.org/abs/2209.11149v1)
 - 2022-09-22, **Structure Learning of Quantum Embeddings**, Massimiliano Incudini et.al., Paper: [http://arxiv.org/abs/2209.11144v1](http://arxiv.org/abs/2209.11144v1)
@@ -697,6 +707,16 @@
 
 ## Distributed Training
 
+- 2022-09-23, **Estimating the entanglement of random multipartite quantum states**, Khurshed Fitter et.al., Paper: [http://arxiv.org/abs/2209.11754v1](http://arxiv.org/abs/2209.11754v1)
+- 2022-09-23, **A Knowledge-driven Physics-Informed Neural Network model; Pyrolysis and Ablation of Polymers**, Aref Ghaderi et.al., Paper: [http://arxiv.org/abs/2209.11749v1](http://arxiv.org/abs/2209.11749v1)
+- 2022-09-23, **Semantic scene descriptions as an objective of human vision**, Adrien Doerig et.al., Paper: [http://arxiv.org/abs/2209.11737v1](http://arxiv.org/abs/2209.11737v1)
+- 2022-09-23, **Posterior Probabilities: Nonmonotonicity, Asymptotic Rates, Log-Concavity, and Turán's Inequality**, Sergiu Hart et.al., Paper: [http://arxiv.org/abs/2209.11728v1](http://arxiv.org/abs/2209.11728v1)
+- 2022-09-23, **Photonic interface between subcarrier wave and dual rail encodings**, K. S. Melnik et.al., Paper: [http://arxiv.org/abs/2209.11719v1](http://arxiv.org/abs/2209.11719v1)
+- 2022-09-23, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v1](http://arxiv.org/abs/2209.11715v1)
+- 2022-09-23, **Logarithmic entanglement scaling in dissipative free-fermion systems**, Antonio D'Abbruzzo et.al., Paper: [http://arxiv.org/abs/2209.11706v1](http://arxiv.org/abs/2209.11706v1)
+- 2022-09-23, **Nonparametric clustering of RNA-sequencing data**, Gabriel Lozano et.al., Paper: [http://arxiv.org/abs/2209.11705v1](http://arxiv.org/abs/2209.11705v1)
+- 2022-09-23, **Foreground removal and 21 cm signal estimates: comparing different blind methods for the BINGO Telescope**, Alessandro Marins et.al., Paper: [http://arxiv.org/abs/2209.11701v1](http://arxiv.org/abs/2209.11701v1)
+- 2022-09-23, **A plano-convex thick-lens velocity map imaging apparatus for direct, high resolution 3D momentum measurements of photoelectrons with ion time-of-flight coincidence**, Michael Davino et.al., Paper: [http://arxiv.org/abs/2209.11690v1](http://arxiv.org/abs/2209.11690v1)
 - 2022-09-22, **Quantum theory in finite dimension cannot explain every general process with finite memory**, Marco Fanizza et.al., Paper: [http://arxiv.org/abs/2209.11225v1](http://arxiv.org/abs/2209.11225v1)
 - 2022-09-22, **Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**, Tim D. Pearce et.al., Paper: [http://arxiv.org/abs/2209.11219v1](http://arxiv.org/abs/2209.11219v1)
 - 2022-09-22, **Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions**, Sitan Chen et.al., Paper: [http://arxiv.org/abs/2209.11215v1](http://arxiv.org/abs/2209.11215v1)
