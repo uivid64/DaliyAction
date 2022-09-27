@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
+|**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
+|**2022-09-26**|**Targeted Separation and Convergence with Kernel Discrepancies**|Alessandro Barp et.al.|[2209.12835v1](http://arxiv.org/abs/2209.12835v1)|null|
+|**2022-09-26**|**Adaptation of Autoencoder for Sparsity Reduction From Clinical Notes Representation Learning**|Thanh-Dung Le et.al.|[2209.12831v1](http://arxiv.org/abs/2209.12831v1)|null|
+|**2022-09-26**|**Uniform Exact Reconstruction of Sparse Signals and Low-rank Matrices from Phase-Only Measurements**|Junren Chen et.al.|[2209.12824v1](http://arxiv.org/abs/2209.12824v1)|null|
+|**2022-09-26**|**Rethinking Resolution in the Context of Efficient Video Recognition**|Chuofan Ma et.al.|[2209.12797v1](http://arxiv.org/abs/2209.12797v1)|**[link](https://github.com/cvmi-lab/reskd)**|
+|**2022-09-26**|**Learning GFlowNets from partial episodes for improved convergence and stability**|Kanika Madan et.al.|[2209.12782v1](http://arxiv.org/abs/2209.12782v1)|null|
+|**2022-09-26**|**Generalized conditional gradient and learning in potential mean field games**|Pierre Lavigne et.al.|[2209.12772v1](http://arxiv.org/abs/2209.12772v1)|null|
+|**2022-09-26**|**Hamiltonian Monte Carlo for efficient Gaussian sampling: long and random steps**|Simon Apers et.al.|[2209.12771v1](http://arxiv.org/abs/2209.12771v1)|null|
+|**2022-09-26**|**Quasi-Conservative Score-based Generative Models**|Chen-Hao Chao et.al.|[2209.12753v1](http://arxiv.org/abs/2209.12753v1)|null|
 |**2022-09-23**|**Estimating the entanglement of random multipartite quantum states**|Khurshed Fitter et.al.|[2209.11754v1](http://arxiv.org/abs/2209.11754v1)|null|
 |**2022-09-23**|**Replica approach to the generalized Rosenzweig-Porter model**|Davide Venturelli et.al.|[2209.11732v1](http://arxiv.org/abs/2209.11732v1)|null|
 |**2022-09-23**|**Towards critical and supercritical electromagnetic fields**|M. Marklund et.al.|[2209.11720v1](http://arxiv.org/abs/2209.11720v1)|null|
@@ -822,6 +832,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-26**|**Learning to Learn with Generative Models of Neural Network Checkpoints**|William Peebles et.al.|[2209.12892v1](http://arxiv.org/abs/2209.12892v1)|**[link](https://github.com/wpeebles/g.pt)**|
+|**2022-09-26**|**It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying**|Eley Ng et.al.|[2209.12890v1](http://arxiv.org/abs/2209.12890v1)|null|
+|**2022-09-26**|**Probing the link between quenching and morphological evolution**|Ioanna Koutsouridou et.al.|[2209.12883v1](http://arxiv.org/abs/2209.12883v1)|null|
+|**2022-09-26**|**Inter-order relations between moments of a Student $t$ distribution, with an application to $L_p$-quantiles**|Valeria Bignozzi et.al.|[2209.12855v1](http://arxiv.org/abs/2209.12855v1)|null|
+|**2022-09-26**|**SIT 45: An interacting, compact, and star-forming isolated galaxy triplet**|D. Grajales-Medina et.al.|[2209.12850v1](http://arxiv.org/abs/2209.12850v1)|null|
+|**2022-09-26**|**Asymmetric Laplace scale mixtures for the distribution of cryptocurrency returns**|Antonio Punzo et.al.|[2209.12848v1](http://arxiv.org/abs/2209.12848v1)|null|
+|**2022-09-26**|**Targeted Separation and Convergence with Kernel Discrepancies**|Alessandro Barp et.al.|[2209.12835v1](http://arxiv.org/abs/2209.12835v1)|null|
+|**2022-09-26**|**Mapping Charge Excitations in Generalized Wigner Crystals**|Hongyuan Li et.al.|[2209.12830v1](http://arxiv.org/abs/2209.12830v1)|null|
+|**2022-09-26**|**Out-of-Distribution Detection with Hilbert-Schmidt Independence Optimization**|Jingyang Lin et.al.|[2209.12807v1](http://arxiv.org/abs/2209.12807v1)|**[link](https://github.com/jylins/hood)**|
+|**2022-09-26**|**Efficient Random Walk based Sampling with Inverse Degree**|Xiao Qi et.al.|[2209.12804v1](http://arxiv.org/abs/2209.12804v1)|null|
 |**2022-09-23**|**Estimating the entanglement of random multipartite quantum states**|Khurshed Fitter et.al.|[2209.11754v1](http://arxiv.org/abs/2209.11754v1)|null|
 |**2022-09-23**|**A Knowledge-driven Physics-Informed Neural Network model; Pyrolysis and Ablation of Polymers**|Aref Ghaderi et.al.|[2209.11749v1](http://arxiv.org/abs/2209.11749v1)|null|
 |**2022-09-23**|**Semantic scene descriptions as an objective of human vision**|Adrien Doerig et.al.|[2209.11737v1](http://arxiv.org/abs/2209.11737v1)|null|
@@ -1037,6 +1057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-26**|**Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**|Xiaodong Yi et.al.|[2209.12769v1](http://arxiv.org/abs/2209.12769v1)|null|
+|**2022-09-26**|**An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications**|Junpeng Zhang et.al.|[2209.12565v1](http://arxiv.org/abs/2209.12565v1)|null|
 |**2022-09-22**|**Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**|Jack Saunders et.al.|[2209.11094v1](http://arxiv.org/abs/2209.11094v1)|null|
 |**2022-09-22**|**Combined Unbalanced Distribution System State and Line Impedance Matrix Estimation**|Marta Vanin et.al.|[2209.10938v1](http://arxiv.org/abs/2209.10938v1)|null|
 |**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
