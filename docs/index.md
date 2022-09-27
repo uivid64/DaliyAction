@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.26
+## Updated on 2022.09.27
 
 ## SLAM
 
@@ -827,7 +827,7 @@ layout: default
 |**2022-09-23**|**Semantic scene descriptions as an objective of human vision**|Adrien Doerig et.al.|[2209.11737v1](http://arxiv.org/abs/2209.11737v1)|null|
 |**2022-09-23**|**Posterior Probabilities: Nonmonotonicity, Asymptotic Rates, Log-Concavity, and Turán's Inequality**|Sergiu Hart et.al.|[2209.11728v1](http://arxiv.org/abs/2209.11728v1)|null|
 |**2022-09-23**|**Photonic interface between subcarrier wave and dual rail encodings**|K. S. Melnik et.al.|[2209.11719v1](http://arxiv.org/abs/2209.11719v1)|null|
-|**2022-09-23**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v1](http://arxiv.org/abs/2209.11715v1)|null|
+|**2022-09-26**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v2](http://arxiv.org/abs/2209.11715v2)|**[link](https://github.com/wanlunsec/beatrix)**|
 |**2022-09-23**|**Logarithmic entanglement scaling in dissipative free-fermion systems**|Antonio D'Abbruzzo et.al.|[2209.11706v1](http://arxiv.org/abs/2209.11706v1)|null|
 |**2022-09-23**|**Nonparametric clustering of RNA-sequencing data**|Gabriel Lozano et.al.|[2209.11705v1](http://arxiv.org/abs/2209.11705v1)|null|
 |**2022-09-23**|**Foreground removal and 21 cm signal estimates: comparing different blind methods for the BINGO Telescope**|Alessandro Marins et.al.|[2209.11701v1](http://arxiv.org/abs/2209.11701v1)|null|
