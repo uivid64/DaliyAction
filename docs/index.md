@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
+|**2022-09-27**|**Escaping saddle points in zeroth-order optimization: two function evaluations suffice**|Zhaolin Ren et.al.|[2209.13555v1](http://arxiv.org/abs/2209.13555v1)|null|
+|**2022-09-27**|**Quantitative flow visualization by hidden grid background oriented schlieren**|Jagadesh Ramaiah et.al.|[2209.13546v1](http://arxiv.org/abs/2209.13546v1)|null|
+|**2022-09-27**|**Scaling Laws For Deep Learning Based Image Reconstruction**|Tobit Klug et.al.|[2209.13435v1](http://arxiv.org/abs/2209.13435v1)|**[link](https://github.com/mli-lab/scaling_laws_for_deep_learning_based_image_reconstruction)**|
+|**2022-09-27**|**Efficient On-Device Session-Based Recommendation**|Xin Xia et.al.|[2209.13422v1](http://arxiv.org/abs/2209.13422v1)|null|
+|**2022-09-27**|**Magnitude and Angle Dynamics in Training Single ReLU Neurons**|Sangmin Lee et.al.|[2209.13394v1](http://arxiv.org/abs/2209.13394v1)|null|
+|**2022-09-27**|**Neural Network Panning: Screening the Optimal Sparse Network Before Training**|Xiatao Kang et.al.|[2209.13378v1](http://arxiv.org/abs/2209.13378v1)|**[link](https://github.com/kangxiatao/rlpanning)**|
+|**2022-09-27**|**Validity of sound-proof approximations for magnetic buoyancy**|John B. Moss et.al.|[2209.13315v1](http://arxiv.org/abs/2209.13315v1)|null|
+|**2022-09-27**|**Oracular Byzantine Reliable Broadcast [Extended Version]**|Martina Camaioni et.al.|[2209.13304v1](http://arxiv.org/abs/2209.13304v1)|null|
+|**2022-09-27**|**Atomically Thin Yellow Pearl: An Impetus for Thermal Nonlinear Optical Effect Assisted Continuous Wave Random Lasing**|N. Mandal et.al.|[2209.13295v1](http://arxiv.org/abs/2209.13295v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
 |**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
 |**2022-09-26**|**Targeted Separation and Convergence with Kernel Discrepancies**|Alessandro Barp et.al.|[2209.12835v1](http://arxiv.org/abs/2209.12835v1)|null|
@@ -832,6 +842,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-27**|**Long-term optical and $γ-$ray variability of the blazar PKS~1222+216**|Savithri H. Ezhikode et.al.|[2209.13574v1](http://arxiv.org/abs/2209.13574v1)|null|
+|**2022-09-27**|**The asymptotic number of score sequences**|Brett Kolesnik et.al.|[2209.13563v1](http://arxiv.org/abs/2209.13563v1)|null|
+|**2022-09-27**|**Dynamical friction of a massive black hole in a turbulent gaseous medium**|Sandrine Lescaudron et.al.|[2209.13548v1](http://arxiv.org/abs/2209.13548v1)|null|
+|**2022-09-27**|**Collective risk models with FGM dependence**|Christopher Blier-Wong et.al.|[2209.13543v1](http://arxiv.org/abs/2209.13543v1)|null|
+|**2022-09-27**|**Drell-Yan cross-sections with fiducial cuts: impact of linear power corrections and $q_T$-resummation in PDF determination**|Simone Amoroso et.al.|[2209.13535v1](http://arxiv.org/abs/2209.13535v1)|null|
+|**2022-09-27**|**Improved covariance estimation: optimal robustness and sub-Gaussian guarantees under heavy tails**|Roberto I. Oliveira et.al.|[2209.13485v1](http://arxiv.org/abs/2209.13485v1)|null|
+|**2022-09-27**|**Scaling limit of the disordered generalized Poland--Scheraga model for DNA denaturation**|Quentin Berger et.al.|[2209.13480v1](http://arxiv.org/abs/2209.13480v1)|null|
+|**2022-09-27**|**Unsupervised Domain Adaptation with Histogram-gated Image Translation for Delayered IC Image Analysis**|Yee-Yang Tee et.al.|[2209.13479v1](http://arxiv.org/abs/2209.13479v1)|null|
+|**2022-09-27**|**Mine yOur owN Anatomy: Revisiting Medical Image Segmentation with Extremely Limited Labels**|Chenyu You et.al.|[2209.13476v1](http://arxiv.org/abs/2209.13476v1)|null|
+|**2022-09-27**|**$B_c$ enhancement with non-thermalized bottom quarks in nuclear collisions at Large Hadron Collider**|Jiaxing Zhao et.al.|[2209.13475v1](http://arxiv.org/abs/2209.13475v1)|null|
 |**2022-09-26**|**Learning to Learn with Generative Models of Neural Network Checkpoints**|William Peebles et.al.|[2209.12892v1](http://arxiv.org/abs/2209.12892v1)|**[link](https://github.com/wpeebles/g.pt)**|
 |**2022-09-26**|**It Takes Two: Learning to Plan for Human-Robot Cooperative Carrying**|Eley Ng et.al.|[2209.12890v1](http://arxiv.org/abs/2209.12890v1)|null|
 |**2022-09-26**|**Probing the link between quenching and morphological evolution**|Ioanna Koutsouridou et.al.|[2209.12883v1](http://arxiv.org/abs/2209.12883v1)|null|
@@ -1057,6 +1077,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-27**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v1](http://arxiv.org/abs/2209.13258v1)|null|
+|**2022-09-26**|**FaRO 2: an Open Source, Configurable Smart City Framework for Real-Time Distributed Vision and Biometric Systems**|Joel Brogan et.al.|[2209.12962v1](http://arxiv.org/abs/2209.12962v1)|null|
 |**2022-09-26**|**Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**|Xiaodong Yi et.al.|[2209.12769v1](http://arxiv.org/abs/2209.12769v1)|null|
 |**2022-09-26**|**An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications**|Junpeng Zhang et.al.|[2209.12565v1](http://arxiv.org/abs/2209.12565v1)|null|
 |**2022-09-22**|**Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**|Jack Saunders et.al.|[2209.11094v1](http://arxiv.org/abs/2209.11094v1)|null|
