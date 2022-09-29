@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Constant intensity acoustic propagation in the presence of non-uniform properties and impedance discontinuities: Hermitian and non-Hermitian solutions**|Andrew N. Norris et.al.|[2209.14231v1](http://arxiv.org/abs/2209.14231v1)|null|
+|**2022-09-28**|**Radio source-component association for the LOFAR Two-metre Sky Survey with region-based convolutional neural networks**|Rafaël I. J. Mostert et.al.|[2209.14226v1](http://arxiv.org/abs/2209.14226v1)|null|
+|**2022-09-28**|**Gradient flow step-scaling function for SU(3) with $N_f$ = 6 or 4 fundamental flavors**|Anna Hasenfratz et.al.|[2209.14224v1](http://arxiv.org/abs/2209.14224v1)|null|
+|**2022-09-28**|**Subsonic and supersonic mechanisms in compressible turbulent boundary layers: a perspective from resolvent analysis**|Anagha Madhusudanan et.al.|[2209.14223v1](http://arxiv.org/abs/2209.14223v1)|null|
+|**2022-09-28**|**Graph Universal Cycles: Compression and Connections to Universal Cycles**|Rachel Kirsch et.al.|[2209.14198v1](http://arxiv.org/abs/2209.14198v1)|null|
+|**2022-09-28**|**Colour gradients of low-redshift galaxies in the DESI Legacy Imaging Survey**|Li-Wen Liao et.al.|[2209.14166v1](http://arxiv.org/abs/2209.14166v1)|null|
+|**2022-09-28**|**Learning Filter-Based Compressed Blind-Deconvolution**|Bahareh Tolooshams et.al.|[2209.14165v1](http://arxiv.org/abs/2209.14165v1)|null|
+|**2022-09-28**|**Near Lossless Time Series Data Compression Methods using Statistics and Deviation**|Vidhi Agrawal et.al.|[2209.14162v1](http://arxiv.org/abs/2209.14162v1)|null|
+|**2022-09-28**|**Spiral Arms are Metal Freeways: Azimuthal Gas-Phase Metallicity Variations in Simulated Cosmological Zoom-in Flocculent Disks**|Matthew E. Orr et.al.|[2209.14159v1](http://arxiv.org/abs/2209.14159v1)|null|
+|**2022-09-28**|**Reconstructing the whole from its parts**|Daniel Uzcátegui Contreras et.al.|[2209.14154v1](http://arxiv.org/abs/2209.14154v1)|null|
 |**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
 |**2022-09-27**|**Escaping saddle points in zeroth-order optimization: two function evaluations suffice**|Zhaolin Ren et.al.|[2209.13555v1](http://arxiv.org/abs/2209.13555v1)|null|
 |**2022-09-27**|**Quantitative flow visualization by hidden grid background oriented schlieren**|Jagadesh Ramaiah et.al.|[2209.13546v1](http://arxiv.org/abs/2209.13546v1)|null|
@@ -842,6 +852,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Conformal Prediction is Robust to Label Noise**|Bat-Sheva Einbinder et.al.|[2209.14295v1](http://arxiv.org/abs/2209.14295v1)|null|
+|**2022-09-28**|**Polarized gluon distribution in the proton from holographic light-front QCD**|Bheemsehan Gurjar et.al.|[2209.14285v1](http://arxiv.org/abs/2209.14285v1)|null|
+|**2022-09-28**|**Deep Learning-Based Dose Prediction for Automated, Individualized Quality Assurance of Head and Neck Radiotherapy Plans**|Mary P. Gronberg et.al.|[2209.14277v1](http://arxiv.org/abs/2209.14277v1)|null|
+|**2022-09-28**|**Less is More: Rethinking Few-Shot Learning and Recurrent Neural Nets**|Deborah Pereg et.al.|[2209.14267v1](http://arxiv.org/abs/2209.14267v1)|null|
+|**2022-09-28**|**Waveguide-integrated silicon T centres**|A. DeAbreu et.al.|[2209.14260v1](http://arxiv.org/abs/2209.14260v1)|null|
+|**2022-09-28**|**Preempting to Minimize Age of Incorrect Information under Random Delay**|Yutao Chen et.al.|[2209.14254v1](http://arxiv.org/abs/2209.14254v1)|null|
+|**2022-09-28**|**Score Modeling for Simulation-based Inference**|Tomas Geffner et.al.|[2209.14249v1](http://arxiv.org/abs/2209.14249v1)|null|
+|**2022-09-28**|**Exact and efficient multivariate two-sample tests through generalized linear rank statistics**|Dan D. Erdmann-Pham et.al.|[2209.14235v1](http://arxiv.org/abs/2209.14235v1)|null|
+|**2022-09-28**|**DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body**|Alberto Silvio Chiappa et.al.|[2209.14218v1](http://arxiv.org/abs/2209.14218v1)|null|
+|**2022-09-28**|**Prompt-driven efficient Open-set Semi-supervised Learning**|Haoran Li et.al.|[2209.14205v1](http://arxiv.org/abs/2209.14205v1)|null|
 |**2022-09-27**|**Long-term optical and $γ-$ray variability of the blazar PKS~1222+216**|Savithri H. Ezhikode et.al.|[2209.13574v1](http://arxiv.org/abs/2209.13574v1)|null|
 |**2022-09-27**|**The asymptotic number of score sequences**|Brett Kolesnik et.al.|[2209.13563v1](http://arxiv.org/abs/2209.13563v1)|null|
 |**2022-09-27**|**Dynamical friction of a massive black hole in a turbulent gaseous medium**|Sandrine Lescaudron et.al.|[2209.13548v1](http://arxiv.org/abs/2209.13548v1)|null|
@@ -1077,6 +1097,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Towards Auditable Distributed Systems**|Lev Sorokin et.al.|[2209.14071v1](http://arxiv.org/abs/2209.14071v1)|null|
+|**2022-09-28**|**Big data analysis and distributed deep learning for next-generation intrusion detection system optimization**|Khloud Al Jallad et.al.|[2209.13961v1](http://arxiv.org/abs/2209.13961v1)|null|
+|**2022-09-28**|**Label Distribution Learning via Implicit Distribution Representation**|Zhuoran Zheng et.al.|[2209.13824v1](http://arxiv.org/abs/2209.13824v1)|null|
 |**2022-09-28**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v2](http://arxiv.org/abs/2209.13258v2)|null|
 |**2022-09-26**|**FaRO 2: an Open Source, Configurable Smart City Framework for Real-Time Distributed Vision and Biometric Systems**|Joel Brogan et.al.|[2209.12962v1](http://arxiv.org/abs/2209.12962v1)|null|
 |**2022-09-26**|**Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**|Xiaodong Yi et.al.|[2209.12769v1](http://arxiv.org/abs/2209.12769v1)|null|
