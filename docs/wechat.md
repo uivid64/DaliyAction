@@ -1,4 +1,4 @@
-> Updated on 2022.09.28
+> Updated on 2022.09.29
 
 ## SLAM
 
@@ -498,7 +498,7 @@
 - 2022-09-27, **Escaping saddle points in zeroth-order optimization: two function evaluations suffice**, Zhaolin Ren et.al., Paper: [http://arxiv.org/abs/2209.13555v1](http://arxiv.org/abs/2209.13555v1)
 - 2022-09-27, **Quantitative flow visualization by hidden grid background oriented schlieren**, Jagadesh Ramaiah et.al., Paper: [http://arxiv.org/abs/2209.13546v1](http://arxiv.org/abs/2209.13546v1)
 - 2022-09-27, **Scaling Laws For Deep Learning Based Image Reconstruction**, Tobit Klug et.al., Paper: [http://arxiv.org/abs/2209.13435v1](http://arxiv.org/abs/2209.13435v1), Code: **[https://github.com/mli-lab/scaling_laws_for_deep_learning_based_image_reconstruction](https://github.com/mli-lab/scaling_laws_for_deep_learning_based_image_reconstruction)**
-- 2022-09-27, **Efficient On-Device Session-Based Recommendation**, Xin Xia et.al., Paper: [http://arxiv.org/abs/2209.13422v1](http://arxiv.org/abs/2209.13422v1)
+- 2022-09-28, **Efficient On-Device Session-Based Recommendation**, Xin Xia et.al., Paper: [http://arxiv.org/abs/2209.13422v2](http://arxiv.org/abs/2209.13422v2)
 - 2022-09-27, **Magnitude and Angle Dynamics in Training Single ReLU Neurons**, Sangmin Lee et.al., Paper: [http://arxiv.org/abs/2209.13394v1](http://arxiv.org/abs/2209.13394v1)
 - 2022-09-27, **Neural Network Panning: Screening the Optimal Sparse Network Before Training**, Xiatao Kang et.al., Paper: [http://arxiv.org/abs/2209.13378v1](http://arxiv.org/abs/2209.13378v1), Code: **[https://github.com/kangxiatao/rlpanning](https://github.com/kangxiatao/rlpanning)**
 - 2022-09-27, **Validity of sound-proof approximations for magnetic buoyancy**, John B. Moss et.al., Paper: [http://arxiv.org/abs/2209.13315v1](http://arxiv.org/abs/2209.13315v1)
@@ -960,7 +960,7 @@
 
 ## Distributed Deep Learning
 
-- 2022-09-27, **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**, Youhe Jiang et.al., Paper: [http://arxiv.org/abs/2209.13258v1](http://arxiv.org/abs/2209.13258v1)
+- 2022-09-28, **OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**, Youhe Jiang et.al., Paper: [http://arxiv.org/abs/2209.13258v2](http://arxiv.org/abs/2209.13258v2)
 - 2022-09-26, **FaRO 2: an Open Source, Configurable Smart City Framework for Real-Time Distributed Vision and Biometric Systems**, Joel Brogan et.al., Paper: [http://arxiv.org/abs/2209.12962v1](http://arxiv.org/abs/2209.12962v1)
 - 2022-09-26, **Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**, Xiaodong Yi et.al., Paper: [http://arxiv.org/abs/2209.12769v1](http://arxiv.org/abs/2209.12769v1)
 - 2022-09-26, **An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications**, Junpeng Zhang et.al., Paper: [http://arxiv.org/abs/2209.12565v1](http://arxiv.org/abs/2209.12565v1)
