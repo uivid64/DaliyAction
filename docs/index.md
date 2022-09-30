@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.29
+## Updated on 2022.09.30
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-29**|**Localized Thermal Gradients On-Chip by Radiative Cooling of Silicon Nitride Nanomechanical Resonators**|Alexandre Bouchard et.al.|[2209.15004v1](http://arxiv.org/abs/2209.15004v1)|null|
+|**2022-09-29**|**DreamFusion: Text-to-3D using 2D Diffusion**|Ben Poole et.al.|[2209.14988v1](http://arxiv.org/abs/2209.14988v1)|null|
+|**2022-09-29**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri S. Fonseca et.al.|[2209.14967v1](http://arxiv.org/abs/2209.14967v1)|null|
+|**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|null|
+|**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|null|
+|**2022-09-29**|**Reference Optical Turbulence and Wind Profiles for Single Conjugate and Extreme Adaptive Optics**|O. J. D. Farley et.al.|[2209.14931v1](http://arxiv.org/abs/2209.14931v1)|null|
+|**2022-09-29**|**Shifted boundary polynomial corrections for compressible flows: high order on curved domains using linear meshes**|Mirco Ciallella et.al.|[2209.14892v1](http://arxiv.org/abs/2209.14892v1)|null|
+|**2022-09-29**|**Accurate global machine learning force fields for molecules with hundreds of atoms**|Stefan Chmiela et.al.|[2209.14865v1](http://arxiv.org/abs/2209.14865v1)|null|
+|**2022-09-29**|**Neural Networks Efficiently Learn Low-Dimensional Representations with SGD**|Alireza Mousavi-Hosseini et.al.|[2209.14863v1](http://arxiv.org/abs/2209.14863v1)|null|
+|**2022-09-29**|**META-STORM: Generalized Fully-Adaptive Variance Reduced SGD for Unbounded Functions**|Zijian Liu et.al.|[2209.14853v1](http://arxiv.org/abs/2209.14853v1)|null|
 |**2022-09-28**|**Constant intensity acoustic propagation in the presence of non-uniform properties and impedance discontinuities: Hermitian and non-Hermitian solutions**|Andrew N. Norris et.al.|[2209.14231v1](http://arxiv.org/abs/2209.14231v1)|null|
 |**2022-09-28**|**Radio source-component association for the LOFAR Two-metre Sky Survey with region-based convolutional neural networks**|Rafaël I. J. Mostert et.al.|[2209.14226v1](http://arxiv.org/abs/2209.14226v1)|null|
 |**2022-09-28**|**Gradient flow step-scaling function for SU(3) with $N_f$ = 6 or 4 fundamental flavors**|Anna Hasenfratz et.al.|[2209.14224v1](http://arxiv.org/abs/2209.14224v1)|null|
@@ -852,6 +862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
+|**2022-09-29**|**Multiple Modes for Continual Learning**|Siddhartha Datta et.al.|[2209.14996v1](http://arxiv.org/abs/2209.14996v1)|null|
+|**2022-09-29**|**Robust Bayesian Non-segmental Detection of Multiple Change-points**|Chong Zhong et.al.|[2209.14995v1](http://arxiv.org/abs/2209.14995v1)|null|
+|**2022-09-29**|**Universality for cokernels of random matrix products**|Hoi H. Nguyen et.al.|[2209.14957v1](http://arxiv.org/abs/2209.14957v1)|null|
+|**2022-09-29**|**CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software**|Yuanyuan Yuan et.al.|[2209.14952v1](http://arxiv.org/abs/2209.14952v1)|null|
+|**2022-09-29**|**Distributed decentralized receding horizon control for very large-scale networks with application to LEO satellite mega-constellations**|Leonardo Pedroso et.al.|[2209.14951v1](http://arxiv.org/abs/2209.14951v1)|null|
+|**2022-09-29**|**EiHi Net: Out-of-Distribution Generalization Paradigm**|Qinglai Wei et.al.|[2209.14946v1](http://arxiv.org/abs/2209.14946v1)|null|
+|**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|null|
+|**2022-09-29**|**Max-linear graphical models with heavy-tailed factors on trees of transitive tournaments**|Johan Segers et.al.|[2209.14938v1](http://arxiv.org/abs/2209.14938v1)|null|
+|**2022-09-29**|**Contrastive Unsupervised Learning of World Model with Invariant Causal Features**|Rudra P. K. Poudel et.al.|[2209.14932v1](http://arxiv.org/abs/2209.14932v1)|null|
 |**2022-09-28**|**Conformal Prediction is Robust to Label Noise**|Bat-Sheva Einbinder et.al.|[2209.14295v1](http://arxiv.org/abs/2209.14295v1)|null|
 |**2022-09-28**|**Polarized gluon distribution in the proton from holographic light-front QCD**|Bheemsehan Gurjar et.al.|[2209.14285v1](http://arxiv.org/abs/2209.14285v1)|null|
 |**2022-09-28**|**Deep Learning-Based Dose Prediction for Automated, Individualized Quality Assurance of Head and Neck Radiotherapy Plans**|Mary P. Gronberg et.al.|[2209.14277v1](http://arxiv.org/abs/2209.14277v1)|null|
@@ -1100,7 +1120,7 @@ layout: default
 |**2022-09-28**|**Towards Auditable Distributed Systems**|Lev Sorokin et.al.|[2209.14071v1](http://arxiv.org/abs/2209.14071v1)|null|
 |**2022-09-28**|**Big data analysis and distributed deep learning for next-generation intrusion detection system optimization**|Khloud Al Jallad et.al.|[2209.13961v1](http://arxiv.org/abs/2209.13961v1)|null|
 |**2022-09-28**|**Label Distribution Learning via Implicit Distribution Representation**|Zhuoran Zheng et.al.|[2209.13824v1](http://arxiv.org/abs/2209.13824v1)|null|
-|**2022-09-28**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v2](http://arxiv.org/abs/2209.13258v2)|null|
+|**2022-09-28**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v2](http://arxiv.org/abs/2209.13258v2)|**[link](https://github.com/youhe-jiang/optimalshardeddataparallel)**|
 |**2022-09-26**|**FaRO 2: an Open Source, Configurable Smart City Framework for Real-Time Distributed Vision and Biometric Systems**|Joel Brogan et.al.|[2209.12962v1](http://arxiv.org/abs/2209.12962v1)|null|
 |**2022-09-26**|**Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**|Xiaodong Yi et.al.|[2209.12769v1](http://arxiv.org/abs/2209.12769v1)|null|
 |**2022-09-26**|**An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications**|Junpeng Zhang et.al.|[2209.12565v1](http://arxiv.org/abs/2209.12565v1)|null|
