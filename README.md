@@ -607,7 +607,7 @@
 |**2022-09-29**|**DreamFusion: Text-to-3D using 2D Diffusion**|Ben Poole et.al.|[2209.14988v1](http://arxiv.org/abs/2209.14988v1)|null|
 |**2022-09-29**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri S. Fonseca et.al.|[2209.14967v1](http://arxiv.org/abs/2209.14967v1)|null|
 |**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|null|
-|**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|null|
+|**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|**[link](https://github.com/skolai/nag-gs)**|
 |**2022-09-29**|**Reference Optical Turbulence and Wind Profiles for Single Conjugate and Extreme Adaptive Optics**|O. J. D. Farley et.al.|[2209.14931v1](http://arxiv.org/abs/2209.14931v1)|null|
 |**2022-09-29**|**Shifted boundary polynomial corrections for compressible flows: high order on curved domains using linear meshes**|Mirco Ciallella et.al.|[2209.14892v1](http://arxiv.org/abs/2209.14892v1)|null|
 |**2022-09-29**|**Accurate global machine learning force fields for molecules with hundreds of atoms**|Stefan Chmiela et.al.|[2209.14865v1](http://arxiv.org/abs/2209.14865v1)|null|
@@ -862,7 +862,7 @@
 |**2022-09-29**|**Multiple Modes for Continual Learning**|Siddhartha Datta et.al.|[2209.14996v1](http://arxiv.org/abs/2209.14996v1)|null|
 |**2022-09-29**|**Robust Bayesian Non-segmental Detection of Multiple Change-points**|Chong Zhong et.al.|[2209.14995v1](http://arxiv.org/abs/2209.14995v1)|null|
 |**2022-09-29**|**Universality for cokernels of random matrix products**|Hoi H. Nguyen et.al.|[2209.14957v1](http://arxiv.org/abs/2209.14957v1)|null|
-|**2022-09-29**|**CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software**|Yuanyuan Yuan et.al.|[2209.14952v1](http://arxiv.org/abs/2209.14952v1)|null|
+|**2022-09-29**|**CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software**|Yuanyuan Yuan et.al.|[2209.14952v1](http://arxiv.org/abs/2209.14952v1)|**[link](https://github.com/yuanyuan-yuan/cacheql)**|
 |**2022-09-29**|**Distributed decentralized receding horizon control for very large-scale networks with application to LEO satellite mega-constellations**|Leonardo Pedroso et.al.|[2209.14951v1](http://arxiv.org/abs/2209.14951v1)|null|
 |**2022-09-29**|**EiHi Net: Out-of-Distribution Generalization Paradigm**|Qinglai Wei et.al.|[2209.14946v1](http://arxiv.org/abs/2209.14946v1)|null|
 |**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|null|
