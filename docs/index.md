@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.02
+## Updated on 2022.10.03
 
 ## SLAM
 
@@ -609,7 +609,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-29**|**Localized Thermal Gradients On-Chip by Radiative Cooling of Silicon Nitride Nanomechanical Resonators**|Alexandre Bouchard et.al.|[2209.15004v1](http://arxiv.org/abs/2209.15004v1)|null|
 |**2022-09-29**|**DreamFusion: Text-to-3D using 2D Diffusion**|Ben Poole et.al.|[2209.14988v1](http://arxiv.org/abs/2209.14988v1)|null|
-|**2022-09-29**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri S. Fonseca et.al.|[2209.14967v1](http://arxiv.org/abs/2209.14967v1)|null|
+|**2022-09-30**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri R. Fonseca et.al.|[2209.14967v2](http://arxiv.org/abs/2209.14967v2)|null|
 |**2022-09-29**|**Role of Filamentary Structures in the Formation of Two Dense Cores, L1544 and L694-2**|Shinyoung Kim et.al.|[2209.14943v1](http://arxiv.org/abs/2209.14943v1)|null|
 |**2022-09-29**|**NAG-GS: Semi-Implicit, Accelerated and Robust Stochastic Optimizers**|Valentin Leplat et.al.|[2209.14937v1](http://arxiv.org/abs/2209.14937v1)|**[link](https://github.com/skolai/nag-gs)**|
 |**2022-09-29**|**Reference Optical Turbulence and Wind Profiles for Single Conjugate and Extreme Adaptive Optics**|O. J. D. Farley et.al.|[2209.14931v1](http://arxiv.org/abs/2209.14931v1)|null|
