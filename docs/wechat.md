@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-09-30, **Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability**, Alex Damian et.al., Paper: [http://arxiv.org/abs/2209.15594v1](http://arxiv.org/abs/2209.15594v1)
+- 2022-09-30, **Match to Win: Analysing Sequences Lengths for Efficient Self-supervised Learning in Speech and Audio**, Yan Gao et.al., Paper: [http://arxiv.org/abs/2209.15575v1](http://arxiv.org/abs/2209.15575v1)
+- 2022-09-30, **On the optimization and generalization of overparameterized implicit neural networks**, Tianxiang Gao et.al., Paper: [http://arxiv.org/abs/2209.15562v1](http://arxiv.org/abs/2209.15562v1)
+- 2022-09-30, **Quantum effects in two-dimensional silicon carbide**, Carlos P. Herrero et.al., Paper: [http://arxiv.org/abs/2209.15549v1](http://arxiv.org/abs/2209.15549v1)
+- 2022-09-30, **TT-NF: Tensor Train Neural Fields**, Anton Obukhov et.al., Paper: [http://arxiv.org/abs/2209.15529v1](http://arxiv.org/abs/2209.15529v1), Code: **[https://github.com/toshas/ttnf](https://github.com/toshas/ttnf)**
+- 2022-09-30, **Slimmable Networks for Contrastive Self-supervised Learning**, Shuai Zhao et.al., Paper: [http://arxiv.org/abs/2209.15525v1](http://arxiv.org/abs/2209.15525v1)
+- 2022-09-30, **Sphere-Guided Training of Neural Implicit Surfaces**, Andreea Dogaru et.al., Paper: [http://arxiv.org/abs/2209.15511v1](http://arxiv.org/abs/2209.15511v1)
+- 2022-09-30, **Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data**, Yuki Takezawa et.al., Paper: [http://arxiv.org/abs/2209.15505v1](http://arxiv.org/abs/2209.15505v1)
+- 2022-09-30, **Sparsity-Constrained Optimal Transport**, Tianlin Liu et.al., Paper: [http://arxiv.org/abs/2209.15466v1](http://arxiv.org/abs/2209.15466v1)
+- 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **Localized Thermal Gradients On-Chip by Radiative Cooling of Silicon Nitride Nanomechanical Resonators**, Alexandre Bouchard et.al., Paper: [http://arxiv.org/abs/2209.15004v1](http://arxiv.org/abs/2209.15004v1)
 - 2022-09-29, **DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et.al., Paper: [http://arxiv.org/abs/2209.14988v1](http://arxiv.org/abs/2209.14988v1)
 - 2022-09-30, **Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**, Yuri R. Fonseca et.al., Paper: [http://arxiv.org/abs/2209.14967v2](http://arxiv.org/abs/2209.14967v2)
@@ -747,6 +757,16 @@
 
 ## Distributed Training
 
+- 2022-09-30, **Neural Unbalanced Optimal Transport via Cycle-Consistent Semi-Couplings**, Frederike Lübeck et.al., Paper: [http://arxiv.org/abs/2209.15621v1](http://arxiv.org/abs/2209.15621v1)
+- 2022-09-30, **Individual Privacy Accounting with Gaussian Differential Privacy**, Antti Koskela et.al., Paper: [http://arxiv.org/abs/2209.15596v1](http://arxiv.org/abs/2209.15596v1), Code: **[https://github.com/dpbayes/individual-accounting-gdp](https://github.com/dpbayes/individual-accounting-gdp)**
+- 2022-09-30, **Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks**, Mahdi Morafah et.al., Paper: [http://arxiv.org/abs/2209.15595v1](http://arxiv.org/abs/2209.15595v1), Code: **[https://github.com/mmorafah/fl-sc-niid](https://github.com/mmorafah/fl-sc-niid)**
+- 2022-09-30, **Neutrino propagation in the Earth and emerging charged leptons with $\texttt{nuPyProp}$**, Diksha Garg et.al., Paper: [http://arxiv.org/abs/2209.15581v1](http://arxiv.org/abs/2209.15581v1)
+- 2022-09-30, **Building Normalizing Flows with Stochastic Interpolants**, Michael S. Albergo et.al., Paper: [http://arxiv.org/abs/2209.15571v1](http://arxiv.org/abs/2209.15571v1)
+- 2022-09-30, **Short geodesics and small eigenvalues on random hyperbolic punctured spheres**, Will Hide et.al., Paper: [http://arxiv.org/abs/2209.15568v1](http://arxiv.org/abs/2209.15568v1)
+- 2022-09-30, **Holographic-(V)AE: an end-to-end SO(3)-Equivariant (Variational) Autoencoder in Fourier Space**, Gian Marco Visani et.al., Paper: [http://arxiv.org/abs/2209.15567v1](http://arxiv.org/abs/2209.15567v1)
+- 2022-09-30, **Out-of-Distribution Detection and Selective Generation for Conditional Language Models**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2209.15558v1](http://arxiv.org/abs/2209.15558v1)
+- 2022-09-30, **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Stefano Pozza et.al., Paper: [http://arxiv.org/abs/2209.15533v1](http://arxiv.org/abs/2209.15533v1)
+- 2022-09-30, **On the choice of diameters in a polydisperse model glassformer: deterministic or stochastic?**, Niklas Küchler et.al., Paper: [http://arxiv.org/abs/2209.15528v1](http://arxiv.org/abs/2209.15528v1)
 - 2022-09-29, **Effective Vision Transformer Training: A Data-Centric Perspective**, Benjia Zhou et.al., Paper: [http://arxiv.org/abs/2209.15006v1](http://arxiv.org/abs/2209.15006v1)
 - 2022-09-29, **Multiple Modes for Continual Learning**, Siddhartha Datta et.al., Paper: [http://arxiv.org/abs/2209.14996v1](http://arxiv.org/abs/2209.14996v1)
 - 2022-09-29, **Robust Bayesian Non-segmental Detection of Multiple Change-points**, Chong Zhong et.al., Paper: [http://arxiv.org/abs/2209.14995v1](http://arxiv.org/abs/2209.14995v1)
@@ -1000,6 +1020,9 @@
 
 ## Distributed Deep Learning
 
+- 2022-09-30, **Theoretical analysis of quantum key distribution systems when integrated with a DWDM optical transport network**, Irina Vorontsova et.al., Paper: [http://arxiv.org/abs/2209.15507v1](http://arxiv.org/abs/2209.15507v1)
+- 2022-09-30, **Smart Meters Integration in Distribution System State Estimation with Collaborative Filtering and Deep Gaussian Process**, Yifei Xu et.al., Paper: [http://arxiv.org/abs/2209.15239v1](http://arxiv.org/abs/2209.15239v1)
+- 2022-09-30, **Downlink Compression Improves TopK Sparsification**, William Zou et.al., Paper: [http://arxiv.org/abs/2209.15203v1](http://arxiv.org/abs/2209.15203v1)
 - 2022-09-28, **Towards Auditable Distributed Systems**, Lev Sorokin et.al., Paper: [http://arxiv.org/abs/2209.14071v1](http://arxiv.org/abs/2209.14071v1)
 - 2022-09-28, **Big data analysis and distributed deep learning for next-generation intrusion detection system optimization**, Khloud Al Jallad et.al., Paper: [http://arxiv.org/abs/2209.13961v1](http://arxiv.org/abs/2209.13961v1)
 - 2022-09-28, **Label Distribution Learning via Implicit Distribution Representation**, Zhuoran Zheng et.al., Paper: [http://arxiv.org/abs/2209.13824v1](http://arxiv.org/abs/2209.13824v1)
