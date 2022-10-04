@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|null|
+|**2022-10-03**|**Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities**|Samuel Lanthaler et.al.|[2210.01074v1](http://arxiv.org/abs/2210.01074v1)|null|
+|**2022-10-03**|**On Stability and Generalization of Bilevel Optimization Problem**|Meng Ding et.al.|[2210.01063v1](http://arxiv.org/abs/2210.01063v1)|null|
+|**2022-10-03**|**Minimal entropy production in anisotropic temperature fields**|Olga Movilla Miangolarra et.al.|[2210.01062v1](http://arxiv.org/abs/2210.01062v1)|null|
+|**2022-10-03**|**First-principles Fermi acceleration in magnetized turbulence**|Martin Lemoine et.al.|[2210.01038v1](http://arxiv.org/abs/2210.01038v1)|null|
+|**2022-10-03**|**Online Self-Concordant and Relatively Smooth Minimization, With Applications to Online Portfolio Selection and Learning Quantum States**|Chung-En Tsai et.al.|[2210.00997v1](http://arxiv.org/abs/2210.00997v1)|null|
+|**2022-10-03**|**Policy Gradient for Reinforcement Learning with General Utilities**|Navdeep Kumar et.al.|[2210.00991v1](http://arxiv.org/abs/2210.00991v1)|null|
+|**2022-10-03**|**Uncertainty-Driven Active Vision for Implicit Scene Reconstruction**|Edward J. Smith et.al.|[2210.00978v1](http://arxiv.org/abs/2210.00978v1)|**[link](https://github.com/facebookresearch/uncertainty-driven-active-vision)**|
+|**2022-10-03**|**Stability Analysis and Generalization Bounds of Adversarial Training**|Jiancong Xiao et.al.|[2210.00960v1](http://arxiv.org/abs/2210.00960v1)|null|
+|**2022-10-03**|**Module-wise Training of Residual Networks via the Minimizing Movement Scheme**|Skander Karkar et.al.|[2210.00949v1](http://arxiv.org/abs/2210.00949v1)|null|
 |**2022-09-30**|**Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability**|Alex Damian et.al.|[2209.15594v1](http://arxiv.org/abs/2209.15594v1)|null|
 |**2022-09-30**|**Match to Win: Analysing Sequences Lengths for Efficient Self-supervised Learning in Speech and Audio**|Yan Gao et.al.|[2209.15575v1](http://arxiv.org/abs/2209.15575v1)|null|
 |**2022-09-30**|**On the optimization and generalization of overparameterized implicit neural networks**|Tianxiang Gao et.al.|[2209.15562v1](http://arxiv.org/abs/2209.15562v1)|null|
@@ -868,6 +878,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|null|
+|**2022-10-03**|**Exploiting dissipative reactions to perform in-beam $γ$-ray spectroscopy of the neutron-deficient isotopes \nuc{38,39}{Ca}**|A. Gade et.al.|[2210.01106v1](http://arxiv.org/abs/2210.01106v1)|null|
+|**2022-10-03**|**Multifractal analysis and Erdös-Rényi laws of large numbers for branching random walks in $\R^d$**|Najmeddine Attia et.al.|[2210.01092v1](http://arxiv.org/abs/2210.01092v1)|null|
+|**2022-10-03**|**Generalized solution of the paraxial equation**|Tomasz Radozycki et.al.|[2210.01088v1](http://arxiv.org/abs/2210.01088v1)|null|
+|**2022-10-03**|**On The Effects Of Data Normalisation For Domain Adaptation On EEG Data**|Andrea Apicella et.al.|[2210.01081v1](http://arxiv.org/abs/2210.01081v1)|null|
+|**2022-10-03**|**Waiting time distributions in Quantum spin hall based heterostructures**|F. Schulz et.al.|[2210.01080v1](http://arxiv.org/abs/2210.01080v1)|null|
+|**2022-10-03**|**Small order limit of fractional Dirichlet sublinear-type problems**|Felipe Angeles et.al.|[2210.01079v1](http://arxiv.org/abs/2210.01079v1)|null|
+|**2022-10-03**|**qTask: Task-parallel Quantum Circuit Simulation with Incrementality**|Tsung-Wei Huang et.al.|[2210.01076v1](http://arxiv.org/abs/2210.01076v1)|null|
+|**2022-10-03**|**Distributed-Something: scripts to leverage AWS storage and computing for distributed workflows at scale**|Erin Weisbart et.al.|[2210.01073v1](http://arxiv.org/abs/2210.01073v1)|null|
+|**2022-10-03**|**Dual-former: Hybrid Self-attention Transformer for Efficient Image Restoration**|Sixiang Chen et.al.|[2210.01069v1](http://arxiv.org/abs/2210.01069v1)|null|
 |**2022-09-30**|**Neural Unbalanced Optimal Transport via Cycle-Consistent Semi-Couplings**|Frederike Lübeck et.al.|[2209.15621v1](http://arxiv.org/abs/2209.15621v1)|null|
 |**2022-09-30**|**Individual Privacy Accounting with Gaussian Differential Privacy**|Antti Koskela et.al.|[2209.15596v1](http://arxiv.org/abs/2209.15596v1)|**[link](https://github.com/dpbayes/individual-accounting-gdp)**|
 |**2022-09-30**|**Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks**|Mahdi Morafah et.al.|[2209.15595v1](http://arxiv.org/abs/2209.15595v1)|**[link](https://github.com/mmorafah/fl-sc-niid)**|
@@ -1133,6 +1153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v1](http://arxiv.org/abs/2210.00721v1)|null|
 |**2022-09-30**|**Theoretical analysis of quantum key distribution systems when integrated with a DWDM optical transport network**|Irina Vorontsova et.al.|[2209.15507v1](http://arxiv.org/abs/2209.15507v1)|null|
 |**2022-09-30**|**Smart Meters Integration in Distribution System State Estimation with Collaborative Filtering and Deep Gaussian Process**|Yifei Xu et.al.|[2209.15239v1](http://arxiv.org/abs/2209.15239v1)|null|
 |**2022-09-30**|**Downlink Compression Improves TopK Sparsification**|William Zou et.al.|[2209.15203v1](http://arxiv.org/abs/2209.15203v1)|null|
