@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.04
+## Updated on 2022.10.05
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-04**|**Modeling the Transition between Localized and Extended Deposition in Flow Networks through Packings of Glass Beads**|Gess Kelly et.al.|[2210.01780v1](http://arxiv.org/abs/2210.01780v1)|null|
+|**2022-10-04**|**Atomic Level Strain Induced by Static and Dynamic Oxygen Vacancies on Reducible Oxide Surfaces**|Piyush Haluai et.al.|[2210.01764v1](http://arxiv.org/abs/2210.01764v1)|null|
+|**2022-10-04**|**Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality**|Ilyas Fatkhullin et.al.|[2210.01748v1](http://arxiv.org/abs/2210.01748v1)|null|
+|**2022-10-04**|**Learning Depth Vision-Based Personalized Robot Navigation From Dynamic Demonstrations in Virtual Reality**|Jorge de Heuvel et.al.|[2210.01683v1](http://arxiv.org/abs/2210.01683v1)|null|
+|**2022-10-04**|**A finite-volume scheme for modeling compressible magnetohydrodynamic flows at low Mach numbers in stellar interiors**|G. Leidi et.al.|[2210.01641v1](http://arxiv.org/abs/2210.01641v1)|null|
+|**2022-10-04**|**Semantic Communication with Conceptual Spaces**|Dylan Wheeler et.al.|[2210.01629v1](http://arxiv.org/abs/2210.01629v1)|null|
+|**2022-10-04**|**Image Recovery for Blind Polychromatic Ptychography**|Frank Filbir et.al.|[2210.01626v1](http://arxiv.org/abs/2210.01626v1)|null|
+|**2022-10-04**|**Modeling and simulation in supersonic three-temperature carbon dioxide turbulent channel flow**|Guiyu Cao et.al.|[2210.01621v1](http://arxiv.org/abs/2210.01621v1)|null|
+|**2022-10-04**|**Hyperbolic Deep Reinforcement Learning**|Edoardo Cetin et.al.|[2210.01542v1](http://arxiv.org/abs/2210.01542v1)|null|
+|**2022-10-04**|**The Dynamics of Sharpness-Aware Minimization: Bouncing Across Ravines and Drifting Towards Wide Minima**|Peter L. Bartlett et.al.|[2210.01513v1](http://arxiv.org/abs/2210.01513v1)|null|
 |**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|null|
 |**2022-10-03**|**Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities**|Samuel Lanthaler et.al.|[2210.01074v1](http://arxiv.org/abs/2210.01074v1)|null|
 |**2022-10-03**|**On Stability and Generalization of Bilevel Optimization Problem**|Meng Ding et.al.|[2210.01063v1](http://arxiv.org/abs/2210.01063v1)|null|
@@ -882,6 +892,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-04**|**Sampling Streaming Data with Parallel Vector Quantization -- PVQ**|Mujahid Sultan et.al.|[2210.01792v1](http://arxiv.org/abs/2210.01792v1)|null|
+|**2022-10-04**|**Data Leakage in Tabular Federated Learning**|Mark Vero et.al.|[2210.01785v1](http://arxiv.org/abs/2210.01785v1)|null|
+|**2022-10-04**|**High-Redshift Galaxy Candidates at $z = 9-13$ as Revealed by JWST Observations of WHL0137-08**|Larry D. Bradley et.al.|[2210.01777v1](http://arxiv.org/abs/2210.01777v1)|null|
+|**2022-10-04**|**AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**|Hakan Kayan et.al.|[2210.01771v1](http://arxiv.org/abs/2210.01771v1)|null|
+|**2022-10-04**|**Distributed Differentially Private Control Synthesis for Multi-Agent Systems with Metric Temporal Logic Specifications**|Nasim Baharisangari et.al.|[2210.01759v1](http://arxiv.org/abs/2210.01759v1)|null|
+|**2022-10-04**|**Making Decisions under Outcome Performativity**|Michael P. Kim et.al.|[2210.01745v1](http://arxiv.org/abs/2210.01745v1)|null|
+|**2022-10-04**|**CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning**|Charles Guille-Escuret et.al.|[2210.01742v1](http://arxiv.org/abs/2210.01742v1)|null|
+|**2022-10-04**|**Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid**|Mohammad Ali Alipour et.al.|[2210.01739v1](http://arxiv.org/abs/2210.01739v1)|null|
+|**2022-10-04**|**Extraction of Pion Transverse Momentum Distributions from Drell-Yan data**|Matteo Cerutti et.al.|[2210.01733v1](http://arxiv.org/abs/2210.01733v1)|null|
+|**2022-10-04**|**MEDFAIR: Benchmarking Fairness for Medical Imaging**|Yongshuo Zong et.al.|[2210.01725v1](http://arxiv.org/abs/2210.01725v1)|null|
 |**2022-10-03**|**Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**|A. Gordon Emslie et.al.|[2210.01107v1](http://arxiv.org/abs/2210.01107v1)|null|
 |**2022-10-03**|**Exploiting dissipative reactions to perform in-beam $γ$-ray spectroscopy of the neutron-deficient isotopes \nuc{38,39}{Ca}**|A. Gade et.al.|[2210.01106v1](http://arxiv.org/abs/2210.01106v1)|null|
 |**2022-10-03**|**Multifractal analysis and Erdös-Rényi laws of large numbers for branching random walks in $\R^d$**|Najmeddine Attia et.al.|[2210.01092v1](http://arxiv.org/abs/2210.01092v1)|null|
@@ -1157,6 +1177,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-04**|**Data Leakage in Tabular Federated Learning**|Mark Vero et.al.|[2210.01785v1](http://arxiv.org/abs/2210.01785v1)|null|
+|**2022-10-04**|**Synthesizing Dominant Strategies for Liveness (Full Version)**|Bernd Finkbeiner et.al.|[2210.01660v1](http://arxiv.org/abs/2210.01660v1)|null|
+|**2022-10-03**|**MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**|Yi Hu et.al.|[2210.01167v1](http://arxiv.org/abs/2210.01167v1)|null|
 |**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v1](http://arxiv.org/abs/2210.00721v1)|null|
 |**2022-09-30**|**Theoretical analysis of quantum key distribution systems when integrated with a DWDM optical transport network**|Irina Vorontsova et.al.|[2209.15507v1](http://arxiv.org/abs/2209.15507v1)|null|
 |**2022-09-30**|**Smart Meters Integration in Distribution System State Estimation with Collaborative Filtering and Deep Gaussian Process**|Yifei Xu et.al.|[2209.15239v1](http://arxiv.org/abs/2209.15239v1)|null|
