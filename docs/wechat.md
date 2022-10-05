@@ -786,7 +786,7 @@
 - 2022-10-04, **CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning**, Charles Guille-Escuret et.al., Paper: [http://arxiv.org/abs/2210.01742v1](http://arxiv.org/abs/2210.01742v1)
 - 2022-10-04, **Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid**, Mohammad Ali Alipour et.al., Paper: [http://arxiv.org/abs/2210.01739v1](http://arxiv.org/abs/2210.01739v1)
 - 2022-10-04, **Extraction of Pion Transverse Momentum Distributions from Drell-Yan data**, Matteo Cerutti et.al., Paper: [http://arxiv.org/abs/2210.01733v1](http://arxiv.org/abs/2210.01733v1)
-- 2022-10-04, **MEDFAIR: Benchmarking Fairness for Medical Imaging**, Yongshuo Zong et.al., Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/abs/2210.01725v1)
+- 2022-10-04, **MEDFAIR: Benchmarking Fairness for Medical Imaging**, Yongshuo Zong et.al., Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/abs/2210.01725v1), Code: **[https://github.com/ys-zong/medfair](https://github.com/ys-zong/medfair)**
 - 2022-10-03, **Temperature and Differential Emission Measure Profiles in Turbulent Solar Active Region Loops**, A. Gordon Emslie et.al., Paper: [http://arxiv.org/abs/2210.01107v1](http://arxiv.org/abs/2210.01107v1)
 - 2022-10-03, **Exploiting dissipative reactions to perform in-beam $γ$-ray spectroscopy of the neutron-deficient isotopes \nuc{38,39}{Ca}**, A. Gade et.al., Paper: [http://arxiv.org/abs/2210.01106v1](http://arxiv.org/abs/2210.01106v1)
 - 2022-10-03, **Multifractal analysis and Erdös-Rényi laws of large numbers for branching random walks in $\R^d$**, Najmeddine Attia et.al., Paper: [http://arxiv.org/abs/2210.01092v1](http://arxiv.org/abs/2210.01092v1)
