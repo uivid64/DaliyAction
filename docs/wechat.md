@@ -1,4 +1,4 @@
-> Updated on 2022.10.05
+> Updated on 2022.10.06
 
 ## SLAM
 
@@ -1063,7 +1063,7 @@
 - 2022-10-04, **Data Leakage in Tabular Federated Learning**, Mark Vero et.al., Paper: [http://arxiv.org/abs/2210.01785v1](http://arxiv.org/abs/2210.01785v1)
 - 2022-10-04, **Synthesizing Dominant Strategies for Liveness (Full Version)**, Bernd Finkbeiner et.al., Paper: [http://arxiv.org/abs/2210.01660v1](http://arxiv.org/abs/2210.01660v1)
 - 2022-10-03, **MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**, Yi Hu et.al., Paper: [http://arxiv.org/abs/2210.01167v1](http://arxiv.org/abs/2210.01167v1)
-- 2022-10-03, **Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**, Walter Heymans et.al., Paper: [http://arxiv.org/abs/2210.00721v1](http://arxiv.org/abs/2210.00721v1)
+- 2022-10-04, **Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**, Walter Heymans et.al., Paper: [http://arxiv.org/abs/2210.00721v2](http://arxiv.org/abs/2210.00721v2)
 - 2022-09-30, **Theoretical analysis of quantum key distribution systems when integrated with a DWDM optical transport network**, Irina Vorontsova et.al., Paper: [http://arxiv.org/abs/2209.15507v1](http://arxiv.org/abs/2209.15507v1)
 - 2022-09-30, **Smart Meters Integration in Distribution System State Estimation with Collaborative Filtering and Deep Gaussian Process**, Yifei Xu et.al., Paper: [http://arxiv.org/abs/2209.15239v1](http://arxiv.org/abs/2209.15239v1)
 - 2022-09-30, **Downlink Compression Improves TopK Sparsification**, William Zou et.al., Paper: [http://arxiv.org/abs/2209.15203v1](http://arxiv.org/abs/2209.15203v1)
