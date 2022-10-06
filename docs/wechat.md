@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-05, **ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild**, Xuechen Liu et.al., Paper: [http://arxiv.org/abs/2210.02437v1](http://arxiv.org/abs/2210.02437v1)
+- 2022-10-05, **Gradient Descent in the Absence of Global Lipschitz Continuity of the Gradients: Convergence, Divergence and Limitations of its Continuous Approximation**, Vivak Patel et.al., Paper: [http://arxiv.org/abs/2210.02418v1](http://arxiv.org/abs/2210.02418v1)
+- 2022-10-05, **Phenaki: Variable Length Video Generation From Open Domain Textual Description**, Ruben Villegas et.al., Paper: [http://arxiv.org/abs/2210.02399v1](http://arxiv.org/abs/2210.02399v1)
+- 2022-10-05, **Temporally Consistent Video Transformer for Long-Term Video Prediction**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/abs/2210.02396v1)
+- 2022-10-05, **A Novel Entropy-Maximizing TD3-based Reinforcement Learning for Automatic PID Tuning**, Myisha A. Chowdhury et.al., Paper: [http://arxiv.org/abs/2210.02381v1](http://arxiv.org/abs/2210.02381v1)
+- 2022-10-05, **Structure preserving transport stabilized compatible finite element methods for magnetohydrodynamics**, Golo A. Wimmer et.al., Paper: [http://arxiv.org/abs/2210.02348v1](http://arxiv.org/abs/2210.02348v1)
+- 2022-10-05, **Geometric discretization of diffeomorphisms**, Erik Jansson et.al., Paper: [http://arxiv.org/abs/2210.02328v1](http://arxiv.org/abs/2210.02328v1)
+- 2022-10-05, **Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**, Junjie Jiang et.al., Paper: [http://arxiv.org/abs/2210.02305v1](http://arxiv.org/abs/2210.02305v1)
+- 2022-10-05, **A Reduced Basis Ensemble Kalman Method**, Francesco A. B. Silva et.al., Paper: [http://arxiv.org/abs/2210.02279v1](http://arxiv.org/abs/2210.02279v1)
+- 2022-10-05, **High average gradient in a laser-gated multistage plasma wakefield accelerator**, Alexander Knetsch et.al., Paper: [http://arxiv.org/abs/2210.02263v1](http://arxiv.org/abs/2210.02263v1)
 - 2022-10-04, **Modeling the Transition between Localized and Extended Deposition in Flow Networks through Packings of Glass Beads**, Gess Kelly et.al., Paper: [http://arxiv.org/abs/2210.01780v1](http://arxiv.org/abs/2210.01780v1)
 - 2022-10-04, **Atomic Level Strain Induced by Static and Dynamic Oxygen Vacancies on Reducible Oxide Surfaces**, Piyush Haluai et.al., Paper: [http://arxiv.org/abs/2210.01764v1](http://arxiv.org/abs/2210.01764v1)
 - 2022-10-04, **Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality**, Ilyas Fatkhullin et.al., Paper: [http://arxiv.org/abs/2210.01748v1](http://arxiv.org/abs/2210.01748v1)
@@ -777,6 +787,16 @@
 
 ## Distributed Training
 
+- 2022-10-05, **Densities and momentum distributions in A <=12 nuclei from chiral effective field theory interactions**, M. Piarulli et.al., Paper: [http://arxiv.org/abs/2210.02421v1](http://arxiv.org/abs/2210.02421v1)
+- 2022-10-05, **A Fourier Approach to Mixture Learning**, Mingda Qiao et.al., Paper: [http://arxiv.org/abs/2210.02415v1](http://arxiv.org/abs/2210.02415v1)
+- 2022-10-05, **Percolation properties of the neutron population in nuclear reactors**, Benjamin Dechenaux et.al., Paper: [http://arxiv.org/abs/2210.02413v1](http://arxiv.org/abs/2210.02413v1)
+- 2022-10-05, **The Vendi Score: A Diversity Evaluation Metric for Machine Learning**, Dan Friedman et.al., Paper: [http://arxiv.org/abs/2210.02410v1](http://arxiv.org/abs/2210.02410v1), Code: **[https://github.com/vertaix/vendi-score](https://github.com/vertaix/vendi-score)**
+- 2022-10-05, **Spins-based Quantum Otto Engines and Majorisation**, Sachin Sonkar et.al., Paper: [http://arxiv.org/abs/2210.02402v1](http://arxiv.org/abs/2210.02402v1)
+- 2022-10-05, **Variational prompt tuning improves generalization of vision-language models**, Mohammad Mahdi Derakhshani et.al., Paper: [http://arxiv.org/abs/2210.02390v1](http://arxiv.org/abs/2210.02390v1)
+- 2022-10-05, **A Reputation System for Market Security and Equity**, Anton Kolonin et.al., Paper: [http://arxiv.org/abs/2210.02362v1](http://arxiv.org/abs/2210.02362v1)
+- 2022-10-05, **Differentially Private Propensity Scores for Bias Correction**, Liangwei Chen et.al., Paper: [http://arxiv.org/abs/2210.02360v1](http://arxiv.org/abs/2210.02360v1)
+- 2022-10-05, **A distributed Gibbs Sampler with Hypergraph Structure for High-Dimensional Inverse Problems**, Pierre-Antoine Thouvenin et.al., Paper: [http://arxiv.org/abs/2210.02341v1](http://arxiv.org/abs/2210.02341v1)
+- 2022-10-05, **Particle clustering in turbulence: Prediction of spatial and statistical properties with deep learning**, Yan-Mong Chan et.al., Paper: [http://arxiv.org/abs/2210.02339v1](http://arxiv.org/abs/2210.02339v1), Code: **[https://github.com/timothychan29475600/dustnet_cnn](https://github.com/timothychan29475600/dustnet_cnn)**
 - 2022-10-04, **Sampling Streaming Data with Parallel Vector Quantization -- PVQ**, Mujahid Sultan et.al., Paper: [http://arxiv.org/abs/2210.01792v1](http://arxiv.org/abs/2210.01792v1)
 - 2022-10-04, **Data Leakage in Tabular Federated Learning**, Mark Vero et.al., Paper: [http://arxiv.org/abs/2210.01785v1](http://arxiv.org/abs/2210.01785v1)
 - 2022-10-04, **High-Redshift Galaxy Candidates at $z = 9-13$ as Revealed by JWST Observations of WHL0137-08**, Larry D. Bradley et.al., Paper: [http://arxiv.org/abs/2210.01777v1](http://arxiv.org/abs/2210.01777v1)
@@ -1060,6 +1080,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-05, **A Reduced Basis Ensemble Kalman Method**, Francesco A. B. Silva et.al., Paper: [http://arxiv.org/abs/2210.02279v1](http://arxiv.org/abs/2210.02279v1)
+- 2022-10-05, **Over-the-Air Gaussian Process Regression Based on Product of Experts**, Koya Sato et.al., Paper: [http://arxiv.org/abs/2210.02204v1](http://arxiv.org/abs/2210.02204v1)
 - 2022-10-04, **Data Leakage in Tabular Federated Learning**, Mark Vero et.al., Paper: [http://arxiv.org/abs/2210.01785v1](http://arxiv.org/abs/2210.01785v1)
 - 2022-10-04, **Synthesizing Dominant Strategies for Liveness (Full Version)**, Bernd Finkbeiner et.al., Paper: [http://arxiv.org/abs/2210.01660v1](http://arxiv.org/abs/2210.01660v1)
 - 2022-10-03, **MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**, Yi Hu et.al., Paper: [http://arxiv.org/abs/2210.01167v1](http://arxiv.org/abs/2210.01167v1)
