@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-06**|**A perturbative gadget for delaying the onset of barren plateaus in variational quantum algorithms**|Simon Cichy et.al.|[2210.03099v1](http://arxiv.org/abs/2210.03099v1)|null|
+|**2022-10-06**|**Accelerated Single-Call Methods for Constrained Min-Max Optimization**|Yang Cai et.al.|[2210.03096v1](http://arxiv.org/abs/2210.03096v1)|null|
+|**2022-10-06**|**Eddy-freshwater Interaction using Regional Ocean Modeling System in the Bay of Bengal**|Nihar Paul et.al.|[2210.03079v1](http://arxiv.org/abs/2210.03079v1)|null|
+|**2022-10-06**|**A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets**|Liu Yang et.al.|[2210.03069v1](http://arxiv.org/abs/2210.03069v1)|null|
+|**2022-10-06**|**Learning many-body Hamiltonians with Heisenberg-limited scaling**|Hsin-Yuan Huang et.al.|[2210.03030v1](http://arxiv.org/abs/2210.03030v1)|null|
+|**2022-10-06**|**Compressed Vision for Efficient Video Understanding**|Olivia Wiles et.al.|[2210.02995v1](http://arxiv.org/abs/2210.02995v1)|null|
+|**2022-10-06**|**Fault Diagnosis using eXplainable AI: a Transfer Learning-based Approach for Rotating Machinery exploiting Augmented Synthetic Data**|Lucas Costa Brito et.al.|[2210.02974v1](http://arxiv.org/abs/2210.02974v1)|null|
+|**2022-10-06**|**Distributed Resource Allocation over Multiple Interacting Coalitions: A Game-Theoretic Approach**|Jialing Zhou et.al.|[2210.02919v1](http://arxiv.org/abs/2210.02919v1)|null|
+|**2022-10-06**|**Federated Boosted Decision Trees with Differential Privacy**|Samuel Maddock et.al.|[2210.02910v1](http://arxiv.org/abs/2210.02910v1)|**[link](https://github.com/samuel-maddock/federated-boosted-dp-trees)**|
+|**2022-10-06**|**WakeUpNet: A Mobile-Transformer based Framework for End-to-End Streaming Voice Trigger**|Zixing Zhang et.al.|[2210.02904v1](http://arxiv.org/abs/2210.02904v1)|null|
 |**2022-10-05**|**ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild**|Xuechen Liu et.al.|[2210.02437v1](http://arxiv.org/abs/2210.02437v1)|null|
 |**2022-10-05**|**Gradient Descent in the Absence of Global Lipschitz Continuity of the Gradients: Convergence, Divergence and Limitations of its Continuous Approximation**|Vivak Patel et.al.|[2210.02418v1](http://arxiv.org/abs/2210.02418v1)|null|
 |**2022-10-05**|**Phenaki: Variable Length Video Generation From Open Domain Textual Description**|Ruben Villegas et.al.|[2210.02399v1](http://arxiv.org/abs/2210.02399v1)|null|
@@ -898,6 +908,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-06**|**Content-Based Search for Deep Generative Models**|Daohan Lu et.al.|[2210.03116v1](http://arxiv.org/abs/2210.03116v1)|**[link](https://github.com/generative-intelligence-lab/modelverse)**|
+|**2022-10-06**|**SimPer: Simple Self-Supervised Learning of Periodic Targets**|Yuzhe Yang et.al.|[2210.03115v1](http://arxiv.org/abs/2210.03115v1)|**[link](https://github.com/yyzharry/simper)**|
+|**2022-10-06**|**Distributionally Adaptive Meta Reinforcement Learning**|Anurag Ajay et.al.|[2210.03104v1](http://arxiv.org/abs/2210.03104v1)|null|
+|**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|null|
+|**2022-10-06**|**Shadows of rotating Einstein-Maxwell-dilaton black holes surrounded by plasma**|Javier Badía et.al.|[2210.03081v1](http://arxiv.org/abs/2210.03081v1)|null|
+|**2022-10-06**|**InferES : A Natural Language Inference Corpus for Spanish Featuring Negation-Based Contrastive and Adversarial Examples**|Venelin Kovatchev et.al.|[2210.03068v1](http://arxiv.org/abs/2210.03068v1)|null|
+|**2022-10-06**|**Robust thresholds: Counting triangle factors and A shorter proof of the robust Corrádi-Hajnal Theorem**|Huy Tuan Pham et.al.|[2210.03064v1](http://arxiv.org/abs/2210.03064v1)|null|
+|**2022-10-06**|**Structure Representation Network and Uncertainty Feedback Learning for Dense Non-Uniform Fog Removal**|Yeying Jin et.al.|[2210.03061v1](http://arxiv.org/abs/2210.03061v1)|**[link](https://github.com/jinyeying/fogremoval)**|
+|**2022-10-06**|**Lattice Linear Problems vs Algorithms**|Arya Tanmay Gupta et.al.|[2210.03055v1](http://arxiv.org/abs/2210.03055v1)|null|
+|**2022-10-06**|**Microscopic nucleus-nucleus optical potentials from nuclear matter with uncertainty analysis from chiral forces**|T. R. Whitehead et.al.|[2210.03031v1](http://arxiv.org/abs/2210.03031v1)|null|
 |**2022-10-05**|**Densities and momentum distributions in A <=12 nuclei from chiral effective field theory interactions**|M. Piarulli et.al.|[2210.02421v1](http://arxiv.org/abs/2210.02421v1)|null|
 |**2022-10-06**|**A Fourier Approach to Mixture Learning**|Mingda Qiao et.al.|[2210.02415v2](http://arxiv.org/abs/2210.02415v2)|null|
 |**2022-10-05**|**Percolation properties of the neutron population in nuclear reactors**|Benjamin Dechenaux et.al.|[2210.02413v1](http://arxiv.org/abs/2210.02413v1)|null|
@@ -1193,6 +1213,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-06**|**A Distributed System-level Diagnosis Model for the Implementation of Unreliable Failure Detectors**|Elias P. Duarte Jr. et.al.|[2210.02847v1](http://arxiv.org/abs/2210.02847v1)|null|
 |**2022-10-05**|**A Reduced Basis Ensemble Kalman Method**|Francesco A. B. Silva et.al.|[2210.02279v1](http://arxiv.org/abs/2210.02279v1)|null|
 |**2022-10-06**|**Over-the-Air Gaussian Process Regression Based on Product of Experts**|Koya Sato et.al.|[2210.02204v2](http://arxiv.org/abs/2210.02204v2)|null|
 |**2022-10-04**|**Data Leakage in Tabular Federated Learning**|Mark Vero et.al.|[2210.01785v1](http://arxiv.org/abs/2210.01785v1)|null|
