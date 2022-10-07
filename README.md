@@ -1,4 +1,4 @@
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 ## SLAM
 
@@ -606,7 +606,7 @@
 |**2022-10-05**|**ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild**|Xuechen Liu et.al.|[2210.02437v1](http://arxiv.org/abs/2210.02437v1)|null|
 |**2022-10-05**|**Gradient Descent in the Absence of Global Lipschitz Continuity of the Gradients: Convergence, Divergence and Limitations of its Continuous Approximation**|Vivak Patel et.al.|[2210.02418v1](http://arxiv.org/abs/2210.02418v1)|null|
 |**2022-10-05**|**Phenaki: Variable Length Video Generation From Open Domain Textual Description**|Ruben Villegas et.al.|[2210.02399v1](http://arxiv.org/abs/2210.02399v1)|null|
-|**2022-10-05**|**Temporally Consistent Video Transformer for Long-Term Video Prediction**|Wilson Yan et.al.|[2210.02396v1](http://arxiv.org/abs/2210.02396v1)|null|
+|**2022-10-05**|**Temporally Consistent Video Transformer for Long-Term Video Prediction**|Wilson Yan et.al.|[2210.02396v1](http://arxiv.org/abs/2210.02396v1)|**[link](https://github.com/wilson1yan/teco)**|
 |**2022-10-05**|**A Novel Entropy-Maximizing TD3-based Reinforcement Learning for Automatic PID Tuning**|Myisha A. Chowdhury et.al.|[2210.02381v1](http://arxiv.org/abs/2210.02381v1)|null|
 |**2022-10-05**|**Structure preserving transport stabilized compatible finite element methods for magnetohydrodynamics**|Golo A. Wimmer et.al.|[2210.02348v1](http://arxiv.org/abs/2210.02348v1)|null|
 |**2022-10-05**|**Geometric discretization of diffeomorphisms**|Erik Jansson et.al.|[2210.02328v1](http://arxiv.org/abs/2210.02328v1)|null|
@@ -899,7 +899,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-05**|**Densities and momentum distributions in A <=12 nuclei from chiral effective field theory interactions**|M. Piarulli et.al.|[2210.02421v1](http://arxiv.org/abs/2210.02421v1)|null|
-|**2022-10-05**|**A Fourier Approach to Mixture Learning**|Mingda Qiao et.al.|[2210.02415v1](http://arxiv.org/abs/2210.02415v1)|null|
+|**2022-10-06**|**A Fourier Approach to Mixture Learning**|Mingda Qiao et.al.|[2210.02415v2](http://arxiv.org/abs/2210.02415v2)|null|
 |**2022-10-05**|**Percolation properties of the neutron population in nuclear reactors**|Benjamin Dechenaux et.al.|[2210.02413v1](http://arxiv.org/abs/2210.02413v1)|null|
 |**2022-10-05**|**The Vendi Score: A Diversity Evaluation Metric for Machine Learning**|Dan Friedman et.al.|[2210.02410v1](http://arxiv.org/abs/2210.02410v1)|**[link](https://github.com/vertaix/vendi-score)**|
 |**2022-10-05**|**Spins-based Quantum Otto Engines and Majorisation**|Sachin Sonkar et.al.|[2210.02402v1](http://arxiv.org/abs/2210.02402v1)|null|
@@ -1194,11 +1194,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-05**|**A Reduced Basis Ensemble Kalman Method**|Francesco A. B. Silva et.al.|[2210.02279v1](http://arxiv.org/abs/2210.02279v1)|null|
-|**2022-10-05**|**Over-the-Air Gaussian Process Regression Based on Product of Experts**|Koya Sato et.al.|[2210.02204v1](http://arxiv.org/abs/2210.02204v1)|null|
+|**2022-10-06**|**Over-the-Air Gaussian Process Regression Based on Product of Experts**|Koya Sato et.al.|[2210.02204v2](http://arxiv.org/abs/2210.02204v2)|null|
 |**2022-10-04**|**Data Leakage in Tabular Federated Learning**|Mark Vero et.al.|[2210.01785v1](http://arxiv.org/abs/2210.01785v1)|null|
 |**2022-10-04**|**Synthesizing Dominant Strategies for Liveness (Full Version)**|Bernd Finkbeiner et.al.|[2210.01660v1](http://arxiv.org/abs/2210.01660v1)|null|
 |**2022-10-03**|**MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**|Yi Hu et.al.|[2210.01167v1](http://arxiv.org/abs/2210.01167v1)|null|
-|**2022-10-04**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v2](http://arxiv.org/abs/2210.00721v2)|null|
+|**2022-10-06**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v3](http://arxiv.org/abs/2210.00721v3)|null|
 |**2022-09-30**|**Theoretical analysis of quantum key distribution systems when integrated with a DWDM optical transport network**|Irina Vorontsova et.al.|[2209.15507v1](http://arxiv.org/abs/2209.15507v1)|null|
 |**2022-09-30**|**Smart Meters Integration in Distribution System State Estimation with Collaborative Filtering and Deep Gaussian Process**|Yifei Xu et.al.|[2209.15239v1](http://arxiv.org/abs/2209.15239v1)|null|
 |**2022-09-30**|**Downlink Compression Improves TopK Sparsification**|William Zou et.al.|[2209.15203v1](http://arxiv.org/abs/2209.15203v1)|null|
