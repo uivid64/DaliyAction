@@ -499,7 +499,7 @@
 - 2022-10-07, **Spin Squeezing as a Probe of Emergent Quantum Orders**, Ilija K. Nikolov et.al., Paper: [http://arxiv.org/abs/2210.03697v1](http://arxiv.org/abs/2210.03697v1)
 - 2022-10-07, **NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems**, Simin Chen et.al., Paper: [http://arxiv.org/abs/2210.03696v1](http://arxiv.org/abs/2210.03696v1)
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692v1](http://arxiv.org/abs/2210.03692v1)
-- 2022-10-07, **A Closer Look at Hardware-Friendly Weight Quantization**, Sungmin Bae et.al., Paper: [http://arxiv.org/abs/2210.03671v1](http://arxiv.org/abs/2210.03671v1)
+- 2022-10-07, **A Closer Look at Hardware-Friendly Weight Quantization**, Sungmin Bae et.al., Paper: [http://arxiv.org/abs/2210.03671v1](http://arxiv.org/abs/2210.03671v1), Code: **[https://github.com/google/qkeras](https://github.com/google/qkeras)**
 - 2022-10-07, **Episodic, compression-driven fluid venting in layered sedimentary basins**, Luke M. Kearney et.al., Paper: [http://arxiv.org/abs/2210.03654v1](http://arxiv.org/abs/2210.03654v1)
 - 2022-10-07, **3D Variational Bayesian Full Waveform Inversion**, Xin Zhang et.al., Paper: [http://arxiv.org/abs/2210.03613v1](http://arxiv.org/abs/2210.03613v1)
 - 2022-10-07, **In-situ Model Downloading to Realize Versatile Edge AI in 6G Mobile Networks**, Kaibin Huang et.al., Paper: [http://arxiv.org/abs/2210.03555v1](http://arxiv.org/abs/2210.03555v1)
@@ -807,7 +807,7 @@
 
 ## Distributed Training
 
-- 2022-10-07, **Demystifying Map Space Exploration for NPUs**, Sheng-Chun Kao et.al., Paper: [http://arxiv.org/abs/2210.03731v1](http://arxiv.org/abs/2210.03731v1)
+- 2022-10-07, **Demystifying Map Space Exploration for NPUs**, Sheng-Chun Kao et.al., Paper: [http://arxiv.org/abs/2210.03731v1](http://arxiv.org/abs/2210.03731v1), Code: **[https://github.com/maestro-project/gamma-timeloop](https://github.com/maestro-project/gamma-timeloop)**
 - 2022-10-07, **Integration of Skyline Queries into Spark SQL**, Lukas Grasmann et.al., Paper: [http://arxiv.org/abs/2210.03718v1](http://arxiv.org/abs/2210.03718v1)
 - 2022-10-07, **Multi-Frequency-Aware Patch Adversarial Learning for Neural Point Cloud Rendering**, Jay Karhade et.al., Paper: [http://arxiv.org/abs/2210.03693v1](http://arxiv.org/abs/2210.03693v1)
 - 2022-10-07, **Galaxy Zoo: Clump Scout -- Design and first application of a two-dimensional aggregation tool for citizen science**, Hugh Dickinson et.al., Paper: [http://arxiv.org/abs/2210.03684v1](http://arxiv.org/abs/2210.03684v1)
