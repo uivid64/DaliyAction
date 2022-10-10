@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Randomized channel-state duality**|Bin Yan et.al.|[2210.03723v1](http://arxiv.org/abs/2210.03723v1)|null|
+|**2022-10-07**|**Supercell low-level mesocyclones: Origins of inflow and vorticity**|Brice Coffer et.al.|[2210.03715v1](http://arxiv.org/abs/2210.03715v1)|null|
+|**2022-10-07**|**Spin Squeezing as a Probe of Emergent Quantum Orders**|Ilija K. Nikolov et.al.|[2210.03697v1](http://arxiv.org/abs/2210.03697v1)|null|
+|**2022-10-07**|**NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems**|Simin Chen et.al.|[2210.03696v1](http://arxiv.org/abs/2210.03696v1)|null|
+|**2022-10-07**|**Compressing Video Calls using Synthetic Talking Heads**|Madhav Agarwal et.al.|[2210.03692v1](http://arxiv.org/abs/2210.03692v1)|null|
+|**2022-10-07**|**A Closer Look at Hardware-Friendly Weight Quantization**|Sungmin Bae et.al.|[2210.03671v1](http://arxiv.org/abs/2210.03671v1)|null|
+|**2022-10-07**|**Episodic, compression-driven fluid venting in layered sedimentary basins**|Luke M. Kearney et.al.|[2210.03654v1](http://arxiv.org/abs/2210.03654v1)|null|
+|**2022-10-07**|**3D Variational Bayesian Full Waveform Inversion**|Xin Zhang et.al.|[2210.03613v1](http://arxiv.org/abs/2210.03613v1)|null|
+|**2022-10-07**|**In-situ Model Downloading to Realize Versatile Edge AI in 6G Mobile Networks**|Kaibin Huang et.al.|[2210.03555v1](http://arxiv.org/abs/2210.03555v1)|null|
+|**2022-10-07**|**Truncation Error-Based Anisotropic $p$-Adaptation for Unsteady Flows for High-Order Discontinuous Galerkin Methods**|Andrés M. Rueda-Ramírez et.al.|[2210.03523v1](http://arxiv.org/abs/2210.03523v1)|null|
 |**2022-10-06**|**A perturbative gadget for delaying the onset of barren plateaus in variational quantum algorithms**|Simon Cichy et.al.|[2210.03099v1](http://arxiv.org/abs/2210.03099v1)|**[link](https://github.com/simoncichy/barren-gadgets)**|
 |**2022-10-06**|**Accelerated Single-Call Methods for Constrained Min-Max Optimization**|Yang Cai et.al.|[2210.03096v1](http://arxiv.org/abs/2210.03096v1)|null|
 |**2022-10-06**|**Eddy-freshwater Interaction using Regional Ocean Modeling System in the Bay of Bengal**|Nihar Paul et.al.|[2210.03079v1](http://arxiv.org/abs/2210.03079v1)|null|
@@ -912,6 +922,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Demystifying Map Space Exploration for NPUs**|Sheng-Chun Kao et.al.|[2210.03731v1](http://arxiv.org/abs/2210.03731v1)|null|
+|**2022-10-07**|**Integration of Skyline Queries into Spark SQL**|Lukas Grasmann et.al.|[2210.03718v1](http://arxiv.org/abs/2210.03718v1)|null|
+|**2022-10-07**|**Multi-Frequency-Aware Patch Adversarial Learning for Neural Point Cloud Rendering**|Jay Karhade et.al.|[2210.03693v1](http://arxiv.org/abs/2210.03693v1)|null|
+|**2022-10-07**|**Galaxy Zoo: Clump Scout -- Design and first application of a two-dimensional aggregation tool for citizen science**|Hugh Dickinson et.al.|[2210.03684v1](http://arxiv.org/abs/2210.03684v1)|null|
+|**2022-10-07**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v1](http://arxiv.org/abs/2210.03675v1)|null|
+|**2022-10-07**|**Understanding the Covariance Structure of Convolutional Filters**|Asher Trockman et.al.|[2210.03651v1](http://arxiv.org/abs/2210.03651v1)|null|
+|**2022-10-07**|**How to Enable Uncertainty Estimation in Proximal Policy Optimization**|Eugene Bykovets et.al.|[2210.03649v1](http://arxiv.org/abs/2210.03649v1)|null|
+|**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
+|**2022-10-07**|**FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution**|Yong-Kun Zhang et.al.|[2210.03645v1](http://arxiv.org/abs/2210.03645v1)|null|
+|**2022-10-07**|**Analysing the structure of the bulge with Mira variables**|Ž. Chrobáková et.al.|[2210.03643v1](http://arxiv.org/abs/2210.03643v1)|null|
 |**2022-10-06**|**Content-Based Search for Deep Generative Models**|Daohan Lu et.al.|[2210.03116v1](http://arxiv.org/abs/2210.03116v1)|**[link](https://github.com/generative-intelligence-lab/modelverse)**|
 |**2022-10-06**|**SimPer: Simple Self-Supervised Learning of Periodic Targets**|Yuzhe Yang et.al.|[2210.03115v1](http://arxiv.org/abs/2210.03115v1)|**[link](https://github.com/yyzharry/simper)**|
 |**2022-10-06**|**Distributionally Adaptive Meta Reinforcement Learning**|Anurag Ajay et.al.|[2210.03104v1](http://arxiv.org/abs/2210.03104v1)|null|
@@ -1217,6 +1237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Tracing, Ranking and Pricing DER Flexibility in Active Distribution Networks**|Andrey Churkin et.al.|[2210.03589v1](http://arxiv.org/abs/2210.03589v1)|null|
 |**2022-10-06**|**A Distributed System-level Diagnosis Model for the Implementation of Unreliable Failure Detectors**|Elias P. Duarte Jr. et.al.|[2210.02847v1](http://arxiv.org/abs/2210.02847v1)|null|
 |**2022-10-05**|**A Reduced Basis Ensemble Kalman Method**|Francesco A. B. Silva et.al.|[2210.02279v1](http://arxiv.org/abs/2210.02279v1)|null|
 |**2022-10-06**|**Over-the-Air Gaussian Process Regression Based on Product of Experts**|Koya Sato et.al.|[2210.02204v2](http://arxiv.org/abs/2210.02204v2)|null|
