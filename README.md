@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Second-order regression models exhibit progressive sharpening to the edge of stability**|Atish Agarwala et.al.|[2210.04860v1](http://arxiv.org/abs/2210.04860v1)|null|
+|**2022-10-10**|**Eigenvalue processes in light of Riemannian submersion and gradient flow of isospectral orbits**|Ching-Peng Huang et.al.|[2210.04858v1](http://arxiv.org/abs/2210.04858v1)|null|
+|**2022-10-10**|**Rieoptax: Riemannian Optimization in JAX**|Saiteja Utpala et.al.|[2210.04840v1](http://arxiv.org/abs/2210.04840v1)|**[link](https://github.com/saitejautpala/rieoptax)**|
+|**2022-10-10**|**Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**|Charith Peris et.al.|[2210.04834v1](http://arxiv.org/abs/2210.04834v1)|null|
+|**2022-10-10**|**Long N-step Surrogate Stage Reward to Reduce Variances of Deep Reinforcement Learning in Complex Problems**|Junmin Zhong et.al.|[2210.04820v1](http://arxiv.org/abs/2210.04820v1)|null|
+|**2022-10-10**|**Towards a Theoretical Foundation of Policy Optimization for Learning Control Policies**|Bin Hu et.al.|[2210.04810v1](http://arxiv.org/abs/2210.04810v1)|null|
+|**2022-10-10**|**MUSE crowded field 3D spectroscopy in NGC 300 III. Characterizing extremely faint HII regions and diffuse ionized gas**|Genoveva Micheva et.al.|[2210.04786v1](http://arxiv.org/abs/2210.04786v1)|null|
+|**2022-10-10**|**On the Performance of Gradient Tracking with Local Updates**|Edward Duc Hien Nguyen et.al.|[2210.04757v1](http://arxiv.org/abs/2210.04757v1)|null|
+|**2022-10-10**|**A hyperbolic-elliptic PDE model and conservative numerical method for gravity-dominated variably-saturated groundwater flow**|Mohammad Afzal Shadab et.al.|[2210.04724v1](http://arxiv.org/abs/2210.04724v1)|null|
+|**2022-10-10**|**Quantum state tomography via non-convex Riemannian gradient descent**|Ming-Chien Hsu et.al.|[2210.04717v1](http://arxiv.org/abs/2210.04717v1)|null|
 |**2022-10-07**|**Randomized channel-state duality**|Bin Yan et.al.|[2210.03723v1](http://arxiv.org/abs/2210.03723v1)|null|
 |**2022-10-07**|**Supercell low-level mesocyclones: Origins of inflow and vorticity**|Brice Coffer et.al.|[2210.03715v1](http://arxiv.org/abs/2210.03715v1)|null|
 |**2022-10-07**|**Spin Squeezing as a Probe of Emergent Quantum Orders**|Ilija K. Nikolov et.al.|[2210.03697v1](http://arxiv.org/abs/2210.03697v1)|null|
@@ -918,6 +928,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**EVA3D: Compositional 3D Human Generation from 2D Image Collections**|Fangzhou Hong et.al.|[2210.04888v1](http://arxiv.org/abs/2210.04888v1)|null|
+|**2022-10-10**|**Revisiting adapters with adversarial training**|Sylvestre-Alvise Rebuffi et.al.|[2210.04886v1](http://arxiv.org/abs/2210.04886v1)|null|
+|**2022-10-10**|**Layer Ensembles**|Illia Oleksiienko et.al.|[2210.04882v1](http://arxiv.org/abs/2210.04882v1)|null|
+|**2022-10-10**|**Forward silicon tracking detector developments for the future Electron-Ion Collider**|Xuan Li et.al.|[2210.04879v1](http://arxiv.org/abs/2210.04879v1)|null|
+|**2022-10-10**|**Topological Phases and Curvature-Driven Pattern Formation in Cholesteric Shells**|Giuseppe Negro et.al.|[2210.04877v1](http://arxiv.org/abs/2210.04877v1)|null|
+|**2022-10-10**|**CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation**|Tanay Dixit et.al.|[2210.04873v1](http://arxiv.org/abs/2210.04873v1)|**[link](https://github.com/tanay2001/core)**|
+|**2022-10-10**|**Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models**|Louis Sharrock et.al.|[2210.04872v1](http://arxiv.org/abs/2210.04872v1)|null|
+|**2022-10-10**|**A copula-based boosting model for time-to-event prediction with dependent censoring**|Alise Danielle Midtfjord et.al.|[2210.04869v1](http://arxiv.org/abs/2210.04869v1)|null|
+|**2022-10-10**|**PoGaIN: Poisson-Gaussian Image Noise Modeling from Paired Samples**|Nicolas Bähler et.al.|[2210.04866v1](http://arxiv.org/abs/2210.04866v1)|null|
+|**2022-10-10**|**Tracking changes using Kullback-Leibler divergence for the continual learning**|Sebastián Basterrech et.al.|[2210.04865v1](http://arxiv.org/abs/2210.04865v1)|null|
 |**2022-10-07**|**Demystifying Map Space Exploration for NPUs**|Sheng-Chun Kao et.al.|[2210.03731v1](http://arxiv.org/abs/2210.03731v1)|**[link](https://github.com/maestro-project/gamma-timeloop)**|
 |**2022-10-07**|**Integration of Skyline Queries into Spark SQL**|Lukas Grasmann et.al.|[2210.03718v1](http://arxiv.org/abs/2210.03718v1)|null|
 |**2022-10-07**|**Multi-Frequency-Aware Patch Adversarial Learning for Neural Point Cloud Rendering**|Jay Karhade et.al.|[2210.03693v1](http://arxiv.org/abs/2210.03693v1)|null|
