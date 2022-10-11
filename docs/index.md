@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.10
+## Updated on 2022.10.11
 
 ## SLAM
 
@@ -614,7 +614,7 @@ layout: default
 |**2022-10-07**|**Compressing Video Calls using Synthetic Talking Heads**|Madhav Agarwal et.al.|[2210.03692v1](http://arxiv.org/abs/2210.03692v1)|null|
 |**2022-10-07**|**A Closer Look at Hardware-Friendly Weight Quantization**|Sungmin Bae et.al.|[2210.03671v1](http://arxiv.org/abs/2210.03671v1)|**[link](https://github.com/google/qkeras)**|
 |**2022-10-07**|**Episodic, compression-driven fluid venting in layered sedimentary basins**|Luke M. Kearney et.al.|[2210.03654v1](http://arxiv.org/abs/2210.03654v1)|null|
-|**2022-10-07**|**3D Variational Bayesian Full Waveform Inversion**|Xin Zhang et.al.|[2210.03613v1](http://arxiv.org/abs/2210.03613v1)|null|
+|**2022-10-10**|**3D Bayesian Variational Full Waveform Inversion**|Xin Zhang et.al.|[2210.03613v2](http://arxiv.org/abs/2210.03613v2)|null|
 |**2022-10-07**|**In-situ Model Downloading to Realize Versatile Edge AI in 6G Mobile Networks**|Kaibin Huang et.al.|[2210.03555v1](http://arxiv.org/abs/2210.03555v1)|null|
 |**2022-10-07**|**Truncation Error-Based Anisotropic $p$-Adaptation for Unsteady Flows for High-Order Discontinuous Galerkin Methods**|Andrés M. Rueda-Ramírez et.al.|[2210.03523v1](http://arxiv.org/abs/2210.03523v1)|null|
 |**2022-10-06**|**A perturbative gadget for delaying the onset of barren plateaus in variational quantum algorithms**|Simon Cichy et.al.|[2210.03099v1](http://arxiv.org/abs/2210.03099v1)|**[link](https://github.com/simoncichy/barren-gadgets)**|
@@ -926,7 +926,7 @@ layout: default
 |**2022-10-07**|**Integration of Skyline Queries into Spark SQL**|Lukas Grasmann et.al.|[2210.03718v1](http://arxiv.org/abs/2210.03718v1)|null|
 |**2022-10-07**|**Multi-Frequency-Aware Patch Adversarial Learning for Neural Point Cloud Rendering**|Jay Karhade et.al.|[2210.03693v1](http://arxiv.org/abs/2210.03693v1)|null|
 |**2022-10-07**|**Galaxy Zoo: Clump Scout -- Design and first application of a two-dimensional aggregation tool for citizen science**|Hugh Dickinson et.al.|[2210.03684v1](http://arxiv.org/abs/2210.03684v1)|null|
-|**2022-10-07**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v1](http://arxiv.org/abs/2210.03675v1)|null|
+|**2022-10-10**|**Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts**|Rui Wang et.al.|[2210.03675v2](http://arxiv.org/abs/2210.03675v2)|null|
 |**2022-10-07**|**Understanding the Covariance Structure of Convolutional Filters**|Asher Trockman et.al.|[2210.03651v1](http://arxiv.org/abs/2210.03651v1)|null|
 |**2022-10-07**|**How to Enable Uncertainty Estimation in Proximal Policy Optimization**|Eugene Bykovets et.al.|[2210.03649v1](http://arxiv.org/abs/2210.03649v1)|null|
 |**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
