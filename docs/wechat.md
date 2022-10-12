@@ -495,14 +495,14 @@
 ## Gradient Compression
 
 - 2022-10-11, **Behavior in time of solutions of a Keller--Segel system with flux limitation and source term**, Monica Marras et.al., Paper: [http://arxiv.org/abs/2210.05656v1](http://arxiv.org/abs/2210.05656v1)
-- 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1)
+- 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1), Code: **[https://github.com/princeton-nlp/lm-kernel-ft](https://github.com/princeton-nlp/lm-kernel-ft)**
 - 2022-10-11, **Thermally-generated spin current in the topological insulator Bi$_2$Se$_3$**, Rakshit Jain et.al., Paper: [http://arxiv.org/abs/2210.05636v1](http://arxiv.org/abs/2210.05636v1)
 - 2022-10-11, **Convergence of a Decoupled Splitting Scheme for the Cahn-Hilliard-Navier-Stokes System**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2210.05625v1](http://arxiv.org/abs/2210.05625v1)
 - 2022-10-11, **Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**, Elissa Mhanna et.al., Paper: [http://arxiv.org/abs/2210.05618v1](http://arxiv.org/abs/2210.05618v1)
 - 2022-10-11, **Divergence Results and Convergence of a Variance Reduced Version of ADAM**, Ruiqi Wang et.al., Paper: [http://arxiv.org/abs/2210.05607v1](http://arxiv.org/abs/2210.05607v1)
 - 2022-10-11, **Electrodynamics in geometric algebra**, Sylvain D. Brechet et.al., Paper: [http://arxiv.org/abs/2210.05601v1](http://arxiv.org/abs/2210.05601v1)
 - 2022-10-11, **Improving Sample Efficiency of Deep Learning Models in Electricity Market**, Guangchun Ruan et.al., Paper: [http://arxiv.org/abs/2210.05599v1](http://arxiv.org/abs/2210.05599v1)
-- 2022-10-11, **The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition**, Jingru Tan et.al., Paper: [http://arxiv.org/abs/2210.05566v1](http://arxiv.org/abs/2210.05566v1)
+- 2022-10-11, **The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition**, Jingru Tan et.al., Paper: [http://arxiv.org/abs/2210.05566v1](http://arxiv.org/abs/2210.05566v1), Code: **[https://github.com/modeltc/united-perception](https://github.com/modeltc/united-perception)**
 - 2022-10-11, **Multi-Agent Distributed and Decentralized Geometric Task Allocation**, Michael Amir et.al., Paper: [http://arxiv.org/abs/2210.05552v1](http://arxiv.org/abs/2210.05552v1)
 - 2022-10-10, **Second-order regression models exhibit progressive sharpening to the edge of stability**, Atish Agarwala et.al., Paper: [http://arxiv.org/abs/2210.04860v1](http://arxiv.org/abs/2210.04860v1)
 - 2022-10-10, **Eigenvalue processes in light of Riemannian submersion and gradient flow of isospectral orbits**, Ching-Peng Huang et.al., Paper: [http://arxiv.org/abs/2210.04858v1](http://arxiv.org/abs/2210.04858v1)
