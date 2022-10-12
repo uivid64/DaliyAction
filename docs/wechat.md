@@ -1,4 +1,4 @@
-> Updated on 2022.10.11
+> Updated on 2022.10.12
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-11, **Behavior in time of solutions of a Keller--Segel system with flux limitation and source term**, Monica Marras et.al., Paper: [http://arxiv.org/abs/2210.05656v1](http://arxiv.org/abs/2210.05656v1)
+- 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1)
+- 2022-10-11, **Thermally-generated spin current in the topological insulator Bi$_2$Se$_3$**, Rakshit Jain et.al., Paper: [http://arxiv.org/abs/2210.05636v1](http://arxiv.org/abs/2210.05636v1)
+- 2022-10-11, **Convergence of a Decoupled Splitting Scheme for the Cahn-Hilliard-Navier-Stokes System**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2210.05625v1](http://arxiv.org/abs/2210.05625v1)
+- 2022-10-11, **Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**, Elissa Mhanna et.al., Paper: [http://arxiv.org/abs/2210.05618v1](http://arxiv.org/abs/2210.05618v1)
+- 2022-10-11, **Divergence Results and Convergence of a Variance Reduced Version of ADAM**, Ruiqi Wang et.al., Paper: [http://arxiv.org/abs/2210.05607v1](http://arxiv.org/abs/2210.05607v1)
+- 2022-10-11, **Electrodynamics in geometric algebra**, Sylvain D. Brechet et.al., Paper: [http://arxiv.org/abs/2210.05601v1](http://arxiv.org/abs/2210.05601v1)
+- 2022-10-11, **Improving Sample Efficiency of Deep Learning Models in Electricity Market**, Guangchun Ruan et.al., Paper: [http://arxiv.org/abs/2210.05599v1](http://arxiv.org/abs/2210.05599v1)
+- 2022-10-11, **The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition**, Jingru Tan et.al., Paper: [http://arxiv.org/abs/2210.05566v1](http://arxiv.org/abs/2210.05566v1)
+- 2022-10-11, **Multi-Agent Distributed and Decentralized Geometric Task Allocation**, Michael Amir et.al., Paper: [http://arxiv.org/abs/2210.05552v1](http://arxiv.org/abs/2210.05552v1)
 - 2022-10-10, **Second-order regression models exhibit progressive sharpening to the edge of stability**, Atish Agarwala et.al., Paper: [http://arxiv.org/abs/2210.04860v1](http://arxiv.org/abs/2210.04860v1)
 - 2022-10-10, **Eigenvalue processes in light of Riemannian submersion and gradient flow of isospectral orbits**, Ching-Peng Huang et.al., Paper: [http://arxiv.org/abs/2210.04858v1](http://arxiv.org/abs/2210.04858v1)
 - 2022-10-10, **Rieoptax: Riemannian Optimization in JAX**, Saiteja Utpala et.al., Paper: [http://arxiv.org/abs/2210.04840v1](http://arxiv.org/abs/2210.04840v1), Code: **[https://github.com/saitejautpala/rieoptax](https://github.com/saitejautpala/rieoptax)**
@@ -817,6 +827,16 @@
 
 ## Distributed Training
 
+- 2022-10-11, **A generic diffusion-based approach for 3D human pose prediction in the wild**, Saeed Saadatnejad et.al., Paper: [http://arxiv.org/abs/2210.05669v1](http://arxiv.org/abs/2210.05669v1)
+- 2022-10-11, **The Typical Behavior of Bandit Algorithms**, Lin Fan et.al., Paper: [http://arxiv.org/abs/2210.05660v1](http://arxiv.org/abs/2210.05660v1)
+- 2022-10-11, **Fractal thermodynamics and ninionic statistics of coherent rotational states: realization via imaginary angular rotation in imaginary time formalism**, M. N. Chernodub et.al., Paper: [http://arxiv.org/abs/2210.05651v1](http://arxiv.org/abs/2210.05651v1)
+- 2022-10-11, **A nonparametric relative treatment effect for direct comparisons of censored paired survival outcomes**, Dennis Dobler et.al., Paper: [http://arxiv.org/abs/2210.05647v1](http://arxiv.org/abs/2210.05647v1)
+- 2022-10-11, **The IID Prophet Inequality with Limited Flexibility**, Sebastian Perez-Salazar et.al., Paper: [http://arxiv.org/abs/2210.05634v1](http://arxiv.org/abs/2210.05634v1)
+- 2022-10-11, **Density and correlation in a random sequential adsorption model**, Charles S. do Amaral et.al., Paper: [http://arxiv.org/abs/2210.05627v1](http://arxiv.org/abs/2210.05627v1)
+- 2022-10-11, **Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**, Elissa Mhanna et.al., Paper: [http://arxiv.org/abs/2210.05618v1](http://arxiv.org/abs/2210.05618v1)
+- 2022-10-11, **Nonlinear Fokker-Planck equations with fractional Laplacian and McKean-Vlasov SDEs with Lévy-Noise**, Viorel Barbu et.al., Paper: [http://arxiv.org/abs/2210.05612v1](http://arxiv.org/abs/2210.05612v1)
+- 2022-10-11, **The Exoplanet Radius Valley from Gas-driven Planet Migration and Breaking of Resonant Chains**, Andre Izidoro et.al., Paper: [http://arxiv.org/abs/2210.05595v1](http://arxiv.org/abs/2210.05595v1)
+- 2022-10-11, **Relativistic time-of-arrival measurements: predictions, post-selection and causality problem**, Charis Anastopoulos et.al., Paper: [http://arxiv.org/abs/2210.05591v1](http://arxiv.org/abs/2210.05591v1)
 - 2022-10-10, **EVA3D: Compositional 3D Human Generation from 2D Image Collections**, Fangzhou Hong et.al., Paper: [http://arxiv.org/abs/2210.04888v1](http://arxiv.org/abs/2210.04888v1)
 - 2022-10-10, **Revisiting adapters with adversarial training**, Sylvestre-Alvise Rebuffi et.al., Paper: [http://arxiv.org/abs/2210.04886v1](http://arxiv.org/abs/2210.04886v1)
 - 2022-10-10, **Layer Ensembles**, Illia Oleksiienko et.al., Paper: [http://arxiv.org/abs/2210.04882v1](http://arxiv.org/abs/2210.04882v1)
@@ -1140,6 +1160,7 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-11, **Installation, Commissioning and Performance of Phase Reference Line for LCLS-II**, Shreeharshini Dharanesh Murthy et.al., Paper: [http://arxiv.org/abs/2210.05441v1](http://arxiv.org/abs/2210.05441v1)
 - 2022-10-07, **Tracing, Ranking and Pricing DER Flexibility in Active Distribution Networks**, Andrey Churkin et.al., Paper: [http://arxiv.org/abs/2210.03589v1](http://arxiv.org/abs/2210.03589v1)
 - 2022-10-06, **A Distributed System-level Diagnosis Model for the Implementation of Unreliable Failure Detectors**, Elias P. Duarte Jr. et.al., Paper: [http://arxiv.org/abs/2210.02847v1](http://arxiv.org/abs/2210.02847v1)
 - 2022-10-05, **A Reduced Basis Ensemble Kalman Method**, Francesco A. B. Silva et.al., Paper: [http://arxiv.org/abs/2210.02279v1](http://arxiv.org/abs/2210.02279v1)
