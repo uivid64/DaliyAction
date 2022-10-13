@@ -1,4 +1,4 @@
-> Updated on 2022.10.12
+> Updated on 2022.10.13
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-12, **Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**, Ruqi Zhang et.al., Paper: [http://arxiv.org/abs/2210.06447v1](http://arxiv.org/abs/2210.06447v1)
+- 2022-10-12, **Improving information retention in large scale online continual learning**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2210.06401v1](http://arxiv.org/abs/2210.06401v1)
+- 2022-10-12, **Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**, Lang Feng et.al., Paper: [http://arxiv.org/abs/2210.06386v1](http://arxiv.org/abs/2210.06386v1)
+- 2022-10-12, **Quadratic minimization: from conjugate gradient to an adaptive Heavy-ball method with Polyak step-sizes**, Baptiste Goujaud et.al., Paper: [http://arxiv.org/abs/2210.06367v1](http://arxiv.org/abs/2210.06367v1)
+- 2022-10-12, **AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs**, Shiv Ram Dubey et.al., Paper: [http://arxiv.org/abs/2210.06364v1](http://arxiv.org/abs/2210.06364v1)
+- 2022-10-12, **CoRRECT: A Deep Unfolding Framework for Motion-Corrected Quantitative R2* Mapping**, Xiaojian Xu et.al., Paper: [http://arxiv.org/abs/2210.06330v1](http://arxiv.org/abs/2210.06330v1)
+- 2022-10-12, **Momentum Aggregation for Private Non-convex ERM**, Hoang Tran et.al., Paper: [http://arxiv.org/abs/2210.06328v1](http://arxiv.org/abs/2210.06328v1)
+- 2022-10-12, **Cosmic evolution and thermal stability of Barrow holographic dark energy in nonflat Friedmann-Robertson-Walker Universe**, Giuseppe Gaetano Luciano et.al., Paper: [http://arxiv.org/abs/2210.06320v1](http://arxiv.org/abs/2210.06320v1)
+- 2022-10-12, **Lipschitz continuity results for a class of obstacle problems**, Carlo Benassi et.al., Paper: [http://arxiv.org/abs/2210.06318v1](http://arxiv.org/abs/2210.06318v1)
+- 2022-10-12, **SeKron: A Decomposition Method Supporting Many Factorization Structures**, Marawan Gamal Abdel Hameed et.al., Paper: [http://arxiv.org/abs/2210.06299v1](http://arxiv.org/abs/2210.06299v1)
 - 2022-10-11, **Behavior in time of solutions of a Keller--Segel system with flux limitation and source term**, Monica Marras et.al., Paper: [http://arxiv.org/abs/2210.05656v1](http://arxiv.org/abs/2210.05656v1)
 - 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1), Code: **[https://github.com/princeton-nlp/lm-kernel-ft](https://github.com/princeton-nlp/lm-kernel-ft)**
 - 2022-10-11, **Thermally-generated spin current in the topological insulator Bi$_2$Se$_3$**, Rakshit Jain et.al., Paper: [http://arxiv.org/abs/2210.05636v1](http://arxiv.org/abs/2210.05636v1)
@@ -827,6 +837,16 @@
 
 ## Distributed Training
 
+- 2022-10-12, **Are Sample-Efficient NLP Models More Robust?**, Nelson F. Liu et.al., Paper: [http://arxiv.org/abs/2210.06456v1](http://arxiv.org/abs/2210.06456v1)
+- 2022-10-12, **Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics**, Kyle Lee et.al., Paper: [http://arxiv.org/abs/2210.06450v1](http://arxiv.org/abs/2210.06450v1)
+- 2022-10-12, **To the kinetic theory of dense gases and liquids. Calculation of quasi-equilibrium particle distribution functions by the method of collective variables**, M. Tokarchuk et.al., Paper: [http://arxiv.org/abs/2210.06449v1](http://arxiv.org/abs/2210.06449v1)
+- 2022-10-12, **Debiased inference for a covariate-adjusted regression function**, Kenta Takatsu et.al., Paper: [http://arxiv.org/abs/2210.06448v1](http://arxiv.org/abs/2210.06448v1)
+- 2022-10-12, **Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**, Ruqi Zhang et.al., Paper: [http://arxiv.org/abs/2210.06447v1](http://arxiv.org/abs/2210.06447v1)
+- 2022-10-12, **Equilibrium States Corresponding to Targeted Hyperuniform Nonequilibrium Pair Statistics**, Haina Wang et.al., Paper: [http://arxiv.org/abs/2210.06446v1](http://arxiv.org/abs/2210.06446v1)
+- 2022-10-12, **On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**, Lorenzo Bonicelli et.al., Paper: [http://arxiv.org/abs/2210.06443v1](http://arxiv.org/abs/2210.06443v1)
+- 2022-10-12, **How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization**, Jonas Geiping et.al., Paper: [http://arxiv.org/abs/2210.06441v1](http://arxiv.org/abs/2210.06441v1)
+- 2022-10-12, **Deep Combinatorial Aggregation**, Yuesong Shen et.al., Paper: [http://arxiv.org/abs/2210.06436v1](http://arxiv.org/abs/2210.06436v1)
+- 2022-10-12, **The Eccentricity Distribution of Wide Binaries**, David Benisty et.al., Paper: [http://arxiv.org/abs/2210.06429v1](http://arxiv.org/abs/2210.06429v1)
 - 2022-10-11, **A generic diffusion-based approach for 3D human pose prediction in the wild**, Saeed Saadatnejad et.al., Paper: [http://arxiv.org/abs/2210.05669v1](http://arxiv.org/abs/2210.05669v1)
 - 2022-10-11, **The Typical Behavior of Bandit Algorithms**, Lin Fan et.al., Paper: [http://arxiv.org/abs/2210.05660v1](http://arxiv.org/abs/2210.05660v1)
 - 2022-10-11, **Fractal thermodynamics and ninionic statistics of coherent rotational states: realization via imaginary angular rotation in imaginary time formalism**, M. N. Chernodub et.al., Paper: [http://arxiv.org/abs/2210.05651v1](http://arxiv.org/abs/2210.05651v1)
@@ -1160,6 +1180,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-12, **Aergia: Leveraging Heterogeneity in Federated Learning Systems**, Bart Cox et.al., Paper: [http://arxiv.org/abs/2210.06154v1](http://arxiv.org/abs/2210.06154v1)
+- 2022-10-12, **Self-stabilization and byzantine tolerance for maximal independt setb ELF-STABILIZATION**, Johanne Cohen et.al., Paper: [http://arxiv.org/abs/2210.06116v1](http://arxiv.org/abs/2210.06116v1)
 - 2022-10-11, **Installation, Commissioning and Performance of Phase Reference Line for LCLS-II**, Shreeharshini Dharanesh Murthy et.al., Paper: [http://arxiv.org/abs/2210.05441v1](http://arxiv.org/abs/2210.05441v1)
 - 2022-10-07, **Tracing, Ranking and Pricing DER Flexibility in Active Distribution Networks**, Andrey Churkin et.al., Paper: [http://arxiv.org/abs/2210.03589v1](http://arxiv.org/abs/2210.03589v1)
 - 2022-10-06, **A Distributed System-level Diagnosis Model for the Implementation of Unreliable Failure Detectors**, Elias P. Duarte Jr. et.al., Paper: [http://arxiv.org/abs/2210.02847v1](http://arxiv.org/abs/2210.02847v1)
