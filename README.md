@@ -605,9 +605,9 @@
 |---|---|---|---|---|
 |**2022-10-12**|**Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**|Ruqi Zhang et.al.|[2210.06447v1](http://arxiv.org/abs/2210.06447v1)|null|
 |**2022-10-12**|**Improving information retention in large scale online continual learning**|Zhipeng Cai et.al.|[2210.06401v1](http://arxiv.org/abs/2210.06401v1)|null|
-|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|null|
+|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
 |**2022-10-12**|**Quadratic minimization: from conjugate gradient to an adaptive Heavy-ball method with Polyak step-sizes**|Baptiste Goujaud et.al.|[2210.06367v1](http://arxiv.org/abs/2210.06367v1)|null|
-|**2022-10-12**|**AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs**|Shiv Ram Dubey et.al.|[2210.06364v1](http://arxiv.org/abs/2210.06364v1)|null|
+|**2022-10-12**|**AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs**|Shiv Ram Dubey et.al.|[2210.06364v1](http://arxiv.org/abs/2210.06364v1)|**[link](https://github.com/shivram1987/adanorm)**|
 |**2022-10-12**|**CoRRECT: A Deep Unfolding Framework for Motion-Corrected Quantitative R2* Mapping**|Xiaojian Xu et.al.|[2210.06330v1](http://arxiv.org/abs/2210.06330v1)|null|
 |**2022-10-12**|**Momentum Aggregation for Private Non-convex ERM**|Hoang Tran et.al.|[2210.06328v1](http://arxiv.org/abs/2210.06328v1)|null|
 |**2022-10-12**|**Cosmic evolution and thermal stability of Barrow holographic dark energy in nonflat Friedmann-Robertson-Walker Universe**|Giuseppe Gaetano Luciano et.al.|[2210.06320v1](http://arxiv.org/abs/2210.06320v1)|null|
@@ -954,8 +954,8 @@
 |**2022-10-12**|**Debiased inference for a covariate-adjusted regression function**|Kenta Takatsu et.al.|[2210.06448v1](http://arxiv.org/abs/2210.06448v1)|null|
 |**2022-10-12**|**Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**|Ruqi Zhang et.al.|[2210.06447v1](http://arxiv.org/abs/2210.06447v1)|null|
 |**2022-10-12**|**Equilibrium States Corresponding to Targeted Hyperuniform Nonequilibrium Pair Statistics**|Haina Wang et.al.|[2210.06446v1](http://arxiv.org/abs/2210.06446v1)|null|
-|**2022-10-12**|**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**|Lorenzo Bonicelli et.al.|[2210.06443v1](http://arxiv.org/abs/2210.06443v1)|null|
-|**2022-10-12**|**How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization**|Jonas Geiping et.al.|[2210.06441v1](http://arxiv.org/abs/2210.06441v1)|null|
+|**2022-10-12**|**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**|Lorenzo Bonicelli et.al.|[2210.06443v1](http://arxiv.org/abs/2210.06443v1)|**[link](https://github.com/aimagelab/lider)**|
+|**2022-10-12**|**How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization**|Jonas Geiping et.al.|[2210.06441v1](http://arxiv.org/abs/2210.06441v1)|**[link](https://github.com/jonasgeiping/dataaugs)**|
 |**2022-10-12**|**Deep Combinatorial Aggregation**|Yuesong Shen et.al.|[2210.06436v1](http://arxiv.org/abs/2210.06436v1)|null|
 |**2022-10-12**|**The Eccentricity Distribution of Wide Binaries**|David Benisty et.al.|[2210.06429v1](http://arxiv.org/abs/2210.06429v1)|null|
 |**2022-10-11**|**A generic diffusion-based approach for 3D human pose prediction in the wild**|Saeed Saadatnejad et.al.|[2210.05669v1](http://arxiv.org/abs/2210.05669v1)|null|
