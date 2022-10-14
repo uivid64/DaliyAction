@@ -1,4 +1,4 @@
-> Updated on 2022.10.13
+> Updated on 2022.10.14
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-13, **Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation**, Dipam Goswami et.al., Paper: [http://arxiv.org/abs/2210.07207v1](http://arxiv.org/abs/2210.07207v1)
+- 2022-10-13, **Fermi-liquid nonadiabatic highly-compressed cesium iodide superconductor**, E. F. Talantsev et.al., Paper: [http://arxiv.org/abs/2210.07205v1](http://arxiv.org/abs/2210.07205v1)
+- 2022-10-13, **On Compressing Sequences for Self-Supervised Speech Models**, Yen Meng et.al., Paper: [http://arxiv.org/abs/2210.07189v1](http://arxiv.org/abs/2210.07189v1)
+- 2022-10-13, **PDEBENCH: An Extensive Benchmark for Scientific Machine Learning**, Makoto Takamoto et.al., Paper: [http://arxiv.org/abs/2210.07182v1](http://arxiv.org/abs/2210.07182v1)
+- 2022-10-13, **SQuAT: Sharpness- and Quantization-Aware Training for BERT**, Zheng Wang et.al., Paper: [http://arxiv.org/abs/2210.07171v1](http://arxiv.org/abs/2210.07171v1)
+- 2022-10-13, **SOLNP+: A Derivative-Free Solver for Constrained Nonlinear Optimization**, Dongdong Ge et.al., Paper: [http://arxiv.org/abs/2210.07160v1](http://arxiv.org/abs/2210.07160v1)
+- 2022-10-13, **Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data**, Spencer Frei et.al., Paper: [http://arxiv.org/abs/2210.07082v1](http://arxiv.org/abs/2210.07082v1)
+- 2022-10-13, **Scaling approaches to quasi-geostrophic theory for moist, precipitating air**, Daniel Bäumer et.al., Paper: [http://arxiv.org/abs/2210.07057v1](http://arxiv.org/abs/2210.07057v1)
+- 2022-10-13, **Multiple solutions for coupled gradient-type quasilinear elliptic systems with supercritical growth**, Anna Maria Candela et.al., Paper: [http://arxiv.org/abs/2210.07056v1](http://arxiv.org/abs/2210.07056v1)
+- 2022-10-13, **Sparse in Space and Time: Audio-visual Synchronisation with Trainable Selectors**, Vladimir Iashin et.al., Paper: [http://arxiv.org/abs/2210.07055v1](http://arxiv.org/abs/2210.07055v1)
 - 2022-10-12, **Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**, Ruqi Zhang et.al., Paper: [http://arxiv.org/abs/2210.06447v1](http://arxiv.org/abs/2210.06447v1)
 - 2022-10-12, **Improving information retention in large scale online continual learning**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2210.06401v1](http://arxiv.org/abs/2210.06401v1)
 - 2022-10-12, **Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**, Lang Feng et.al., Paper: [http://arxiv.org/abs/2210.06386v1](http://arxiv.org/abs/2210.06386v1), Code: **[https://github.com/langfengq/mlf-dsresnet](https://github.com/langfengq/mlf-dsresnet)**
@@ -837,6 +847,16 @@
 
 ## Distributed Training
 
+- 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1)
+- 2022-10-13, **Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**, Tan Yu et.al., Paper: [http://arxiv.org/abs/2210.07232v1](http://arxiv.org/abs/2210.07232v1)
+- 2022-10-13, **The information on halo properties contained in spectroscopic observations of late-type galaxies**, Tariq Yasin et.al., Paper: [http://arxiv.org/abs/2210.07230v1](http://arxiv.org/abs/2210.07230v1)
+- 2022-10-13, **Condition-number-independent Convergence Rate of Riemannian Hamiltonian Monte Carlo with Numerical Integrators**, Yunbum Kook et.al., Paper: [http://arxiv.org/abs/2210.07219v1](http://arxiv.org/abs/2210.07219v1)
+- 2022-10-13, **Computer-Aided Multi-Objective Optimization in Small Molecule Discovery**, Jenna C. Fromer et.al., Paper: [http://arxiv.org/abs/2210.07209v1](http://arxiv.org/abs/2210.07209v1)
+- 2022-10-13, **Optimal design and performance evaluation of sequentially planned hypothesis tests**, Andrey Novikov et.al., Paper: [http://arxiv.org/abs/2210.07203v1](http://arxiv.org/abs/2210.07203v1)
+- 2022-10-13, **Chance-Constrained Motion Planning with Event-Triggered Estimation**, Anne Theurkauf et.al., Paper: [http://arxiv.org/abs/2210.07190v1](http://arxiv.org/abs/2210.07190v1)
+- 2022-10-13, **Visual Classification via Description from Large Language Models**, Sachit Menon et.al., Paper: [http://arxiv.org/abs/2210.07183v1](http://arxiv.org/abs/2210.07183v1)
+- 2022-10-13, **Measurement Testbed for Radar and Emitter Localization of UAV at 3.75 GHz**, Julia Beuster et.al., Paper: [http://arxiv.org/abs/2210.07168v1](http://arxiv.org/abs/2210.07168v1)
+- 2022-10-13, **Solar System-scale interferometry on fast radio bursts could measure cosmic distances with sub-percent precision**, Kyle Boone et.al., Paper: [http://arxiv.org/abs/2210.07159v1](http://arxiv.org/abs/2210.07159v1)
 - 2022-10-12, **Are Sample-Efficient NLP Models More Robust?**, Nelson F. Liu et.al., Paper: [http://arxiv.org/abs/2210.06456v1](http://arxiv.org/abs/2210.06456v1)
 - 2022-10-12, **Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics**, Kyle Lee et.al., Paper: [http://arxiv.org/abs/2210.06450v1](http://arxiv.org/abs/2210.06450v1)
 - 2022-10-12, **To the kinetic theory of dense gases and liquids. Calculation of quasi-equilibrium particle distribution functions by the method of collective variables**, M. Tokarchuk et.al., Paper: [http://arxiv.org/abs/2210.06449v1](http://arxiv.org/abs/2210.06449v1)
@@ -1180,6 +1200,7 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-13, **POSE: Practical Off-chain Smart Contract Execution**, Tommaso Frassetto et.al., Paper: [http://arxiv.org/abs/2210.07110v1](http://arxiv.org/abs/2210.07110v1)
 - 2022-10-12, **Aergia: Leveraging Heterogeneity in Federated Learning Systems**, Bart Cox et.al., Paper: [http://arxiv.org/abs/2210.06154v1](http://arxiv.org/abs/2210.06154v1)
 - 2022-10-12, **Self-stabilization and byzantine tolerance for maximal independt setb ELF-STABILIZATION**, Johanne Cohen et.al., Paper: [http://arxiv.org/abs/2210.06116v1](http://arxiv.org/abs/2210.06116v1)
 - 2022-10-11, **Installation, Commissioning and Performance of Phase Reference Line for LCLS-II**, Shreeharshini Dharanesh Murthy et.al., Paper: [http://arxiv.org/abs/2210.05441v1](http://arxiv.org/abs/2210.05441v1)
