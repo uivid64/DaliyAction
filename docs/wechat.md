@@ -1,4 +1,4 @@
-> Updated on 2022.10.16
+> Updated on 2022.10.17
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-14, **$Λ$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells**, Sajad Movahedi et.al., Paper: [http://arxiv.org/abs/2210.07998v1](http://arxiv.org/abs/2210.07998v1)
+- 2022-10-14, **A Variational Perspective on Generative Flow Networks**, Heiko Zimmermann et.al., Paper: [http://arxiv.org/abs/2210.07992v1](http://arxiv.org/abs/2210.07992v1)
+- 2022-10-14, **Conformal anomaly in magnetic finite temperature response of strongly interacting one-dimensional spin systems**, Christian Northe et.al., Paper: [http://arxiv.org/abs/2210.07972v1](http://arxiv.org/abs/2210.07972v1)
+- 2022-10-14, **Uniqueness of Asymptotically Conical Gradient Shrinking Solitons in G_2-Laplacian Flow**, Mark Haskins et.al., Paper: [http://arxiv.org/abs/2210.07954v1](http://arxiv.org/abs/2210.07954v1)
+- 2022-10-14, **An IMEX-DG solver for atmospheric dynamics simulations with adaptive mesh refinement**, Giuseppe Orlando et.al., Paper: [http://arxiv.org/abs/2210.07898v1](http://arxiv.org/abs/2210.07898v1)
+- 2022-10-14, **Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**, Zhuoqing Song et.al., Paper: [http://arxiv.org/abs/2210.07881v1](http://arxiv.org/abs/2210.07881v1)
+- 2022-10-14, **Unsupervised Dense Nuclei Detection and Segmentation with Prior Self-activation Map For Histology Images**, Pingyi Chen et.al., Paper: [http://arxiv.org/abs/2210.07862v1](http://arxiv.org/abs/2210.07862v1)
+- 2022-10-14, **A compatible finite element discretisation for the nonhydrostatic vertical slice equations**, C. J. Cotter et.al., Paper: [http://arxiv.org/abs/2210.07861v1](http://arxiv.org/abs/2210.07861v1)
+- 2022-10-14, **Commutativity and Disentanglement from the Manifold Perspective**, Frank Qiu et.al., Paper: [http://arxiv.org/abs/2210.07857v1](http://arxiv.org/abs/2210.07857v1)
+- 2022-10-14, **Multiple Choice Hard Thresholding Pursuit (MCHTP) for Simultaneous Sparse Recovery and Sparsity Order Estimation**, Samrat Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2210.07800v1](http://arxiv.org/abs/2210.07800v1)
 - 2022-10-13, **Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation**, Dipam Goswami et.al., Paper: [http://arxiv.org/abs/2210.07207v1](http://arxiv.org/abs/2210.07207v1), Code: **[https://github.com/dfki-av/awt-for-ciss](https://github.com/dfki-av/awt-for-ciss)**
 - 2022-10-13, **Fermi-liquid nonadiabatic highly-compressed cesium iodide superconductor**, E. F. Talantsev et.al., Paper: [http://arxiv.org/abs/2210.07205v1](http://arxiv.org/abs/2210.07205v1)
 - 2022-10-13, **On Compressing Sequences for Self-Supervised Speech Models**, Yen Meng et.al., Paper: [http://arxiv.org/abs/2210.07189v1](http://arxiv.org/abs/2210.07189v1)
@@ -847,6 +857,16 @@
 
 ## Distributed Training
 
+- 2022-10-14, **Scattering Expansion for Localization in One Dimension**, Adrian B. Culver et.al., Paper: [http://arxiv.org/abs/2210.07999v1](http://arxiv.org/abs/2210.07999v1)
+- 2022-10-14, **Degeneracy is OK: Logarithmic Regret for Network Revenue Management with Indiscrete Distributions**, Jiashuo Jiang et.al., Paper: [http://arxiv.org/abs/2210.07996v1](http://arxiv.org/abs/2210.07996v1)
+- 2022-10-14, **Single diffractive hard exclusive processes for the study of generalized parton distributions**, Jian-Wei Qiu et.al., Paper: [http://arxiv.org/abs/2210.07995v1](http://arxiv.org/abs/2210.07995v1)
+- 2022-10-14, **A Variational Perspective on Generative Flow Networks**, Heiko Zimmermann et.al., Paper: [http://arxiv.org/abs/2210.07992v1](http://arxiv.org/abs/2210.07992v1)
+- 2022-10-14, **Bayesian Regularization on Function Spaces via Q-Exponential Process**, Shiwei Lan et.al., Paper: [http://arxiv.org/abs/2210.07987v1](http://arxiv.org/abs/2210.07987v1)
+- 2022-10-14, **The Ly$α$, CIV, and HeII nebulae around J1000+0234: a galaxy pair at the center of a galaxy overdensity at $z=4.5$**, E. F. Jiménez-Andrade et.al., Paper: [http://arxiv.org/abs/2210.07982v1](http://arxiv.org/abs/2210.07982v1)
+- 2022-10-14, **Properties of packings and dispersions of superellipse sector particles**, John Colt et.al., Paper: [http://arxiv.org/abs/2210.07949v1](http://arxiv.org/abs/2210.07949v1)
+- 2022-10-14, **Spectrum of Lévy-Khintchine Random Laplacian Matrices**, Andrew Campbell et.al., Paper: [http://arxiv.org/abs/2210.07927v1](http://arxiv.org/abs/2210.07927v1)
+- 2022-10-14, **Model-checking lock-sharing systems against regular constraints**, Corto Mascle et.al., Paper: [http://arxiv.org/abs/2210.07914v1](http://arxiv.org/abs/2210.07914v1)
+- 2022-10-14, **Efficiently Controlling Multiple Risks with Pareto Testing**, Bracha Laufer-Goldshtein et.al., Paper: [http://arxiv.org/abs/2210.07913v1](http://arxiv.org/abs/2210.07913v1)
 - 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1), Code: **[https://github.com/jingkang50/openood](https://github.com/jingkang50/openood)**
 - 2022-10-13, **Decomposing User-APP Graph into Subgraphs for Effective APP and User Embedding Learning**, Tan Yu et.al., Paper: [http://arxiv.org/abs/2210.07232v1](http://arxiv.org/abs/2210.07232v1)
 - 2022-10-13, **The information on halo properties contained in spectroscopic observations of late-type galaxies**, Tariq Yasin et.al., Paper: [http://arxiv.org/abs/2210.07230v1](http://arxiv.org/abs/2210.07230v1)
@@ -1200,6 +1220,9 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-14, **Model-checking lock-sharing systems against regular constraints**, Corto Mascle et.al., Paper: [http://arxiv.org/abs/2210.07914v1](http://arxiv.org/abs/2210.07914v1)
+- 2022-10-14, **Hybrid Decentralized Optimization: First- and Zeroth-Order Optimizers Can Be Jointly Leveraged For Faster Convergence**, Shayan Talaei et.al., Paper: [http://arxiv.org/abs/2210.07703v1](http://arxiv.org/abs/2210.07703v1)
+- 2022-10-13, **AMP: Automatically Finding Model Parallel Strategies with Heterogeneity Awareness**, Dacheng Li et.al., Paper: [http://arxiv.org/abs/2210.07297v1](http://arxiv.org/abs/2210.07297v1)
 - 2022-10-13, **POSE: Practical Off-chain Smart Contract Execution**, Tommaso Frassetto et.al., Paper: [http://arxiv.org/abs/2210.07110v1](http://arxiv.org/abs/2210.07110v1), Code: **[https://github.com/appliedcryptogroup/posecode](https://github.com/appliedcryptogroup/posecode)**
 - 2022-10-12, **Aergia: Leveraging Heterogeneity in Federated Learning Systems**, Bart Cox et.al., Paper: [http://arxiv.org/abs/2210.06154v1](http://arxiv.org/abs/2210.06154v1)
 - 2022-10-12, **Self-stabilization and byzantine tolerance for maximal independt setb ELF-STABILIZATION**, Johanne Cohen et.al., Paper: [http://arxiv.org/abs/2210.06116v1](http://arxiv.org/abs/2210.06116v1)
