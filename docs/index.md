@@ -612,8 +612,8 @@ layout: default
 |**2022-10-14**|**Conformal anomaly in magnetic finite temperature response of strongly interacting one-dimensional spin systems**|Christian Northe et.al.|[2210.07972v1](http://arxiv.org/abs/2210.07972v1)|null|
 |**2022-10-14**|**Uniqueness of Asymptotically Conical Gradient Shrinking Solitons in G_2-Laplacian Flow**|Mark Haskins et.al.|[2210.07954v1](http://arxiv.org/abs/2210.07954v1)|null|
 |**2022-10-14**|**An IMEX-DG solver for atmospheric dynamics simulations with adaptive mesh refinement**|Giuseppe Orlando et.al.|[2210.07898v1](http://arxiv.org/abs/2210.07898v1)|null|
-|**2022-10-14**|**Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**|Zhuoqing Song et.al.|[2210.07881v1](http://arxiv.org/abs/2210.07881v1)|null|
-|**2022-10-14**|**Unsupervised Dense Nuclei Detection and Segmentation with Prior Self-activation Map For Histology Images**|Pingyi Chen et.al.|[2210.07862v1](http://arxiv.org/abs/2210.07862v1)|null|
+|**2022-10-14**|**Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**|Zhuoqing Song et.al.|[2210.07881v1](http://arxiv.org/abs/2210.07881v1)|**[link](https://github.com/kexinjinnn/equitopo)**|
+|**2022-10-14**|**Unsupervised Dense Nuclei Detection and Segmentation with Prior Self-activation Map For Histology Images**|Pingyi Chen et.al.|[2210.07862v1](http://arxiv.org/abs/2210.07862v1)|**[link](https://github.com/cpystan/prior-self-activation-map)**|
 |**2022-10-14**|**A compatible finite element discretisation for the nonhydrostatic vertical slice equations**|C. J. Cotter et.al.|[2210.07861v1](http://arxiv.org/abs/2210.07861v1)|null|
 |**2022-10-14**|**Commutativity and Disentanglement from the Manifold Perspective**|Frank Qiu et.al.|[2210.07857v1](http://arxiv.org/abs/2210.07857v1)|null|
 |**2022-10-14**|**Multiple Choice Hard Thresholding Pursuit (MCHTP) for Simultaneous Sparse Recovery and Sparsity Order Estimation**|Samrat Mukhopadhyay et.al.|[2210.07800v1](http://arxiv.org/abs/2210.07800v1)|null|
