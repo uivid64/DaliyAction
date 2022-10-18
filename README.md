@@ -611,7 +611,7 @@
 |**2022-10-17**|**Sub-8-bit quantization for on-device speech recognition: a regularization-free approach**|Kai Zhen et.al.|[2210.09188v1](http://arxiv.org/abs/2210.09188v1)|null|
 |**2022-10-17**|**Implicit models, latent compression, intrinsic biases, and cheap lunches in community detection**|Tiago P. Peixoto et.al.|[2210.09186v1](http://arxiv.org/abs/2210.09186v1)|null|
 |**2022-10-17**|**Fast Gaussian Process Predictions on Large Geospatial Fields with Prediction-Point Dependent Basis Functions**|Frida Marie Viset et.al.|[2210.09168v1](http://arxiv.org/abs/2210.09168v1)|null|
-|**2022-10-17**|**PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks**|Enrico Meloni et.al.|[2210.09147v1](http://arxiv.org/abs/2210.09147v1)|null|
+|**2022-10-17**|**PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks**|Enrico Meloni et.al.|[2210.09147v1](http://arxiv.org/abs/2210.09147v1)|**[link](https://github.com/sailab-code/partime)**|
 |**2022-10-17**|**Advanced Characterization-Informed Framework and Quantitative Insight to Irradiated Annular U-10Zr Metallic Fuels**|Fei Xu et.al.|[2210.09104v1](http://arxiv.org/abs/2210.09104v1)|null|
 |**2022-10-14**|**$Λ$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells**|Sajad Movahedi et.al.|[2210.07998v1](http://arxiv.org/abs/2210.07998v1)|null|
 |**2022-10-14**|**A Variational Perspective on Generative Flow Networks**|Heiko Zimmermann et.al.|[2210.07992v1](http://arxiv.org/abs/2210.07992v1)|null|
@@ -987,7 +987,7 @@
 |**2022-10-17**|**Collision-induced flavor instability in dense neutrino gases with energy-dependent scattering**|Yu-Chia Lin et.al.|[2210.09218v1](http://arxiv.org/abs/2210.09218v1)|null|
 |**2022-10-17**|**Model Predictive Control via On-Policy Imitation Learning**|Kwangjun Ahn et.al.|[2210.09206v1](http://arxiv.org/abs/2210.09206v1)|null|
 |**2022-10-17**|**High-efficiency Blockchain-based Supply Chain Traceability**|Hanqing Wu et.al.|[2210.09202v1](http://arxiv.org/abs/2210.09202v1)|null|
-|**2022-10-17**|**Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors**|Niklas Freymuth et.al.|[2210.08121v1](http://arxiv.org/abs/2210.08121v1)|null|
+|**2022-10-17**|**Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors**|Niklas Freymuth et.al.|[2210.08121v1](http://arxiv.org/abs/2210.08121v1)|**[link](https://github.com/niklasfreymuth/vigor)**|
 |**2022-10-14**|**Scattering Expansion for Localization in One Dimension**|Adrian B. Culver et.al.|[2210.07999v1](http://arxiv.org/abs/2210.07999v1)|null|
 |**2022-10-14**|**Degeneracy is OK: Logarithmic Regret for Network Revenue Management with Indiscrete Distributions**|Jiashuo Jiang et.al.|[2210.07996v1](http://arxiv.org/abs/2210.07996v1)|null|
 |**2022-10-14**|**Single diffractive hard exclusive processes for the study of generalized parton distributions**|Jian-Wei Qiu et.al.|[2210.07995v1](http://arxiv.org/abs/2210.07995v1)|null|
