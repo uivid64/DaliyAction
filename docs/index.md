@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.18
+## Updated on 2022.10.19
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation**|Jun-Kun Wang et.al.|[2210.10019v1](http://arxiv.org/abs/2210.10019v1)|null|
+|**2022-10-18**|**Magnetic flux penetration in nanoscale wedge-shaped superconducting thin films**|L. B. L. G. Pinheiro et.al.|[2210.09999v1](http://arxiv.org/abs/2210.09999v1)|null|
+|**2022-10-18**|**Rethinking Value Function Learning for Generalization in Reinforcement Learning**|Seungyong Moon et.al.|[2210.09960v1](http://arxiv.org/abs/2210.09960v1)|null|
+|**2022-10-18**|**Global Explanation of Tree-Ensembles Models Based on Item Response Theory**|José Ribeiro et.al.|[2210.09933v1](http://arxiv.org/abs/2210.09933v1)|null|
+|**2022-10-18**|**An Intermediate-field Fast Radio Burst Model and the Quasi-periodic Oscillation**|Jie-Shuang Wang et.al.|[2210.09930v1](http://arxiv.org/abs/2210.09930v1)|null|
+|**2022-10-18**|**Differentially Private Diffusion Models**|Tim Dockhorn et.al.|[2210.09929v1](http://arxiv.org/abs/2210.09929v1)|null|
+|**2022-10-18**|**Generalizing in the Real World with Representation Learning**|Tegan Maharaj et.al.|[2210.09925v1](http://arxiv.org/abs/2210.09925v1)|null|
+|**2022-10-18**|**Computing MEMs on Repetitive Text Collections**|Gonzalo Navarro et.al.|[2210.09914v1](http://arxiv.org/abs/2210.09914v1)|null|
+|**2022-10-18**|**Deep Scattering Spectrum germaneness to Fault Detection and Diagnosis for Component-level Prognostics and Health Management (PHM)**|Ali Rohan et.al.|[2210.09837v1](http://arxiv.org/abs/2210.09837v1)|null|
+|**2022-10-18**|**On-the-go Reflectance Transformation Imaging with Ordinary Smartphones**|Mara Pistellato et.al.|[2210.09821v1](http://arxiv.org/abs/2210.09821v1)|null|
 |**2022-10-17**|**Physics-Driven Convolutional Autoencoder Approach for CFD Data Compressions**|Alberto Olmo et.al.|[2210.09262v1](http://arxiv.org/abs/2210.09262v1)|null|
 |**2022-10-17**|**Provable Phase Retrieval with Mirror Descent**|Jean-Jacques Godeme et.al.|[2210.09248v1](http://arxiv.org/abs/2210.09248v1)|null|
 |**2022-10-17**|**A Saccaded Visual Transformer for General Object Spotting**|Willem. T. Pye et.al.|[2210.09220v1](http://arxiv.org/abs/2210.09220v1)|null|
@@ -982,6 +992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**|Mantas Mazeika et.al.|[2210.10039v1](http://arxiv.org/abs/2210.10039v1)|null|
+|**2022-10-18**|**On the genesis of spiral galaxies -- Classical and pseudo bulges as extremities of a continuous sequence**|Iris Breda et.al.|[2210.10038v1](http://arxiv.org/abs/2210.10038v1)|null|
+|**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
+|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
+|**2022-10-18**|**Linear Regression with Centrality Measures**|Yong Cai et.al.|[2210.10024v1](http://arxiv.org/abs/2210.10024v1)|null|
+|**2022-10-18**|**Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation**|Jun-Kun Wang et.al.|[2210.10019v1](http://arxiv.org/abs/2210.10019v1)|null|
+|**2022-10-18**|**Flare Duty Cycle of Gamma-Ray Blazars and Implications for High-Energy Neutrino Emission**|Kenji Yoshida et.al.|[2210.10011v1](http://arxiv.org/abs/2210.10011v1)|null|
+|**2022-10-18**|**Angular distribution of $Λ_b^0\to pK^-\ell^+\ell^-$ decays comprising $Λ$ resonances with spin up to $\leq5/2$**|Anja Beck et.al.|[2210.09988v1](http://arxiv.org/abs/2210.09988v1)|null|
+|**2022-10-18**|**Gluon Parton Distribution of the Nucleon from 2+1+1-Flavor Lattice QCD in the Physical-Continuum Limit**|Zhouyou Fan et.al.|[2210.09985v1](http://arxiv.org/abs/2210.09985v1)|null|
+|**2022-10-18**|**EAGLE-like simulation models do not solve the entropy core problem in groups and clusters of galaxies**|Edoardo Altamura et.al.|[2210.09978v1](http://arxiv.org/abs/2210.09978v1)|null|
 |**2022-10-17**|**Projected transverse momentum resummation in top-antitop pair production at LHC**|Wan-Li Ju et.al.|[2210.09272v1](http://arxiv.org/abs/2210.09272v1)|null|
 |**2022-10-17**|**Interacting Jump Processes Preserve Semi-Global Markov Random Fields on Path Space**|Ankan Ganguly et.al.|[2210.09253v1](http://arxiv.org/abs/2210.09253v1)|null|
 |**2022-10-17**|**Learning Object Affordance with Contact and Grasp Generation**|Haoming Li et.al.|[2210.09245v1](http://arxiv.org/abs/2210.09245v1)|null|
@@ -1357,6 +1377,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**Decentralized optimization over time-varying graphs: a survey**|Alexander Rogozin et.al.|[2210.09719v1](http://arxiv.org/abs/2210.09719v1)|null|
+|**2022-10-17**|**Contextuality in distributed systems**|Nasos Evangelou-Oost et.al.|[2210.09476v1](http://arxiv.org/abs/2210.09476v1)|null|
+|**2022-10-17**|**A Data-Driven Method for Locating Sensors and Selecting Alarm Thresholds to Identify Violations of Voltage Limits in Distribution Systems**|Paprapee Buason et.al.|[2210.09414v1](http://arxiv.org/abs/2210.09414v1)|null|
 |**2022-10-15**|**The Effects of Partitioning Strategies on Energy Consumption in Distributed CNN Inference at The Edge**|Erqian Tang et.al.|[2210.08392v1](http://arxiv.org/abs/2210.08392v1)|null|
 |**2022-10-14**|**Model-checking lock-sharing systems against regular constraints**|Corto Mascle et.al.|[2210.07914v1](http://arxiv.org/abs/2210.07914v1)|null|
 |**2022-10-14**|**Hybrid Decentralized Optimization: First- and Zeroth-Order Optimizers Can Be Jointly Leveraged For Faster Convergence**|Shayan Talaei et.al.|[2210.07703v1](http://arxiv.org/abs/2210.07703v1)|null|
