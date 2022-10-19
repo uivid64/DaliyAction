@@ -496,7 +496,7 @@
 
 - 2022-10-18, **Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation**, Jun-Kun Wang et.al., Paper: [http://arxiv.org/abs/2210.10019v1](http://arxiv.org/abs/2210.10019v1)
 - 2022-10-18, **Magnetic flux penetration in nanoscale wedge-shaped superconducting thin films**, L. B. L. G. Pinheiro et.al., Paper: [http://arxiv.org/abs/2210.09999v1](http://arxiv.org/abs/2210.09999v1)
-- 2022-10-18, **Rethinking Value Function Learning for Generalization in Reinforcement Learning**, Seungyong Moon et.al., Paper: [http://arxiv.org/abs/2210.09960v1](http://arxiv.org/abs/2210.09960v1)
+- 2022-10-18, **Rethinking Value Function Learning for Generalization in Reinforcement Learning**, Seungyong Moon et.al., Paper: [http://arxiv.org/abs/2210.09960v1](http://arxiv.org/abs/2210.09960v1), Code: **[https://github.com/snu-mllab/dcpg](https://github.com/snu-mllab/dcpg)**
 - 2022-10-18, **Global Explanation of Tree-Ensembles Models Based on Item Response Theory**, José Ribeiro et.al., Paper: [http://arxiv.org/abs/2210.09933v1](http://arxiv.org/abs/2210.09933v1)
 - 2022-10-18, **An Intermediate-field Fast Radio Burst Model and the Quasi-periodic Oscillation**, Jie-Shuang Wang et.al., Paper: [http://arxiv.org/abs/2210.09930v1](http://arxiv.org/abs/2210.09930v1)
 - 2022-10-18, **Differentially Private Diffusion Models**, Tim Dockhorn et.al., Paper: [http://arxiv.org/abs/2210.09929v1](http://arxiv.org/abs/2210.09929v1)
@@ -877,7 +877,7 @@
 
 ## Distributed Training
 
-- 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1)
+- 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1), Code: **[https://github.com/hendrycks/emodiversity](https://github.com/hendrycks/emodiversity)**
 - 2022-10-18, **On the genesis of spiral galaxies -- Classical and pseudo bulges as extremities of a continuous sequence**, Iris Breda et.al., Paper: [http://arxiv.org/abs/2210.10038v1](http://arxiv.org/abs/2210.10038v1)
 - 2022-10-18, **ARAH: Animatable Volume Rendering of Articulated Human SDFs**, Shaofei Wang et.al., Paper: [http://arxiv.org/abs/2210.10036v1](http://arxiv.org/abs/2210.10036v1)
 - 2022-10-18, **Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2210.10033v1](http://arxiv.org/abs/2210.10033v1)
