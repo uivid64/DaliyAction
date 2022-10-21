@@ -1,4 +1,4 @@
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Asymptotic behaviors for the compressible Euler system with nonlinear velocity alignment**|McKenzie Black et.al.|[2210.11438v1](http://arxiv.org/abs/2210.11438v1)|null|
+|**2022-10-20**|**Similarity of Neural Architectures Based on Input Gradient Transferability**|Jaehui Hwang et.al.|[2210.11407v1](http://arxiv.org/abs/2210.11407v1)|null|
+|**2022-10-20**|**Solving Reasoning Tasks with a Slot Transformer**|Ryan Faulkner et.al.|[2210.11394v1](http://arxiv.org/abs/2210.11394v1)|null|
+|**2022-10-20**|**On Representations of Mean-Field Variational Inference**|Soumyadip Ghosh et.al.|[2210.11385v1](http://arxiv.org/abs/2210.11385v1)|null|
+|**2022-10-20**|**Numerical Methods for Large-Scale Optimal Transport**|Nazarii Tupitsa et.al.|[2210.11368v1](http://arxiv.org/abs/2210.11368v1)|null|
+|**2022-10-20**|**The multipole expansion of the local expansion rate**|Basheer Kalbouneh et.al.|[2210.11333v1](http://arxiv.org/abs/2210.11333v1)|null|
+|**2022-10-20**|**Improving Data Quality with Training Dynamics of Gradient Boosting Decision Trees**|Moacir Antonelli Ponti et.al.|[2210.11327v1](http://arxiv.org/abs/2210.11327v1)|null|
+|**2022-10-20**|**Self-Ordering of Buckling, Bending, Bumping Beams**|Arman Guerra et.al.|[2210.11324v1](http://arxiv.org/abs/2210.11324v1)|null|
+|**2022-10-20**|**A note on diffusion limits for stochastic gradient descent**|Alberto Lanconelli et.al.|[2210.11257v1](http://arxiv.org/abs/2210.11257v1)|null|
+|**2022-10-20**|**Neural ODEs as Feedback Policies for Nonlinear Optimal Control**|Ilya Orson Sandoval et.al.|[2210.11245v1](http://arxiv.org/abs/2210.11245v1)|null|
 |**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|null|
 |**2022-10-19**|**Transport Elliptical Slice Sampling**|Alberto Cabezas et.al.|[2210.10644v1](http://arxiv.org/abs/2210.10644v1)|null|
 |**2022-10-19**|**Integrated Decision and Control for High-Level Automated Vehicles by Mixed Policy Gradient and Its Experiment Verification**|Yang Guan et.al.|[2210.10613v1](http://arxiv.org/abs/2210.10613v1)|null|
@@ -998,6 +1008,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|null|
+|**2022-10-20**|**Surgical Fine-Tuning Improves Adaptation to Distribution Shifts**|Yoonho Lee et.al.|[2210.11466v1](http://arxiv.org/abs/2210.11466v1)|null|
+|**2022-10-20**|**Local lower bounds on characteristics of quantum and classical systems**|M. E. Shirokov et.al.|[2210.11462v1](http://arxiv.org/abs/2210.11462v1)|null|
+|**2022-10-20**|**Measured proton electromagnetic structure deviates from theoretical predictions**|R. Li et.al.|[2210.11461v1](http://arxiv.org/abs/2210.11461v1)|null|
+|**2022-10-20**|**Global Convergence of SGD On Two Layer Neural Nets**|Pulkit Gopalani et.al.|[2210.11452v1](http://arxiv.org/abs/2210.11452v1)|null|
+|**2022-10-20**|**A search for thermal gyro-synchrotron emission from hot stellar coronae**|Walter Golay et.al.|[2210.11440v1](http://arxiv.org/abs/2210.11440v1)|null|
+|**2022-10-20**|**SDSS IV MaNGA: Bar pattern speed in Milky Way Analogue galaxies**|Luis Garma-Oehmichen et.al.|[2210.11424v1](http://arxiv.org/abs/2210.11424v1)|null|
+|**2022-10-20**|**Allowing for weak identification when testing GARCH-X type models**|Philipp Ketz et.al.|[2210.11398v1](http://arxiv.org/abs/2210.11398v1)|null|
+|**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|null|
+|**2022-10-20**|**Numerical Methods for Large-Scale Optimal Transport**|Nazarii Tupitsa et.al.|[2210.11368v1](http://arxiv.org/abs/2210.11368v1)|null|
 |**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|**[link](https://github.com/vlfom/rncdl)**|
 |**2022-10-19**|**"Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts**|Haoran Zhang et.al.|[2210.10769v1](http://arxiv.org/abs/2210.10769v1)|null|
 |**2022-10-19**|**Anytime-valid off-policy inference for contextual bandits**|Ian Waudby-Smith et.al.|[2210.10768v1](http://arxiv.org/abs/2210.10768v1)|null|
@@ -1393,6 +1413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Integration of Neuromorphic AI in Event-Driven Distributed Digitized Systems: Concepts and Research Directions**|Mattias Nilsson et.al.|[2210.11190v1](http://arxiv.org/abs/2210.11190v1)|null|
 |**2022-10-19**|**Unboxing Trustworthiness through Quantum Internet**|Agustin Zaballos et.al.|[2210.10687v1](http://arxiv.org/abs/2210.10687v1)|null|
 |**2022-10-18**|**Decentralized optimization over time-varying graphs: a survey**|Alexander Rogozin et.al.|[2210.09719v1](http://arxiv.org/abs/2210.09719v1)|null|
 |**2022-10-17**|**Contextuality in distributed systems**|Nasos Evangelou-Oost et.al.|[2210.09476v1](http://arxiv.org/abs/2210.09476v1)|**[link](https://github.com/onomatic/ramics23-proofs)**|
