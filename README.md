@@ -1014,7 +1014,7 @@
 |**2022-10-20**|**Measured proton electromagnetic structure deviates from theoretical predictions**|R. Li et.al.|[2210.11461v1](http://arxiv.org/abs/2210.11461v1)|null|
 |**2022-10-20**|**Global Convergence of SGD On Two Layer Neural Nets**|Pulkit Gopalani et.al.|[2210.11452v1](http://arxiv.org/abs/2210.11452v1)|null|
 |**2022-10-20**|**A search for thermal gyro-synchrotron emission from hot stellar coronae**|Walter Golay et.al.|[2210.11440v1](http://arxiv.org/abs/2210.11440v1)|null|
-|**2022-10-20**|**SDSS IV MaNGA: Bar pattern speed in Milky Way Analogue galaxies**|Luis Garma-Oehmichen et.al.|[2210.11424v1](http://arxiv.org/abs/2210.11424v1)|null|
+|**2022-10-20**|**SDSS IV MaNGA: Bar pattern speed in Milky Way Analogue galaxies**|Luis Garma-Oehmichen et.al.|[2210.11424v1](http://arxiv.org/abs/2210.11424v1)|**[link](https://github.com/lgarma/mwa_pattern_speed)**|
 |**2022-10-20**|**Allowing for weak identification when testing GARCH-X type models**|Philipp Ketz et.al.|[2210.11398v1](http://arxiv.org/abs/2210.11398v1)|null|
 |**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|**[link](https://github.com/gustavovargashakim/tttflow)**|
 |**2022-10-20**|**Numerical Methods for Large-Scale Optimal Transport**|Nazarii Tupitsa et.al.|[2210.11368v1](http://arxiv.org/abs/2210.11368v1)|null|
