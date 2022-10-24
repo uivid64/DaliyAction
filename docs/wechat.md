@@ -1,4 +1,4 @@
-> Updated on 2022.10.23
+> Updated on 2022.10.24
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-21, **Influence of compressive strain on the hydrogen storage capabilities of graphene: A density functional theory study**, Vikram Mahamiya et.al., Paper: [http://arxiv.org/abs/2210.12111v1](http://arxiv.org/abs/2210.12111v1)
+- 2022-10-21, **Neural Network Approximations of PDEs Beyond Linearity: Representational Perspective**, Tanya Marwah et.al., Paper: [http://arxiv.org/abs/2210.12101v1](http://arxiv.org/abs/2210.12101v1)
+- 2022-10-21, **Robust Singular Values based on L1-norm PCA**, Duc Le et.al., Paper: [http://arxiv.org/abs/2210.12097v1](http://arxiv.org/abs/2210.12097v1)
+- 2022-10-21, **Proof-of-Principle Experiments of All-optical MeV Electrons Source for Femtosecond Diffraction Imaging**, Yu Fang et.al., Paper: [http://arxiv.org/abs/2210.12093v1](http://arxiv.org/abs/2210.12093v1)
+- 2022-10-21, **Efficient Dataset Distillation Using Random Feature Approximation**, Noel Loo et.al., Paper: [http://arxiv.org/abs/2210.12067v1](http://arxiv.org/abs/2210.12067v1)
+- 2022-10-21, **Clip-Tuning: Towards Derivative-free Prompt Learning with a Mixture of Rewards**, Yekun Chai et.al., Paper: [http://arxiv.org/abs/2210.12050v1](http://arxiv.org/abs/2210.12050v1)
+- 2022-10-21, **Holomorphic Floer Theory and the Fueter Equation**, Aleksander Doan et.al., Paper: [http://arxiv.org/abs/2210.12047v1](http://arxiv.org/abs/2210.12047v1)
+- 2022-10-21, **Benchmarks and results of the two-band Hubbard model from the Gutzwiller conjugate gradient minimization theory**, Zhuo Ye et.al., Paper: [http://arxiv.org/abs/2210.12032v1](http://arxiv.org/abs/2210.12032v1)
+- 2022-10-21, **When Expressivity Meets Trainability: Fewer than $n$ Neurons Can Work**, Jiawei Zhang et.al., Paper: [http://arxiv.org/abs/2210.12001v1](http://arxiv.org/abs/2210.12001v1)
+- 2022-10-21, **Energy stable schemes for gradient flows based on the DVD method**, Jizu Huang et.al., Paper: [http://arxiv.org/abs/2210.11960v1](http://arxiv.org/abs/2210.11960v1)
 - 2022-10-20, **Asymptotic behaviors for the compressible Euler system with nonlinear velocity alignment**, McKenzie Black et.al., Paper: [http://arxiv.org/abs/2210.11438v1](http://arxiv.org/abs/2210.11438v1)
 - 2022-10-20, **Similarity of Neural Architectures Based on Input Gradient Transferability**, Jaehui Hwang et.al., Paper: [http://arxiv.org/abs/2210.11407v1](http://arxiv.org/abs/2210.11407v1)
 - 2022-10-20, **Solving Reasoning Tasks with a Slot Transformer**, Ryan Faulkner et.al., Paper: [http://arxiv.org/abs/2210.11394v1](http://arxiv.org/abs/2210.11394v1)
@@ -897,6 +907,16 @@
 
 ## Distributed Training
 
+- 2022-10-21, **Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**, Laurynas Karazija et.al., Paper: [http://arxiv.org/abs/2210.12148v1](http://arxiv.org/abs/2210.12148v1)
+- 2022-10-21, **Conservation laws with nonlocal velocity -- the singular limit problem**, Jan Friedrich et.al., Paper: [http://arxiv.org/abs/2210.12141v1](http://arxiv.org/abs/2210.12141v1)
+- 2022-10-21, **Geometric Sparse Coding in Wasserstein Space**, Marshall Mueller et.al., Paper: [http://arxiv.org/abs/2210.12135v1](http://arxiv.org/abs/2210.12135v1)
+- 2022-10-21, **Asymptotic results for the absorption time of telegraph processes with a non-standard barrier at the origin**, Antonella Iuliano et.al., Paper: [http://arxiv.org/abs/2210.12107v1](http://arxiv.org/abs/2210.12107v1)
+- 2022-10-21, **Learning shape distributions from large databases of healthy organs: applications to zero-shot and few-shot abnormal pancreas detection**, Rebeca Vétil et.al., Paper: [http://arxiv.org/abs/2210.12095v1](http://arxiv.org/abs/2210.12095v1)
+- 2022-10-21, **Physical Layer Security in Random NOMA-Enabled Heterogeneous Networks**, Elmira Shahraki et.al., Paper: [http://arxiv.org/abs/2210.12091v1](http://arxiv.org/abs/2210.12091v1)
+- 2022-10-21, **Charged Current Anomalies with Baryons**, Damir Becirevic et.al., Paper: [http://arxiv.org/abs/2210.12071v1](http://arxiv.org/abs/2210.12071v1)
+- 2022-10-21, **Validation of Composite Systems by Discrepancy Propagation**, David Reeb et.al., Paper: [http://arxiv.org/abs/2210.12061v1](http://arxiv.org/abs/2210.12061v1)
+- 2022-10-21, **Neural Network-Based Multi-Target Detection within Correlated Heavy-Tailed Clutter**, Stefan Feintuch et.al., Paper: [http://arxiv.org/abs/2210.12042v1](http://arxiv.org/abs/2210.12042v1)
+- 2022-10-21, **Neuro-Symbolic Causal Reasoning Meets Signaling Game for Emergent Semantic Communications**, Christo Kurisummoottil Thomas et.al., Paper: [http://arxiv.org/abs/2210.12040v1](http://arxiv.org/abs/2210.12040v1)
 - 2022-10-20, **VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**, Beiwen Tian et.al., Paper: [http://arxiv.org/abs/2210.11472v1](http://arxiv.org/abs/2210.11472v1), Code: **[https://github.com/air-discover/vibus](https://github.com/air-discover/vibus)**
 - 2022-10-20, **Surgical Fine-Tuning Improves Adaptation to Distribution Shifts**, Yoonho Lee et.al., Paper: [http://arxiv.org/abs/2210.11466v1](http://arxiv.org/abs/2210.11466v1)
 - 2022-10-20, **Local lower bounds on characteristics of quantum and classical systems**, M. E. Shirokov et.al., Paper: [http://arxiv.org/abs/2210.11462v1](http://arxiv.org/abs/2210.11462v1)
@@ -1300,6 +1320,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-21, **Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals**, Maarten De Raedt et.al., Paper: [http://arxiv.org/abs/2210.11805v1](http://arxiv.org/abs/2210.11805v1), Code: **[https://github.com/maarten-deraedt/emnlp2022-robustifying-sentiment-classification](https://github.com/maarten-deraedt/emnlp2022-robustifying-sentiment-classification)**
+- 2022-10-21, **DARWIN: Survival of the Fittest Fuzzing Mutators**, Patrick Jauernig et.al., Paper: [http://arxiv.org/abs/2210.11783v1](http://arxiv.org/abs/2210.11783v1)
 - 2022-10-20, **Integration of Neuromorphic AI in Event-Driven Distributed Digitized Systems: Concepts and Research Directions**, Mattias Nilsson et.al., Paper: [http://arxiv.org/abs/2210.11190v1](http://arxiv.org/abs/2210.11190v1)
 - 2022-10-19, **Unboxing Trustworthiness through Quantum Internet**, Agustin Zaballos et.al., Paper: [http://arxiv.org/abs/2210.10687v1](http://arxiv.org/abs/2210.10687v1)
 - 2022-10-18, **Decentralized optimization over time-varying graphs: a survey**, Alexander Rogozin et.al., Paper: [http://arxiv.org/abs/2210.09719v1](http://arxiv.org/abs/2210.09719v1)
