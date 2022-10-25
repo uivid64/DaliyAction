@@ -1,4 +1,4 @@
-> Updated on 2022.10.24
+> Updated on 2022.10.25
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-24, **Protocols for classically training quantum generative models on probability distributions**, Sachin Kasture et.al., Paper: [http://arxiv.org/abs/2210.13442v1](http://arxiv.org/abs/2210.13442v1)
+- 2022-10-24, **High Fidelity Neural Audio Compression**, Alexandre Défossez et.al., Paper: [http://arxiv.org/abs/2210.13438v1](http://arxiv.org/abs/2210.13438v1)
+- 2022-10-24, **Sampling with Mollified Interaction Energy Descent**, Lingxiao Li et.al., Paper: [http://arxiv.org/abs/2210.13400v1](http://arxiv.org/abs/2210.13400v1)
+- 2022-10-24, **Explaining Translationese: why are Neural Classifiers Better and what do they Learn?**, Kwabena Amponsah-Kaakyire et.al., Paper: [http://arxiv.org/abs/2210.13391v1](http://arxiv.org/abs/2210.13391v1)
+- 2022-10-24, **A Novel Antenna Placement Algorithm for Compressive Sensing MIMO Radar**, Bastian Eisele et.al., Paper: [http://arxiv.org/abs/2210.13345v1](http://arxiv.org/abs/2210.13345v1)
+- 2022-10-24, **Analyzing the Use of Influence Functions for Instance-Specific Data Filtering in Neural Machine Translation**, Tsz Kin Lam et.al., Paper: [http://arxiv.org/abs/2210.13281v1](http://arxiv.org/abs/2210.13281v1)
+- 2022-10-24, **A Meta-Learning Based Gradient Descent Algorithm for MU-MIMO Beamforming**, Jing-Yuan Xia et.al., Paper: [http://arxiv.org/abs/2210.13279v1](http://arxiv.org/abs/2210.13279v1)
+- 2022-10-24, **Provably Doubly Accelerated Federated Learning: The First Theoretically Successful Combination of Local Training and Compressed Communication**, Laurent Condat et.al., Paper: [http://arxiv.org/abs/2210.13277v1](http://arxiv.org/abs/2210.13277v1)
+- 2022-10-24, **IQUAFLOW: A new framework to measure image quality**, P. Gallés et.al., Paper: [http://arxiv.org/abs/2210.13269v1](http://arxiv.org/abs/2210.13269v1)
+- 2022-10-24, **Constraining Type Ia supernovae through their heights in edge-on galaxies**, Lilit V. Barkhudaryan et.al., Paper: [http://arxiv.org/abs/2210.13249v1](http://arxiv.org/abs/2210.13249v1)
 - 2022-10-21, **Influence of compressive strain on the hydrogen storage capabilities of graphene: A density functional theory study**, Vikram Mahamiya et.al., Paper: [http://arxiv.org/abs/2210.12111v1](http://arxiv.org/abs/2210.12111v1)
 - 2022-10-21, **Neural Network Approximations of PDEs Beyond Linearity: Representational Perspective**, Tanya Marwah et.al., Paper: [http://arxiv.org/abs/2210.12101v1](http://arxiv.org/abs/2210.12101v1)
 - 2022-10-21, **Robust Singular Values based on L1-norm PCA**, Duc Le et.al., Paper: [http://arxiv.org/abs/2210.12097v1](http://arxiv.org/abs/2210.12097v1)
@@ -907,6 +917,16 @@
 
 ## Distributed Training
 
+- 2022-10-24, **Protocols for classically training quantum generative models on probability distributions**, Sachin Kasture et.al., Paper: [http://arxiv.org/abs/2210.13442v1](http://arxiv.org/abs/2210.13442v1)
+- 2022-10-24, **Bridging Machine Learning and Sciences: Opportunities and Challenges**, Taoli Cheng et.al., Paper: [http://arxiv.org/abs/2210.13441v1](http://arxiv.org/abs/2210.13441v1)
+- 2022-10-24, **Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval**, Zhaopeng Dou et.al., Paper: [http://arxiv.org/abs/2210.13440v1](http://arxiv.org/abs/2210.13440v1)
+- 2022-10-24, **Logical convergence laws via stochastic approximation and Markov processes**, Yury Malyshkin et.al., Paper: [http://arxiv.org/abs/2210.13437v1](http://arxiv.org/abs/2210.13437v1)
+- 2022-10-24, **Dichotomy of Control: Separating What You Can Control from What You Cannot**, Mengjiao Yang et.al., Paper: [http://arxiv.org/abs/2210.13435v1](http://arxiv.org/abs/2210.13435v1)
+- 2022-10-24, **Combining cosmic shear data with correlated photo-$z$ uncertainties: constraints from DESY1 and HSC-DR1**, Carlos García-García et.al., Paper: [http://arxiv.org/abs/2210.13434v1](http://arxiv.org/abs/2210.13434v1)
+- 2022-10-24, **Chiral and trace anomalies in Deeply Virtual Compton Scattering**, Shohini Bhattacharya et.al., Paper: [http://arxiv.org/abs/2210.13419v1](http://arxiv.org/abs/2210.13419v1)
+- 2022-10-24, **Deep Learning Approach for Dynamic Sampling for Multichannel Mass Spectrometry Imaging**, David Helminiak et.al., Paper: [http://arxiv.org/abs/2210.13415v1](http://arxiv.org/abs/2210.13415v1)
+- 2022-10-24, **Universality of the muon component of extensive air showers**, Lorenzo Cazon et.al., Paper: [http://arxiv.org/abs/2210.13407v1](http://arxiv.org/abs/2210.13407v1)
+- 2022-10-24, **We need to talk about random seeds**, Steven Bethard et.al., Paper: [http://arxiv.org/abs/2210.13393v1](http://arxiv.org/abs/2210.13393v1)
 - 2022-10-21, **Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**, Laurynas Karazija et.al., Paper: [http://arxiv.org/abs/2210.12148v1](http://arxiv.org/abs/2210.12148v1)
 - 2022-10-21, **Conservation laws with nonlocal velocity -- the singular limit problem**, Jan Friedrich et.al., Paper: [http://arxiv.org/abs/2210.12141v1](http://arxiv.org/abs/2210.12141v1)
 - 2022-10-21, **Geometric Sparse Coding in Wasserstein Space**, Marshall Mueller et.al., Paper: [http://arxiv.org/abs/2210.12135v1](http://arxiv.org/abs/2210.12135v1)
@@ -1320,6 +1340,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-24, **Large Batch and Patch Size Training for Medical Image Segmentation**, Junya Sato et.al., Paper: [http://arxiv.org/abs/2210.13364v1](http://arxiv.org/abs/2210.13364v1)
+- 2022-10-24, **A non-sequential hierarchy of message-passing models**, Cinzia Di Giusto et.al., Paper: [http://arxiv.org/abs/2210.13062v1](http://arxiv.org/abs/2210.13062v1)
 - 2022-10-21, **Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals**, Maarten De Raedt et.al., Paper: [http://arxiv.org/abs/2210.11805v1](http://arxiv.org/abs/2210.11805v1), Code: **[https://github.com/maarten-deraedt/emnlp2022-robustifying-sentiment-classification](https://github.com/maarten-deraedt/emnlp2022-robustifying-sentiment-classification)**
 - 2022-10-21, **DARWIN: Survival of the Fittest Fuzzing Mutators**, Patrick Jauernig et.al., Paper: [http://arxiv.org/abs/2210.11783v1](http://arxiv.org/abs/2210.11783v1)
 - 2022-10-20, **Integration of Neuromorphic AI in Event-Driven Distributed Digitized Systems: Concepts and Research Directions**, Mattias Nilsson et.al., Paper: [http://arxiv.org/abs/2210.11190v1](http://arxiv.org/abs/2210.11190v1)
