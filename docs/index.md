@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.25
+## Updated on 2022.10.26
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-25**|**Cell dynamics in microfluidic devices under heterogeneous chemotaxis and growth conditions: a mathematical study**|Jaobo Ayensa-Jiménez et.al.|[2210.14217v1](http://arxiv.org/abs/2210.14217v1)|null|
+|**2022-10-25**|**Harmonic spinors in the Ricci flow**|Julius Baldauf et.al.|[2210.14198v1](http://arxiv.org/abs/2210.14198v1)|null|
+|**2022-10-25**|**Vibrational properties of LiNbO$_3$ and LiTaO$_3$ under uniaxial stress**|Ekta Singh et.al.|[2210.14120v1](http://arxiv.org/abs/2210.14120v1)|null|
+|**2022-10-25**|**Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Network**|Edo Cohen-Karlik et.al.|[2210.14064v1](http://arxiv.org/abs/2210.14064v1)|null|
+|**2022-10-25**|**OneProvenance: Efficient Extraction of Dynamic Coarse-Grained Provenance from Database Logs**|Fotis Psallidas et.al.|[2210.14047v1](http://arxiv.org/abs/2210.14047v1)|null|
+|**2022-10-25**|**SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication**|Marco Bornstein et.al.|[2210.14026v1](http://arxiv.org/abs/2210.14026v1)|null|
+|**2022-10-25**|**Gradient-based Weight Density Balancing for Robust Dynamic Sparse Training**|Mathias Parger et.al.|[2210.14012v1](http://arxiv.org/abs/2210.14012v1)|null|
+|**2022-10-25**|**COEP: Cascade Optimization for Inverse Problems with Entropy-Preserving Hyperparameter Tuning**|Tianci Liu et.al.|[2210.13983v1](http://arxiv.org/abs/2210.13983v1)|null|
+|**2022-10-25**|**Faster Projection-Free Augmented Lagrangian Methods via Weak Proximal Oracle**|Dan Garber et.al.|[2210.13968v1](http://arxiv.org/abs/2210.13968v1)|null|
+|**2022-10-25**|**An Optimal Stochastic Algorithm for Decentralized Nonconvex Finite-sum Optimization**|Luo Luo et.al.|[2210.13931v1](http://arxiv.org/abs/2210.13931v1)|null|
 |**2022-10-24**|**Protocols for classically training quantum generative models on probability distributions**|Sachin Kasture et.al.|[2210.13442v1](http://arxiv.org/abs/2210.13442v1)|null|
 |**2022-10-24**|**High Fidelity Neural Audio Compression**|Alexandre Défossez et.al.|[2210.13438v1](http://arxiv.org/abs/2210.13438v1)|null|
 |**2022-10-24**|**Sampling with Mollified Interaction Energy Descent**|Lingxiao Li et.al.|[2210.13400v1](http://arxiv.org/abs/2210.13400v1)|null|
@@ -1032,6 +1042,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-25**|**The uncertainty of infectious disease outbreaks is underestimated**|Matthew J. Penn et.al.|[2210.14221v1](http://arxiv.org/abs/2210.14221v1)|null|
+|**2022-10-25**|**Characterizing information loss in a chaotic double pendulum with the Information Bottleneck**|Kieran A. Murphy et.al.|[2210.14220v1](http://arxiv.org/abs/2210.14220v1)|null|
+|**2022-10-25**|**Redistributor: Transforming Empirical Data Distributions**|Pavol Harar et.al.|[2210.14219v1](http://arxiv.org/abs/2210.14219v1)|null|
+|**2022-10-25**|**Orbit-Superposition Dynamical Modelling of Barred Galaxies**|Behzad Tahmasebzadeh et.al.|[2210.14218v1](http://arxiv.org/abs/2210.14218v1)|null|
+|**2022-10-25**|**Estimating Boltzmann Averages for Protein Structural Quantities Using Sequential Monte Carlo**|Zhaoran Hou et.al.|[2210.14216v1](http://arxiv.org/abs/2210.14216v1)|null|
+|**2022-10-25**|**MidasTouch: Monte-Carlo inference over distributions across sliding touch**|Sudharshan Suresh et.al.|[2210.14210v1](http://arxiv.org/abs/2210.14210v1)|null|
+|**2022-10-25**|**Kinetically limited valence of colloidal particles with surface mobile DNA linkers**|Pedro A. Sánchez et.al.|[2210.14209v1](http://arxiv.org/abs/2210.14209v1)|null|
+|**2022-10-25**|**Unit Averaging for Heterogeneous Panels**|Christian Brownlees et.al.|[2210.14205v1](http://arxiv.org/abs/2210.14205v1)|null|
+|**2022-10-25**|**The power of noisy quantum states and the advantage of resource dilution**|Marek Miller et.al.|[2210.14192v1](http://arxiv.org/abs/2210.14192v1)|null|
+|**2022-10-25**|**Entanglement Purification with Quantum LDPC Codes and Iterative Decoding**|Narayanan Rengaswamy et.al.|[2210.14143v1](http://arxiv.org/abs/2210.14143v1)|null|
 |**2022-10-24**|**Protocols for classically training quantum generative models on probability distributions**|Sachin Kasture et.al.|[2210.13442v1](http://arxiv.org/abs/2210.13442v1)|null|
 |**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|null|
 |**2022-10-24**|**Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval**|Zhaopeng Dou et.al.|[2210.13440v1](http://arxiv.org/abs/2210.13440v1)|**[link](https://github.com/dcp15/ual)**|
@@ -1457,6 +1477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-24**|**Understanding Inconsistency in Azure Cosmos DB with TLA+**|A. Finn Hackett et.al.|[2210.13661v1](http://arxiv.org/abs/2210.13661v1)|null|
 |**2022-10-24**|**Large Batch and Patch Size Training for Medical Image Segmentation**|Junya Sato et.al.|[2210.13364v1](http://arxiv.org/abs/2210.13364v1)|null|
 |**2022-10-24**|**A non-sequential hierarchy of message-passing models**|Cinzia Di Giusto et.al.|[2210.13062v1](http://arxiv.org/abs/2210.13062v1)|null|
 |**2022-10-21**|**Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals**|Maarten De Raedt et.al.|[2210.11805v1](http://arxiv.org/abs/2210.11805v1)|**[link](https://github.com/maarten-deraedt/emnlp2022-robustifying-sentiment-classification)**|
