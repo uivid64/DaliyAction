@@ -500,7 +500,7 @@
 - 2022-10-26, **Streaming Radiance Fields for 3D Video Synthesis**, Lingzhi Li et.al., Paper: [http://arxiv.org/abs/2210.14831v1](http://arxiv.org/abs/2210.14831v1)
 - 2022-10-26, **Network Functional Compression for Control Applications**, Sifat Rezwan et.al., Paper: [http://arxiv.org/abs/2210.14819v1](http://arxiv.org/abs/2210.14819v1)
 - 2022-10-26, **Zero sound and higher-form symmetries in compressible holographic phases**, Richard A. Davison et.al., Paper: [http://arxiv.org/abs/2210.14802v1](http://arxiv.org/abs/2210.14802v1)
-- 2022-10-26, **M$^3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design**, Hanxue Liang et.al., Paper: [http://arxiv.org/abs/2210.14793v1](http://arxiv.org/abs/2210.14793v1)
+- 2022-10-26, **M$^3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design**, Hanxue Liang et.al., Paper: [http://arxiv.org/abs/2210.14793v1](http://arxiv.org/abs/2210.14793v1), Code: **[https://github.com/vita-group/m3vit](https://github.com/vita-group/m3vit)**
 - 2022-10-26, **Coordinate Descent for SLOPE**, Johan Larsson et.al., Paper: [http://arxiv.org/abs/2210.14780v1](http://arxiv.org/abs/2210.14780v1)
 - 2022-10-26, **Inverse modeling of circular lattices via orbit response measurements in the presence of degeneracy**, Dominik Vilsmeier et.al., Paper: [http://arxiv.org/abs/2210.14779v1](http://arxiv.org/abs/2210.14779v1)
 - 2022-10-26, **Gradient profile for the reconnection of vortex lines with the boundary in type-II superconductors**, Yi C. Huang et.al., Paper: [http://arxiv.org/abs/2210.14773v1](http://arxiv.org/abs/2210.14773v1)
@@ -938,7 +938,7 @@
 ## Distributed Training
 
 - 2022-10-26, **Characteristic Functions for Cosmological Cross-Correlations**, Patrick C. Breysse et.al., Paper: [http://arxiv.org/abs/2210.14902v1](http://arxiv.org/abs/2210.14902v1)
-- 2022-10-26, **CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2210.14898v1](http://arxiv.org/abs/2210.14898v1)
+- 2022-10-26, **CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2210.14898v1](http://arxiv.org/abs/2210.14898v1), Code: **[https://github.com/yufeiwang777/cu-net](https://github.com/yufeiwang777/cu-net)**
 - 2022-10-26, **Learning to predict arbitrary quantum processes**, Hsin-Yuan Huang et.al., Paper: [http://arxiv.org/abs/2210.14894v1](http://arxiv.org/abs/2210.14894v1)
 - 2022-10-26, **The deconvolved distribution estimator: enhancing reionisation-era CO line-intensity mapping analyses with a cross-correlation analogue for one-point statistics**, Dongwoo T. Chung et.al., Paper: [http://arxiv.org/abs/2210.14890v1](http://arxiv.org/abs/2210.14890v1)
 - 2022-10-26, **Integrated Sensing and Communication in Distributed Antenna Networks**, Dongfang Xu et.al., Paper: [http://arxiv.org/abs/2210.14880v1](http://arxiv.org/abs/2210.14880v1)
