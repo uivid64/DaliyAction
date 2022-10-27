@@ -1,4 +1,4 @@
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Searching Dense Point Correspondences via Permutation Matrix Learning**|Zhiyuan Zhang et.al.|[2210.14897v1](http://arxiv.org/abs/2210.14897v1)|null|
+|**2022-10-26**|**Duality-Based Stochastic Policy Optimization for Estimation with Unknown Noise Covariances**|Shahriar Talebi et.al.|[2210.14878v1](http://arxiv.org/abs/2210.14878v1)|null|
+|**2022-10-26**|**Variational Matrix Product State Approach for Non-Hermitian System Based on a Companion Hermitian Hamiltonian**|Zhen Guo et.al.|[2210.14858v1](http://arxiv.org/abs/2210.14858v1)|null|
+|**2022-10-26**|**Streaming Radiance Fields for 3D Video Synthesis**|Lingzhi Li et.al.|[2210.14831v1](http://arxiv.org/abs/2210.14831v1)|null|
+|**2022-10-26**|**Network Functional Compression for Control Applications**|Sifat Rezwan et.al.|[2210.14819v1](http://arxiv.org/abs/2210.14819v1)|null|
+|**2022-10-26**|**Zero sound and higher-form symmetries in compressible holographic phases**|Richard A. Davison et.al.|[2210.14802v1](http://arxiv.org/abs/2210.14802v1)|null|
+|**2022-10-26**|**M$^3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design**|Hanxue Liang et.al.|[2210.14793v1](http://arxiv.org/abs/2210.14793v1)|null|
+|**2022-10-26**|**Coordinate Descent for SLOPE**|Johan Larsson et.al.|[2210.14780v1](http://arxiv.org/abs/2210.14780v1)|null|
+|**2022-10-26**|**Inverse modeling of circular lattices via orbit response measurements in the presence of degeneracy**|Dominik Vilsmeier et.al.|[2210.14779v1](http://arxiv.org/abs/2210.14779v1)|null|
+|**2022-10-26**|**Gradient profile for the reconnection of vortex lines with the boundary in type-II superconductors**|Yi C. Huang et.al.|[2210.14773v1](http://arxiv.org/abs/2210.14773v1)|null|
 |**2022-10-25**|**Cell dynamics in microfluidic devices under heterogeneous chemotaxis and growth conditions: a mathematical study**|Jaobo Ayensa-Jiménez et.al.|[2210.14217v1](http://arxiv.org/abs/2210.14217v1)|null|
 |**2022-10-25**|**Harmonic spinors in the Ricci flow**|Julius Baldauf et.al.|[2210.14198v1](http://arxiv.org/abs/2210.14198v1)|null|
 |**2022-10-25**|**Vibrational properties of LiNbO$_3$ and LiTaO$_3$ under uniaxial stress**|Ekta Singh et.al.|[2210.14120v1](http://arxiv.org/abs/2210.14120v1)|null|
@@ -1038,6 +1048,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Characteristic Functions for Cosmological Cross-Correlations**|Patrick C. Breysse et.al.|[2210.14902v1](http://arxiv.org/abs/2210.14902v1)|null|
+|**2022-10-26**|**CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**|Yufei Wang et.al.|[2210.14898v1](http://arxiv.org/abs/2210.14898v1)|null|
+|**2022-10-26**|**Learning to predict arbitrary quantum processes**|Hsin-Yuan Huang et.al.|[2210.14894v1](http://arxiv.org/abs/2210.14894v1)|null|
+|**2022-10-26**|**The deconvolved distribution estimator: enhancing reionisation-era CO line-intensity mapping analyses with a cross-correlation analogue for one-point statistics**|Dongwoo T. Chung et.al.|[2210.14890v1](http://arxiv.org/abs/2210.14890v1)|null|
+|**2022-10-26**|**Integrated Sensing and Communication in Distributed Antenna Networks**|Dongfang Xu et.al.|[2210.14880v1](http://arxiv.org/abs/2210.14880v1)|null|
+|**2022-10-26**|**Anisotropic multiresolution analyses for deep fake detection**|Wei Huang et.al.|[2210.14874v1](http://arxiv.org/abs/2210.14874v1)|null|
+|**2022-10-26**|**Neutrino masses and self-interacting dark matter with mass mixing $Z-Z^\prime$ gauge portal**|Leon M. G. de la Vega et.al.|[2210.14863v1](http://arxiv.org/abs/2210.14863v1)|null|
+|**2022-10-26**|**Recursive Secondary Controller for Voltage Profile Improvement Based on the Virtual Admittance Concept**|Dionysios Moutevelis et.al.|[2210.14859v1](http://arxiv.org/abs/2210.14859v1)|null|
+|**2022-10-26**|**R-NL: Fast and Robust Covariance Estimation for Elliptical Distributions in High Dimensions**|Simon Hediger et.al.|[2210.14854v1](http://arxiv.org/abs/2210.14854v1)|null|
+|**2022-10-26**|**High-dimensional order-free multivariate spatial disease mapping**|G. Vicente et.al.|[2210.14849v1](http://arxiv.org/abs/2210.14849v1)|null|
 |**2022-10-25**|**The uncertainty of infectious disease outbreaks is underestimated**|Matthew J. Penn et.al.|[2210.14221v1](http://arxiv.org/abs/2210.14221v1)|null|
 |**2022-10-25**|**Characterizing information loss in a chaotic double pendulum with the Information Bottleneck**|Kieran A. Murphy et.al.|[2210.14220v1](http://arxiv.org/abs/2210.14220v1)|null|
 |**2022-10-25**|**Redistributor: Transforming Empirical Data Distributions**|Pavol Harar et.al.|[2210.14219v1](http://arxiv.org/abs/2210.14219v1)|**[link](https://gitlab.com/paloha/redistributor)**|
@@ -1473,6 +1493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Controlled remote implementation of operations via graph states**|Xinyu Qiu et.al.|[2210.14674v1](http://arxiv.org/abs/2210.14674v1)|null|
 |**2022-10-24**|**Understanding Inconsistency in Azure Cosmos DB with TLA+**|A. Finn Hackett et.al.|[2210.13661v1](http://arxiv.org/abs/2210.13661v1)|**[link](https://github.com/tlaplus/azure-cosmos-tla)**|
 |**2022-10-24**|**Large Batch and Patch Size Training for Medical Image Segmentation**|Junya Sato et.al.|[2210.13364v1](http://arxiv.org/abs/2210.13364v1)|null|
 |**2022-10-24**|**A non-sequential hierarchy of message-passing models**|Cinzia Di Giusto et.al.|[2210.13062v1](http://arxiv.org/abs/2210.13062v1)|null|
