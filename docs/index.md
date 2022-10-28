@@ -609,12 +609,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-27**|**Learning Single-Index Models with Shallow Neural Networks**|Alberto Bietti et.al.|[2210.15651v1](http://arxiv.org/abs/2210.15651v1)|null|
 |**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
-|**2022-10-27**|**Neural Networks with Quantization Constraints**|Ignacio Hounie et.al.|[2210.15623v1](http://arxiv.org/abs/2210.15623v1)|null|
+|**2022-10-27**|**Neural Networks with Quantization Constraints**|Ignacio Hounie et.al.|[2210.15623v1](http://arxiv.org/abs/2210.15623v1)|**[link](https://github.com/ihounie/pd-qat)**|
 |**2022-10-27**|**Benchtop magnetic shielding for benchmarking atomic magnetometers**|P. J. Hobson et.al.|[2210.15612v1](http://arxiv.org/abs/2210.15612v1)|null|
 |**2022-10-27**|**A positivity-preserving and conservative high-order flux reconstruction method for the polyatomic Boltzmann--BGK equation**|Tarik Dzanic et.al.|[2210.15611v1](http://arxiv.org/abs/2210.15611v1)|null|
 |**2022-10-27**|**Full-scale Deeply Supervised Attention Network for Segmenting COVID-19 Lesions**|Pallabi Dutta et.al.|[2210.15571v1](http://arxiv.org/abs/2210.15571v1)|null|
 |**2022-10-27**|**Error estimates of a finite volume method for the compressible Navier--Stokes--Fourier system**|Danica Basaric et.al.|[2210.15561v1](http://arxiv.org/abs/2210.15561v1)|null|
-|**2022-10-27**|**Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost**|Sungjun Cho et.al.|[2210.15541v1](http://arxiv.org/abs/2210.15541v1)|null|
+|**2022-10-27**|**Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost**|Sungjun Cho et.al.|[2210.15541v1](http://arxiv.org/abs/2210.15541v1)|**[link](https://github.com/sc782/sbm-transformer)**|
 |**2022-10-27**|**Anisotropic Proximal Gradient**|Emanuel Laude et.al.|[2210.15531v1](http://arxiv.org/abs/2210.15531v1)|null|
 |**2022-10-27**|**The Gaia-ESO survey: mapping the shape and evolution of the radial abundance gradients with open clusters**|L. Magrini et.al.|[2210.15525v1](http://arxiv.org/abs/2210.15525v1)|null|
 |**2022-10-26**|**Searching Dense Point Correspondences via Permutation Matrix Learning**|Zhiyuan Zhang et.al.|[2210.14897v1](http://arxiv.org/abs/2210.14897v1)|null|
@@ -1066,7 +1066,7 @@ layout: default
 |**2022-10-27**|**Dark photon and dark $Z$ mediated $B$ meson decays**|Alakabha Datta et.al.|[2210.15662v1](http://arxiv.org/abs/2210.15662v1)|null|
 |**2022-10-27**|**Precise asymptotics for the spectral radius of a large random matrix**|Giorgio Cipolloni et.al.|[2210.15643v1](http://arxiv.org/abs/2210.15643v1)|null|
 |**2022-10-27**|**GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs**|Dong Yang et.al.|[2210.15578v1](http://arxiv.org/abs/2210.15578v1)|null|
-|**2022-10-27**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|null|
+|**2022-10-27**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|**[link](https://github.com/hans66hsu/structured_uncertainty_metrics)**|
 |**2022-10-27**|**Multimodal Transformer Distillation for Audio-Visual Synchronization**|Xuanjun Chen et.al.|[2210.15563v1](http://arxiv.org/abs/2210.15563v1)|null|
 |**2022-10-27**|**Disordered Green's Functions For Random Resistor Networks**|Sayak Bhattacharjee et.al.|[2210.15562v1](http://arxiv.org/abs/2210.15562v1)|null|
 |**2022-10-27**|**The linear sampling method for random sources**|Josselin Garnier et.al.|[2210.15560v1](http://arxiv.org/abs/2210.15560v1)|null|
