@@ -1,4 +1,4 @@
-> Updated on 2022.10.27
+> Updated on 2022.10.28
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-27, **Learning Single-Index Models with Shallow Neural Networks**, Alberto Bietti et.al., Paper: [http://arxiv.org/abs/2210.15651v1](http://arxiv.org/abs/2210.15651v1)
+- 2022-10-27, **Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**, Caiwu Ding et.al., Paper: [http://arxiv.org/abs/2210.15632v1](http://arxiv.org/abs/2210.15632v1)
+- 2022-10-27, **Neural Networks with Quantization Constraints**, Ignacio Hounie et.al., Paper: [http://arxiv.org/abs/2210.15623v1](http://arxiv.org/abs/2210.15623v1)
+- 2022-10-27, **Benchtop magnetic shielding for benchmarking atomic magnetometers**, P. J. Hobson et.al., Paper: [http://arxiv.org/abs/2210.15612v1](http://arxiv.org/abs/2210.15612v1)
+- 2022-10-27, **A positivity-preserving and conservative high-order flux reconstruction method for the polyatomic Boltzmann--BGK equation**, Tarik Dzanic et.al., Paper: [http://arxiv.org/abs/2210.15611v1](http://arxiv.org/abs/2210.15611v1)
+- 2022-10-27, **Full-scale Deeply Supervised Attention Network for Segmenting COVID-19 Lesions**, Pallabi Dutta et.al., Paper: [http://arxiv.org/abs/2210.15571v1](http://arxiv.org/abs/2210.15571v1)
+- 2022-10-27, **Error estimates of a finite volume method for the compressible Navier--Stokes--Fourier system**, Danica Basaric et.al., Paper: [http://arxiv.org/abs/2210.15561v1](http://arxiv.org/abs/2210.15561v1)
+- 2022-10-27, **Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost**, Sungjun Cho et.al., Paper: [http://arxiv.org/abs/2210.15541v1](http://arxiv.org/abs/2210.15541v1)
+- 2022-10-27, **Anisotropic Proximal Gradient**, Emanuel Laude et.al., Paper: [http://arxiv.org/abs/2210.15531v1](http://arxiv.org/abs/2210.15531v1)
+- 2022-10-27, **The Gaia-ESO survey: mapping the shape and evolution of the radial abundance gradients with open clusters**, L. Magrini et.al., Paper: [http://arxiv.org/abs/2210.15525v1](http://arxiv.org/abs/2210.15525v1)
 - 2022-10-26, **Searching Dense Point Correspondences via Permutation Matrix Learning**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.14897v1](http://arxiv.org/abs/2210.14897v1)
 - 2022-10-26, **Duality-Based Stochastic Policy Optimization for Estimation with Unknown Noise Covariances**, Shahriar Talebi et.al., Paper: [http://arxiv.org/abs/2210.14878v1](http://arxiv.org/abs/2210.14878v1)
 - 2022-10-26, **Variational Matrix Product State Approach for Non-Hermitian System Based on a Companion Hermitian Hamiltonian**, Zhen Guo et.al., Paper: [http://arxiv.org/abs/2210.14858v1](http://arxiv.org/abs/2210.14858v1)
@@ -937,6 +947,16 @@
 
 ## Distributed Training
 
+- 2022-10-27, **Deep Generative Models on 3D Representations: A Survey**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2210.15663v1](http://arxiv.org/abs/2210.15663v1)
+- 2022-10-27, **Dark photon and dark $Z$ mediated $B$ meson decays**, Alakabha Datta et.al., Paper: [http://arxiv.org/abs/2210.15662v1](http://arxiv.org/abs/2210.15662v1)
+- 2022-10-27, **Precise asymptotics for the spectral radius of a large random matrix**, Giorgio Cipolloni et.al., Paper: [http://arxiv.org/abs/2210.15643v1](http://arxiv.org/abs/2210.15643v1)
+- 2022-10-27, **GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs**, Dong Yang et.al., Paper: [http://arxiv.org/abs/2210.15578v1](http://arxiv.org/abs/2210.15578v1)
+- 2022-10-27, **A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs**, Hans Hao-Hsun Hsu et.al., Paper: [http://arxiv.org/abs/2210.15575v1](http://arxiv.org/abs/2210.15575v1)
+- 2022-10-27, **Multimodal Transformer Distillation for Audio-Visual Synchronization**, Xuanjun Chen et.al., Paper: [http://arxiv.org/abs/2210.15563v1](http://arxiv.org/abs/2210.15563v1)
+- 2022-10-27, **Disordered Green's Functions For Random Resistor Networks**, Sayak Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2210.15562v1](http://arxiv.org/abs/2210.15562v1)
+- 2022-10-27, **The linear sampling method for random sources**, Josselin Garnier et.al., Paper: [http://arxiv.org/abs/2210.15560v1](http://arxiv.org/abs/2210.15560v1)
+- 2022-10-27, **Gumbel laws in the symmetric exclusion process**, Michael Conroy et.al., Paper: [http://arxiv.org/abs/2210.15550v1](http://arxiv.org/abs/2210.15550v1)
+- 2022-10-27, **Beyond the Return: Off-policy Function Estimation under User-specified Error-measuring Distributions**, Audrey Huang et.al., Paper: [http://arxiv.org/abs/2210.15543v1](http://arxiv.org/abs/2210.15543v1)
 - 2022-10-26, **Characteristic Functions for Cosmological Cross-Correlations**, Patrick C. Breysse et.al., Paper: [http://arxiv.org/abs/2210.14902v1](http://arxiv.org/abs/2210.14902v1)
 - 2022-10-26, **CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2210.14898v1](http://arxiv.org/abs/2210.14898v1), Code: **[https://github.com/yufeiwang777/cu-net](https://github.com/yufeiwang777/cu-net)**
 - 2022-10-26, **Learning to predict arbitrary quantum processes**, Hsin-Yuan Huang et.al., Paper: [http://arxiv.org/abs/2210.14894v1](http://arxiv.org/abs/2210.14894v1)
@@ -1380,6 +1400,11 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-26, **Local Graph-homomorphic Processing for Privatized Distributed Systems**, Elsa Rizk et.al., Paper: [http://arxiv.org/abs/2210.15414v1](http://arxiv.org/abs/2210.15414v1)
+- 2022-10-27, **Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics in Power Distribution Systems**, Bang Nguyen et.al., Paper: [http://arxiv.org/abs/2210.15177v1](http://arxiv.org/abs/2210.15177v1)
+- 2022-10-27, **Audio Signal Enhancement with Learning from Positive and Unlabelled Data**, Nobutaka Ito et.al., Paper: [http://arxiv.org/abs/2210.15143v1](http://arxiv.org/abs/2210.15143v1)
+- 2022-10-27, **Federated Graph Representation Learning using Self-Supervision**, Susheel Suresh et.al., Paper: [http://arxiv.org/abs/2210.15120v1](http://arxiv.org/abs/2210.15120v1)
+- 2022-10-26, **A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**, Srishti Mishra et.al., Paper: [http://arxiv.org/abs/2210.15030v1](http://arxiv.org/abs/2210.15030v1)
 - 2022-10-26, **Controlled remote implementation of operations via graph states**, Xinyu Qiu et.al., Paper: [http://arxiv.org/abs/2210.14674v1](http://arxiv.org/abs/2210.14674v1)
 - 2022-10-24, **Understanding Inconsistency in Azure Cosmos DB with TLA+**, A. Finn Hackett et.al., Paper: [http://arxiv.org/abs/2210.13661v1](http://arxiv.org/abs/2210.13661v1), Code: **[https://github.com/tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla)**
 - 2022-10-24, **Large Batch and Patch Size Training for Medical Image Segmentation**, Junya Sato et.al., Paper: [http://arxiv.org/abs/2210.13364v1](http://arxiv.org/abs/2210.13364v1)
