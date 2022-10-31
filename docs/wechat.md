@@ -1,4 +1,4 @@
-> Updated on 2022.10.30
+> Updated on 2022.10.31
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-10-28, **A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks**, Zhengdao Chen et.al., Paper: [http://arxiv.org/abs/2210.16286v1](http://arxiv.org/abs/2210.16286v1)
+- 2022-10-28, **Robustness and Convergence Analysis of First-Order Distributed Optimization Algorithms over Subspace Constraints**, Dennis J. Marquis et.al., Paper: [http://arxiv.org/abs/2210.16277v1](http://arxiv.org/abs/2210.16277v1)
+- 2022-10-28, **Nonparametric Probabilistic Regression with Coarse Learners**, Brian Lucena et.al., Paper: [http://arxiv.org/abs/2210.16247v1](http://arxiv.org/abs/2210.16247v1)
+- 2022-10-28, **Dimensionality Reduced Antenna Array for Beamforming/steering**, Shiyi Xia et.al., Paper: [http://arxiv.org/abs/2210.16197v1](http://arxiv.org/abs/2210.16197v1)
+- 2022-10-28, **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations**, Fengjiang Fu et.al., Paper: [http://arxiv.org/abs/2210.16196v1](http://arxiv.org/abs/2210.16196v1)
+- 2022-10-28, **Preferential Subsampling for Stochastic Gradient Langevin Dynamics**, Srshti Putcha et.al., Paper: [http://arxiv.org/abs/2210.16189v1](http://arxiv.org/abs/2210.16189v1)
+- 2022-10-28, **Aggregation in the Mirror Space (AIMS): Fast, Accurate Distributed Machine Learning in Military Settings**, Ryan Yang et.al., Paper: [http://arxiv.org/abs/2210.16181v1](http://arxiv.org/abs/2210.16181v1)
+- 2022-10-28, **Multimodal Transformer for Parallel Concatenated Variational Autoencoders**, Stephen D. Liang et.al., Paper: [http://arxiv.org/abs/2210.16174v1](http://arxiv.org/abs/2210.16174v1)
+- 2022-10-28, **A trajectorial approach to entropy dissipation for degenerate parabolic equations**, Donghan Kim et.al., Paper: [http://arxiv.org/abs/2210.16158v1](http://arxiv.org/abs/2210.16158v1)
+- 2022-10-28, **Evaporation of water and urea solution in a magnetic field; the role of nuclear isomers**, Sruthy Poulose et.al., Paper: [http://arxiv.org/abs/2210.16149v1](http://arxiv.org/abs/2210.16149v1)
 - 2022-10-27, **Learning Single-Index Models with Shallow Neural Networks**, Alberto Bietti et.al., Paper: [http://arxiv.org/abs/2210.15651v1](http://arxiv.org/abs/2210.15651v1)
 - 2022-10-27, **Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**, Caiwu Ding et.al., Paper: [http://arxiv.org/abs/2210.15632v1](http://arxiv.org/abs/2210.15632v1)
 - 2022-10-27, **Neural Networks with Quantization Constraints**, Ignacio Hounie et.al., Paper: [http://arxiv.org/abs/2210.15623v1](http://arxiv.org/abs/2210.15623v1), Code: **[https://github.com/ihounie/pd-qat](https://github.com/ihounie/pd-qat)**
@@ -947,6 +957,16 @@
 
 ## Distributed Training
 
+- 2022-10-28, **Self-calibrating optical galaxy cluster selection bias using cluster, galaxy, and shear cross-correlations**, Chenxiao Zeng et.al., Paper: [http://arxiv.org/abs/2210.16306v1](http://arxiv.org/abs/2210.16306v1)
+- 2022-10-28, **Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers**, Jieyu Zhao et.al., Paper: [http://arxiv.org/abs/2210.16298v1](http://arxiv.org/abs/2210.16298v1)
+- 2022-10-28, **A New Flaring Black Widow Candidate and Demographics of Black Widow Millisecond Pulsars in the Galactic Field**, Samuel J. Swihart et.al., Paper: [http://arxiv.org/abs/2210.16295v1](http://arxiv.org/abs/2210.16295v1)
+- 2022-10-28, **Factorized Parameter Estimation for Real-Time Gravitational Wave Inference**, Tousif Islam et.al., Paper: [http://arxiv.org/abs/2210.16278v1](http://arxiv.org/abs/2210.16278v1)
+- 2022-10-28, **Robustness and Convergence Analysis of First-Order Distributed Optimization Algorithms over Subspace Constraints**, Dennis J. Marquis et.al., Paper: [http://arxiv.org/abs/2210.16277v1](http://arxiv.org/abs/2210.16277v1)
+- 2022-10-28, **The THESAN project: Lyman-alpha emitter luminosity function calibration**, Clara Xu et.al., Paper: [http://arxiv.org/abs/2210.16275v1](http://arxiv.org/abs/2210.16275v1)
+- 2022-10-28, **Growing dendrites enhance a neuron's computational power and memory capacity**, William B Levy et.al., Paper: [http://arxiv.org/abs/2210.16246v1](http://arxiv.org/abs/2210.16246v1)
+- 2022-10-28, **ALICE upgrades for Run 4 and Run 5**, A. Ferretti et.al., Paper: [http://arxiv.org/abs/2210.16241v1](http://arxiv.org/abs/2210.16241v1)
+- 2022-10-28, **Bremsstrahlung as a probe of baryon stopping in heavy-ion collisions**, Sigurd Nese et.al., Paper: [http://arxiv.org/abs/2210.16200v1](http://arxiv.org/abs/2210.16200v1)
+- 2022-10-28, **CNOT circuits need little help to implement arbitrary Hadamard-free Clifford transformations they generate**, Dmitri Maslov et.al., Paper: [http://arxiv.org/abs/2210.16195v1](http://arxiv.org/abs/2210.16195v1)
 - 2022-10-27, **Deep Generative Models on 3D Representations: A Survey**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2210.15663v1](http://arxiv.org/abs/2210.15663v1)
 - 2022-10-27, **Dark photon and dark $Z$ mediated $B$ meson decays**, Alakabha Datta et.al., Paper: [http://arxiv.org/abs/2210.15662v1](http://arxiv.org/abs/2210.15662v1)
 - 2022-10-27, **Precise asymptotics for the spectral radius of a large random matrix**, Giorgio Cipolloni et.al., Paper: [http://arxiv.org/abs/2210.15643v1](http://arxiv.org/abs/2210.15643v1)
@@ -1400,11 +1420,12 @@
 
 ## Distributed Deep Learning
 
+- 2022-10-28, **Fast Single Photon Detectors and real-time Key Distillation: Enabling High Secret Key Rate QKD Systems**, Fadri Grünenfelder et.al., Paper: [http://arxiv.org/abs/2210.16126v1](http://arxiv.org/abs/2210.16126v1)
 - 2022-10-26, **Local Graph-homomorphic Processing for Privatized Distributed Systems**, Elsa Rizk et.al., Paper: [http://arxiv.org/abs/2210.15414v1](http://arxiv.org/abs/2210.15414v1)
 - 2022-10-27, **Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics in Power Distribution Systems**, Bang Nguyen et.al., Paper: [http://arxiv.org/abs/2210.15177v1](http://arxiv.org/abs/2210.15177v1)
 - 2022-10-27, **Audio Signal Enhancement with Learning from Positive and Unlabelled Data**, Nobutaka Ito et.al., Paper: [http://arxiv.org/abs/2210.15143v1](http://arxiv.org/abs/2210.15143v1), Code: **[https://github.com/nobutaka-ito/pulse](https://github.com/nobutaka-ito/pulse)**
 - 2022-10-27, **Federated Graph Representation Learning using Self-Supervision**, Susheel Suresh et.al., Paper: [http://arxiv.org/abs/2210.15120v1](http://arxiv.org/abs/2210.15120v1)
-- 2022-10-26, **A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**, Srishti Mishra et.al., Paper: [http://arxiv.org/abs/2210.15030v1](http://arxiv.org/abs/2210.15030v1)
+- 2022-10-28, **A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**, Srishti Mishra et.al., Paper: [http://arxiv.org/abs/2210.15030v2](http://arxiv.org/abs/2210.15030v2)
 - 2022-10-26, **Controlled remote implementation of operations via graph states**, Xinyu Qiu et.al., Paper: [http://arxiv.org/abs/2210.14674v1](http://arxiv.org/abs/2210.14674v1)
 - 2022-10-24, **Understanding Inconsistency in Azure Cosmos DB with TLA+**, A. Finn Hackett et.al., Paper: [http://arxiv.org/abs/2210.13661v1](http://arxiv.org/abs/2210.13661v1), Code: **[https://github.com/tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla)**
 - 2022-10-24, **Large Batch and Patch Size Training for Medical Image Segmentation**, Junya Sato et.al., Paper: [http://arxiv.org/abs/2210.13364v1](http://arxiv.org/abs/2210.13364v1)
