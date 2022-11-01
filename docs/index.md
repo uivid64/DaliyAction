@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 ## SLAM
 
@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-31**|**Nesterov Meets Optimism: Rate-Optimal Optimistic-Gradient-Based Method for Stochastic Bilinearly-Coupled Minimax Optimization**|Chris Junchi Li et.al.|[2210.17550v1](http://arxiv.org/abs/2210.17550v1)|null|
+|**2022-10-31**|**Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**|Saar Tarnopolsky et.al.|[2210.17544v1](http://arxiv.org/abs/2210.17544v1)|null|
+|**2022-10-31**|**Fast Principal Component Analysis for Cryo-EM Images**|Nicholas F. Marshall et.al.|[2210.17501v1](http://arxiv.org/abs/2210.17501v1)|null|
+|**2022-10-31**|**Quantum-Inspired Edge Detection Algorithms Implementation using New Dynamic Visual Data Representation and Short-Length Convolution Computation**|Artyom M. Grigoryan et.al.|[2210.17490v1](http://arxiv.org/abs/2210.17490v1)|null|
+|**2022-10-31**|**Low Complexity Detect and Avoid for Autonomous Agents in Cluttered Environments**|Mosab Diab et.al.|[2210.17482v1](http://arxiv.org/abs/2210.17482v1)|null|
+|**2022-10-31**|**TiAda: A Time-scale Adaptive Algorithm for Nonconvex Minimax Optimization**|Xiang Li et.al.|[2210.17478v1](http://arxiv.org/abs/2210.17478v1)|null|
+|**2022-10-31**|**A-LAQ: Adaptive Lazily Aggregated Quantized Gradient**|Afsaneh Mahmoudi et.al.|[2210.17474v1](http://arxiv.org/abs/2210.17474v1)|null|
+|**2022-10-31**|**Globally Gated Deep Linear Networks**|Qianyi Li et.al.|[2210.17449v1](http://arxiv.org/abs/2210.17449v1)|null|
+|**2022-10-31**|**A high-order compact gas-kinetic scheme in a rotating coordinate frame and on sliding mesh**|Yue Zhang et.al.|[2210.17385v1](http://arxiv.org/abs/2210.17385v1)|null|
+|**2022-10-31**|**L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**|Mohammadreza Alimohammadi et.al.|[2210.17357v1](http://arxiv.org/abs/2210.17357v1)|null|
 |**2022-10-28**|**A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks**|Zhengdao Chen et.al.|[2210.16286v1](http://arxiv.org/abs/2210.16286v1)|null|
 |**2022-10-28**|**Robustness and Convergence Analysis of First-Order Distributed Optimization Algorithms over Subspace Constraints**|Dennis J. Marquis et.al.|[2210.16277v1](http://arxiv.org/abs/2210.16277v1)|null|
 |**2022-10-28**|**Nonparametric Probabilistic Regression with Coarse Learners**|Brian Lucena et.al.|[2210.16247v1](http://arxiv.org/abs/2210.16247v1)|null|
@@ -1072,6 +1082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-31**|**Threshold enhanced cross-sections for colorless productions**|Goutam Das et.al.|[2210.17534v1](http://arxiv.org/abs/2210.17534v1)|null|
+|**2022-10-31**|**Lila: A Unified Benchmark for Mathematical Reasoning**|Swaroop Mishra et.al.|[2210.17517v1](http://arxiv.org/abs/2210.17517v1)|null|
+|**2022-10-31**|**Space-fluid Adaptive Sampling by Self-Organisation**|Roberto Casadei et.al.|[2210.17505v1](http://arxiv.org/abs/2210.17505v1)|null|
+|**2022-10-31**|**Deep Learning-based Protoacoustic Signal Denoising for Proton Range Verification**|Jing Wang et.al.|[2210.17500v1](http://arxiv.org/abs/2210.17500v1)|null|
+|**2022-10-31**|**A Fast Automatic Method for Deconvoluting Macro X-ray Fluorescence Data Collected from Easel Paintings**|Su Yan et.al.|[2210.17496v1](http://arxiv.org/abs/2210.17496v1)|null|
+|**2022-10-31**|**Rovibrational Internal Energy Transfer and Dissociation of High-Temperature Oxygen Mixture**|Sung Min Jo et.al.|[2210.17481v1](http://arxiv.org/abs/2210.17481v1)|null|
+|**2022-10-31**|**A-LAQ: Adaptive Lazily Aggregated Quantized Gradient**|Afsaneh Mahmoudi et.al.|[2210.17474v1](http://arxiv.org/abs/2210.17474v1)|null|
+|**2022-10-31**|**Optimal Antenna Placement for Two-Antenna Near-Field Wireless Power Transfer**|Kenneth MacSporran Mayer et.al.|[2210.17471v1](http://arxiv.org/abs/2210.17471v1)|null|
+|**2022-10-31**|**Blind Asynchronous Over-the-Air Federated Edge Learning**|Saeed Razavikia et.al.|[2210.17469v1](http://arxiv.org/abs/2210.17469v1)|null|
+|**2022-10-31**|**Iterative Teaching by Data Hallucination**|Zeju Qiu et.al.|[2210.17467v1](http://arxiv.org/abs/2210.17467v1)|null|
 |**2022-10-28**|**Self-calibrating optical galaxy cluster selection bias using cluster, galaxy, and shear cross-correlations**|Chenxiao Zeng et.al.|[2210.16306v1](http://arxiv.org/abs/2210.16306v1)|null|
 |**2022-10-28**|**Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers**|Jieyu Zhao et.al.|[2210.16298v1](http://arxiv.org/abs/2210.16298v1)|null|
 |**2022-10-28**|**A New Flaring Black Widow Candidate and Demographics of Black Widow Millisecond Pulsars in the Galactic Field**|Samuel J. Swihart et.al.|[2210.16295v1](http://arxiv.org/abs/2210.16295v1)|null|
@@ -1537,10 +1557,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-31**|**Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**|Yunqi Luo et.al.|[2210.17465v1](http://arxiv.org/abs/2210.17465v1)|null|
+|**2022-10-31**|**L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**|Mohammadreza Alimohammadi et.al.|[2210.17357v1](http://arxiv.org/abs/2210.17357v1)|null|
+|**2022-10-31**|**Lita: Accelerating Distributed Training of Sparsely Activated Models**|Jiamin Li et.al.|[2210.17223v1](http://arxiv.org/abs/2210.17223v1)|null|
+|**2022-10-30**|**Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh**|Gregor von Laszewski et.al.|[2210.16941v1](http://arxiv.org/abs/2210.16941v1)|null|
+|**2022-10-30**|**Searching for Deviations in Trading Systems: Combining Control-Flow and Data Perspectives**|Julio C. Carrasquel et.al.|[2210.16800v1](http://arxiv.org/abs/2210.16800v1)|null|
+|**2022-10-29**|**Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks**|Yimeng Ren et.al.|[2210.16634v1](http://arxiv.org/abs/2210.16634v1)|null|
+|**2022-10-28**|**Modeling and Rapid Prototyping of Integrated Transmission-Distribution OPF Formulations with PowerModelsITD.jl**|Juan Ospina et.al.|[2210.16378v1](http://arxiv.org/abs/2210.16378v1)|null|
 |**2022-10-28**|**Fast Single Photon Detectors and real-time Key Distillation: Enabling High Secret Key Rate QKD Systems**|Fadri Grünenfelder et.al.|[2210.16126v1](http://arxiv.org/abs/2210.16126v1)|null|
 |**2022-10-26**|**Local Graph-homomorphic Processing for Privatized Distributed Systems**|Elsa Rizk et.al.|[2210.15414v1](http://arxiv.org/abs/2210.15414v1)|null|
 |**2022-10-27**|**Spatial-Temporal Recurrent Graph Neural Networks for Fault Diagnostics in Power Distribution Systems**|Bang Nguyen et.al.|[2210.15177v1](http://arxiv.org/abs/2210.15177v1)|null|
-|**2022-10-27**|**Audio Signal Enhancement with Learning from Positive and Unlabelled Data**|Nobutaka Ito et.al.|[2210.15143v1](http://arxiv.org/abs/2210.15143v1)|**[link](https://github.com/nobutaka-ito/pulse)**|
+|**2022-10-30**|**Audio Signal Enhancement with Learning from Positive and Unlabelled Data**|Nobutaka Ito et.al.|[2210.15143v2](http://arxiv.org/abs/2210.15143v2)|**[link](https://github.com/nobutaka-ito/pulse)**|
 |**2022-10-27**|**Federated Graph Representation Learning using Self-Supervision**|Susheel Suresh et.al.|[2210.15120v1](http://arxiv.org/abs/2210.15120v1)|null|
 |**2022-10-28**|**A Hierarchical Approach to Conditional Random Fields for System Anomaly Detection**|Srishti Mishra et.al.|[2210.15030v2](http://arxiv.org/abs/2210.15030v2)|null|
 |**2022-10-26**|**Controlled remote implementation of operations via graph states**|Xinyu Qiu et.al.|[2210.14674v1](http://arxiv.org/abs/2210.14674v1)|null|
