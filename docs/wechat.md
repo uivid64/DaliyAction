@@ -503,7 +503,7 @@
 - 2022-10-31, **A-LAQ: Adaptive Lazily Aggregated Quantized Gradient**, Afsaneh Mahmoudi et.al., Paper: [http://arxiv.org/abs/2210.17474v1](http://arxiv.org/abs/2210.17474v1)
 - 2022-10-31, **Globally Gated Deep Linear Networks**, Qianyi Li et.al., Paper: [http://arxiv.org/abs/2210.17449v1](http://arxiv.org/abs/2210.17449v1)
 - 2022-10-31, **A high-order compact gas-kinetic scheme in a rotating coordinate frame and on sliding mesh**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2210.17385v1](http://arxiv.org/abs/2210.17385v1)
-- 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1)
+- 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1), Code: **[https://github.com/lgrco/l-greco](https://github.com/lgrco/l-greco)**
 - 2022-10-28, **A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks**, Zhengdao Chen et.al., Paper: [http://arxiv.org/abs/2210.16286v1](http://arxiv.org/abs/2210.16286v1)
 - 2022-10-28, **Robustness and Convergence Analysis of First-Order Distributed Optimization Algorithms over Subspace Constraints**, Dennis J. Marquis et.al., Paper: [http://arxiv.org/abs/2210.16277v1](http://arxiv.org/abs/2210.16277v1)
 - 2022-10-28, **Nonparametric Probabilistic Regression with Coarse Learners**, Brian Lucena et.al., Paper: [http://arxiv.org/abs/2210.16247v1](http://arxiv.org/abs/2210.16247v1)
@@ -968,7 +968,7 @@
 ## Distributed Training
 
 - 2022-10-31, **Threshold enhanced cross-sections for colorless productions**, Goutam Das et.al., Paper: [http://arxiv.org/abs/2210.17534v1](http://arxiv.org/abs/2210.17534v1)
-- 2022-10-31, **Lila: A Unified Benchmark for Mathematical Reasoning**, Swaroop Mishra et.al., Paper: [http://arxiv.org/abs/2210.17517v1](http://arxiv.org/abs/2210.17517v1)
+- 2022-10-31, **Lila: A Unified Benchmark for Mathematical Reasoning**, Swaroop Mishra et.al., Paper: [http://arxiv.org/abs/2210.17517v1](http://arxiv.org/abs/2210.17517v1), Code: **[https://github.com/allenai/lila](https://github.com/allenai/lila)**
 - 2022-10-31, **Space-fluid Adaptive Sampling by Self-Organisation**, Roberto Casadei et.al., Paper: [http://arxiv.org/abs/2210.17505v1](http://arxiv.org/abs/2210.17505v1)
 - 2022-10-31, **Deep Learning-based Protoacoustic Signal Denoising for Proton Range Verification**, Jing Wang et.al., Paper: [http://arxiv.org/abs/2210.17500v1](http://arxiv.org/abs/2210.17500v1)
 - 2022-10-31, **A Fast Automatic Method for Deconvoluting Macro X-ray Fluorescence Data Collected from Easel Paintings**, Su Yan et.al., Paper: [http://arxiv.org/abs/2210.17496v1](http://arxiv.org/abs/2210.17496v1)
@@ -1441,7 +1441,7 @@
 ## Distributed Deep Learning
 
 - 2022-10-31, **Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**, Yunqi Luo et.al., Paper: [http://arxiv.org/abs/2210.17465v1](http://arxiv.org/abs/2210.17465v1)
-- 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1)
+- 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1), Code: **[https://github.com/lgrco/l-greco](https://github.com/lgrco/l-greco)**
 - 2022-10-31, **Lita: Accelerating Distributed Training of Sparsely Activated Models**, Jiamin Li et.al., Paper: [http://arxiv.org/abs/2210.17223v1](http://arxiv.org/abs/2210.17223v1)
 - 2022-10-30, **Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh**, Gregor von Laszewski et.al., Paper: [http://arxiv.org/abs/2210.16941v1](http://arxiv.org/abs/2210.16941v1)
 - 2022-10-30, **Searching for Deviations in Trading Systems: Combining Control-Flow and Data Perspectives**, Julio C. Carrasquel et.al., Paper: [http://arxiv.org/abs/2210.16800v1](http://arxiv.org/abs/2210.16800v1)
