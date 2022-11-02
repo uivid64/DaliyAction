@@ -1,4 +1,4 @@
-> Updated on 2022.11.01
+> Updated on 2022.11.02
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-11-01, **Convergence of policy gradient methods for finite-horizon stochastic linear-quadratic control problems**, Michael Giegrich et.al., Paper: [http://arxiv.org/abs/2211.00617v1](http://arxiv.org/abs/2211.00617v1)
+- 2022-11-01, **Quantum Natural Gradient with Efficient Backtracking Line Search**, Touheed Anwar Atif et.al., Paper: [http://arxiv.org/abs/2211.00615v1](http://arxiv.org/abs/2211.00615v1)
+- 2022-11-01, **Dungeons and Data: A Large-Scale NetHack Dataset**, Eric Hambro et.al., Paper: [http://arxiv.org/abs/2211.00539v1](http://arxiv.org/abs/2211.00539v1)
+- 2022-11-01, **Self-Supervised Intensity-Event Stereo Matching**, Jinjin Gu et.al., Paper: [http://arxiv.org/abs/2211.00509v1](http://arxiv.org/abs/2211.00509v1)
+- 2022-11-01, **Modelling black-box audio effects with time-varying feature modulation**, Marco Comunità et.al., Paper: [http://arxiv.org/abs/2211.00497v1](http://arxiv.org/abs/2211.00497v1)
+- 2022-11-01, **Soliton compression and supercontinuum spectra in nonlinear diamond photonics**, O. Melchert et.al., Paper: [http://arxiv.org/abs/2211.00492v1](http://arxiv.org/abs/2211.00492v1)
+- 2022-11-01, **Controlling quantum many-body systems using reduced-order modelling**, I. A. Luchnikov et.al., Paper: [http://arxiv.org/abs/2211.00467v1](http://arxiv.org/abs/2211.00467v1)
+- 2022-11-01, **Birth-death dynamics for sampling: Global convergence, approximations and their asymptotics**, Yulong Lu et.al., Paper: [http://arxiv.org/abs/2211.00450v1](http://arxiv.org/abs/2211.00450v1)
+- 2022-11-01, **Deformation and necking of liquid droplets in a magnetic field**, Sruthy Poulose et.al., Paper: [http://arxiv.org/abs/2211.00431v1](http://arxiv.org/abs/2211.00431v1)
+- 2022-11-01, **Time-Optimal Quantum Driving by Variational Circuit Learning**, Tangyou Huang et.al., Paper: [http://arxiv.org/abs/2211.00405v1](http://arxiv.org/abs/2211.00405v1)
 - 2022-10-31, **Nesterov Meets Optimism: Rate-Optimal Optimistic-Gradient-Based Method for Stochastic Bilinearly-Coupled Minimax Optimization**, Chris Junchi Li et.al., Paper: [http://arxiv.org/abs/2210.17550v1](http://arxiv.org/abs/2210.17550v1)
 - 2022-10-31, **Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**, Saar Tarnopolsky et.al., Paper: [http://arxiv.org/abs/2210.17544v1](http://arxiv.org/abs/2210.17544v1)
 - 2022-10-31, **Fast Principal Component Analysis for Cryo-EM Images**, Nicholas F. Marshall et.al., Paper: [http://arxiv.org/abs/2210.17501v1](http://arxiv.org/abs/2210.17501v1)
@@ -967,6 +977,16 @@
 
 ## Distributed Training
 
+- 2022-11-01, **Discrete Exponential-Family Models for Multivariate Binary Outcomes**, Vega Yon et.al., Paper: [http://arxiv.org/abs/2211.00627v1](http://arxiv.org/abs/2211.00627v1)
+- 2022-11-01, **Algebra of N-event synchronization**, Ernesto Gomez et.al., Paper: [http://arxiv.org/abs/2211.00596v1](http://arxiv.org/abs/2211.00596v1)
+- 2022-11-01, **Simplicial distributions, convex categories and contextuality**, Aziz Kharoof et.al., Paper: [http://arxiv.org/abs/2211.00571v1](http://arxiv.org/abs/2211.00571v1)
+- 2022-11-01, **Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**, Chanakya Ekbote et.al., Paper: [http://arxiv.org/abs/2211.00568v1](http://arxiv.org/abs/2211.00568v1)
+- 2022-11-01, **Exact order, gap and counting statistics of a Brownian gas correlated by resetting**, Marco Biroli et.al., Paper: [http://arxiv.org/abs/2211.00563v1](http://arxiv.org/abs/2211.00563v1)
+- 2022-11-01, **Contextual Mixture of Experts: Integrating Knowledge into Predictive Modeling**, Francisco Souza et.al., Paper: [http://arxiv.org/abs/2211.00558v1](http://arxiv.org/abs/2211.00558v1)
+- 2022-11-01, **Infinite-Dimensional Adaptive Boundary Observer for Inner-Domain Temperature Estimation of 3D Electrosurgical Processes using Surface Thermography Sensing**, Hamza El-Kebir et.al., Paper: [http://arxiv.org/abs/2211.00515v1](http://arxiv.org/abs/2211.00515v1)
+- 2022-11-01, **Systematic analysis of doubly charmed baryons $Ξ_{cc}$ and $Ω_{cc}$**, Guo-Liang Yu et.al., Paper: [http://arxiv.org/abs/2211.00510v1](http://arxiv.org/abs/2211.00510v1)
+- 2022-11-01, **Fundamental Limits of Low-Rank Matrix Estimation with Diverging Aspect Ratios**, Andrea Montanari et.al., Paper: [http://arxiv.org/abs/2211.00488v1](http://arxiv.org/abs/2211.00488v1)
+- 2022-11-01, **Multi-Resource Allocation for On-Device Distributed Federated Learning Systems**, Yulan Gao et.al., Paper: [http://arxiv.org/abs/2211.00481v1](http://arxiv.org/abs/2211.00481v1)
 - 2022-10-31, **Threshold enhanced cross-sections for colorless productions**, Goutam Das et.al., Paper: [http://arxiv.org/abs/2210.17534v1](http://arxiv.org/abs/2210.17534v1)
 - 2022-10-31, **Lila: A Unified Benchmark for Mathematical Reasoning**, Swaroop Mishra et.al., Paper: [http://arxiv.org/abs/2210.17517v1](http://arxiv.org/abs/2210.17517v1), Code: **[https://github.com/allenai/lila](https://github.com/allenai/lila)**
 - 2022-10-31, **Space-fluid Adaptive Sampling by Self-Organisation**, Roberto Casadei et.al., Paper: [http://arxiv.org/abs/2210.17505v1](http://arxiv.org/abs/2210.17505v1)
@@ -1440,6 +1460,8 @@
 
 ## Distributed Deep Learning
 
+- 2022-11-01, **SOLAR: A Highly Optimized Data Loading Framework for Distributed Training of CNN-based Scientific Surrogates**, Baixi Sun et.al., Paper: [http://arxiv.org/abs/2211.00224v1](http://arxiv.org/abs/2211.00224v1)
+- 2022-10-31, **Adaptive Compression for Communication-Efficient Distributed Training**, Maksim Makarenko et.al., Paper: [http://arxiv.org/abs/2211.00188v1](http://arxiv.org/abs/2211.00188v1)
 - 2022-10-31, **Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**, Yunqi Luo et.al., Paper: [http://arxiv.org/abs/2210.17465v1](http://arxiv.org/abs/2210.17465v1)
 - 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1), Code: **[https://github.com/lgrco/l-greco](https://github.com/lgrco/l-greco)**
 - 2022-10-31, **Lita: Accelerating Distributed Training of Sparsely Activated Models**, Jiamin Li et.al., Paper: [http://arxiv.org/abs/2210.17223v1](http://arxiv.org/abs/2210.17223v1)
