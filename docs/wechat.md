@@ -1,4 +1,4 @@
-> Updated on 2022.11.02
+> Updated on 2022.11.03
 
 ## SLAM
 
@@ -977,10 +977,10 @@
 
 ## Distributed Training
 
-- 2022-11-01, **Discrete Exponential-Family Models for Multivariate Binary Outcomes**, Vega Yon et.al., Paper: [http://arxiv.org/abs/2211.00627v1](http://arxiv.org/abs/2211.00627v1)
+- 2022-11-02, **Discrete Exponential-Family Models for Multivariate Binary Outcomes**, George G. Vega Yon et.al., Paper: [http://arxiv.org/abs/2211.00627v2](http://arxiv.org/abs/2211.00627v2), Code: **[https://github.com/UofUEpi/defm](https://github.com/UofUEpi/defm)**
 - 2022-11-01, **Algebra of N-event synchronization**, Ernesto Gomez et.al., Paper: [http://arxiv.org/abs/2211.00596v1](http://arxiv.org/abs/2211.00596v1)
 - 2022-11-01, **Simplicial distributions, convex categories and contextuality**, Aziz Kharoof et.al., Paper: [http://arxiv.org/abs/2211.00571v1](http://arxiv.org/abs/2211.00571v1)
-- 2022-11-01, **Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**, Chanakya Ekbote et.al., Paper: [http://arxiv.org/abs/2211.00568v1](http://arxiv.org/abs/2211.00568v1)
+- 2022-11-02, **Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions**, Chanakya Ekbote et.al., Paper: [http://arxiv.org/abs/2211.00568v2](http://arxiv.org/abs/2211.00568v2)
 - 2022-11-01, **Exact order, gap and counting statistics of a Brownian gas correlated by resetting**, Marco Biroli et.al., Paper: [http://arxiv.org/abs/2211.00563v1](http://arxiv.org/abs/2211.00563v1)
 - 2022-11-01, **Contextual Mixture of Experts: Integrating Knowledge into Predictive Modeling**, Francisco Souza et.al., Paper: [http://arxiv.org/abs/2211.00558v1](http://arxiv.org/abs/2211.00558v1)
 - 2022-11-01, **Infinite-Dimensional Adaptive Boundary Observer for Inner-Domain Temperature Estimation of 3D Electrosurgical Processes using Surface Thermography Sensing**, Hamza El-Kebir et.al., Paper: [http://arxiv.org/abs/2211.00515v1](http://arxiv.org/abs/2211.00515v1)
