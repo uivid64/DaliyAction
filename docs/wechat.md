@@ -989,7 +989,7 @@
 
 - 2022-11-02, **My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization**, Umur A. Ciftci et.al., Paper: [http://arxiv.org/abs/2211.01361v1](http://arxiv.org/abs/2211.01361v1)
 - 2022-11-02, **Optimized frequency comb spectrum of parametrically modulated bottle microresonators**, M. Crespo-Ballesteros et.al., Paper: [http://arxiv.org/abs/2211.01349v1](http://arxiv.org/abs/2211.01349v1)
-- 2022-11-02, **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et.al., Paper: [http://arxiv.org/abs/2211.01335v1](http://arxiv.org/abs/2211.01335v1)
+- 2022-11-02, **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et.al., Paper: [http://arxiv.org/abs/2211.01335v1](http://arxiv.org/abs/2211.01335v1), Code: **[https://github.com/ofa-sys/chinese-clip](https://github.com/ofa-sys/chinese-clip)**
 - 2022-11-02, **Predicting phoneme-level prosody latents using AR and flow-based Prior Networks for expressive speech synthesis**, Konstantinos Klapsas et.al., Paper: [http://arxiv.org/abs/2211.01327v1](http://arxiv.org/abs/2211.01327v1)
 - 2022-11-02, **Continual Conscious Active Fine-Tuning to Robustify Online Machine Learning Models Against Data Distribution Shifts**, Shawqi Al-Maliki et.al., Paper: [http://arxiv.org/abs/2211.01315v1](http://arxiv.org/abs/2211.01315v1)
 - 2022-11-02, **The random Weierstrass zeta function II. Fluctuations of the electric flux through rectifiable curves**, Mikhail Sodin et.al., Paper: [http://arxiv.org/abs/2211.01312v1](http://arxiv.org/abs/2211.01312v1)
