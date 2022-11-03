@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**Current Noise of Hydrodynamic Electrons**|Aaron Hui et.al.|[2211.01366v1](http://arxiv.org/abs/2211.01366v1)|null|
+|**2022-11-02**|**Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**|Di Luo et.al.|[2211.01365v1](http://arxiv.org/abs/2211.01365v1)|null|
+|**2022-11-02**|**POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural Networks**|Randall Balestriero et.al.|[2211.01340v1](http://arxiv.org/abs/2211.01340v1)|null|
+|**2022-11-02**|**Modewise Johnson-Lindenstrauss Embeddings for Nuclear Many-Body Theory**|A. Zare et.al.|[2211.01305v1](http://arxiv.org/abs/2211.01305v1)|null|
+|**2022-11-02**|**Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow**|Luca Banetta et.al.|[2211.01284v1](http://arxiv.org/abs/2211.01284v1)|null|
+|**2022-11-02**|**An Exponentially Converging Particle Method for the Mixed Nash Equilibrium of Continuous Games**|Guillaume Wang et.al.|[2211.01280v1](http://arxiv.org/abs/2211.01280v1)|**[link](https://github.com/guillaumew16/particle-mne)**|
+|**2022-11-02**|**How to minimize the environmental contamination caused by hydrocarbon releases by onshore pipelines: The key role of a three-dimensional three-phase fluid flow numerical model**|Alessandra Feo et.al.|[2211.01279v1](http://arxiv.org/abs/2211.01279v1)|null|
+|**2022-11-02**|**Design of cycloidal rays in optical waveguides in analogy to the fastest descending problem**|Xiong Hui et.al.|[2211.01225v1](http://arxiv.org/abs/2211.01225v1)|null|
+|**2022-11-02**|**Audio Language Modeling using Perceptually-Guided Discrete Representations**|Felix Kreuk et.al.|[2211.01223v1](http://arxiv.org/abs/2211.01223v1)|null|
+|**2022-11-02**|**Faster variational quantum algorithms with quantum kernel-based surrogate models**|Alistair W. R. Smith et.al.|[2211.01134v1](http://arxiv.org/abs/2211.01134v1)|null|
 |**2022-11-01**|**Convergence of policy gradient methods for finite-horizon stochastic linear-quadratic control problems**|Michael Giegrich et.al.|[2211.00617v1](http://arxiv.org/abs/2211.00617v1)|null|
 |**2022-11-01**|**Quantum Natural Gradient with Efficient Backtracking Line Search**|Touheed Anwar Atif et.al.|[2211.00615v1](http://arxiv.org/abs/2211.00615v1)|null|
 |**2022-11-01**|**Dungeons and Data: A Large-Scale NetHack Dataset**|Eric Hambro et.al.|[2211.00539v1](http://arxiv.org/abs/2211.00539v1)|null|
@@ -1088,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization**|Umur A. Ciftci et.al.|[2211.01361v1](http://arxiv.org/abs/2211.01361v1)|null|
+|**2022-11-02**|**Optimized frequency comb spectrum of parametrically modulated bottle microresonators**|M. Crespo-Ballesteros et.al.|[2211.01349v1](http://arxiv.org/abs/2211.01349v1)|null|
+|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|null|
+|**2022-11-02**|**Predicting phoneme-level prosody latents using AR and flow-based Prior Networks for expressive speech synthesis**|Konstantinos Klapsas et.al.|[2211.01327v1](http://arxiv.org/abs/2211.01327v1)|null|
+|**2022-11-02**|**Continual Conscious Active Fine-Tuning to Robustify Online Machine Learning Models Against Data Distribution Shifts**|Shawqi Al-Maliki et.al.|[2211.01315v1](http://arxiv.org/abs/2211.01315v1)|null|
+|**2022-11-02**|**The random Weierstrass zeta function II. Fluctuations of the electric flux through rectifiable curves**|Mikhail Sodin et.al.|[2211.01312v1](http://arxiv.org/abs/2211.01312v1)|null|
+|**2022-11-02**|**Properties of the Concrete distribution**|David D. K. Chow et.al.|[2211.01306v1](http://arxiv.org/abs/2211.01306v1)|null|
+|**2022-11-02**|**The $T_{c\bar{s}}(2900)$ as a threshold effect from the interaction of the $D^*K^*$, $D^*_sρ$ channels**|R. Molina et.al.|[2211.01302v1](http://arxiv.org/abs/2211.01302v1)|null|
+|**2022-11-02**|**Towards End-to-end Speaker Diarization in the Wild**|Zexu Pan et.al.|[2211.01299v1](http://arxiv.org/abs/2211.01299v1)|null|
+|**2022-11-02**|**SoK: A Stratified Approach to Blockchain Decentralization**|Dimitris Karakostas et.al.|[2211.01291v1](http://arxiv.org/abs/2211.01291v1)|null|
 |**2022-11-02**|**Discrete Exponential-Family Models for Multivariate Binary Outcomes**|George G. Vega Yon et.al.|[2211.00627v2](http://arxiv.org/abs/2211.00627v2)|**[link](https://github.com/UofUEpi/defm)**|
 |**2022-11-01**|**Algebra of N-event synchronization**|Ernesto Gomez et.al.|[2211.00596v1](http://arxiv.org/abs/2211.00596v1)|null|
 |**2022-11-01**|**Simplicial distributions, convex categories and contextuality**|Aziz Kharoof et.al.|[2211.00571v1](http://arxiv.org/abs/2211.00571v1)|null|
@@ -1573,6 +1593,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via Submodular Partitioning**|Haoze He et.al.|[2211.00839v1](http://arxiv.org/abs/2211.00839v1)|null|
+|**2022-11-01**|**Counting and Computing Join-Endomorphisms in Lattices (Revisited)**|Carlos Pinzón et.al.|[2211.00781v1](http://arxiv.org/abs/2211.00781v1)|null|
+|**2022-11-01**|**Over-the-Air Computation for Distributed Systems: Something Old and Something New**|Zheng Chen et.al.|[2211.00767v1](http://arxiv.org/abs/2211.00767v1)|null|
 |**2022-11-01**|**SOLAR: A Highly Optimized Data Loading Framework for Distributed Training of CNN-based Scientific Surrogates**|Baixi Sun et.al.|[2211.00224v1](http://arxiv.org/abs/2211.00224v1)|null|
 |**2022-10-31**|**Adaptive Compression for Communication-Efficient Distributed Training**|Maksim Makarenko et.al.|[2211.00188v1](http://arxiv.org/abs/2211.00188v1)|null|
 |**2022-10-31**|**Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**|Yunqi Luo et.al.|[2210.17465v1](http://arxiv.org/abs/2210.17465v1)|null|
