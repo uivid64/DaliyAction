@@ -1,4 +1,4 @@
-> Updated on 2022.11.03
+> Updated on 2022.11.04
 
 ## SLAM
 
@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-11-03, **Optically Induced Picosecond Lattice Compression in the Dielectric Component of a Strongly Coupled Ferroelectric/Dielectric Superlattice**, Deepankar Sri Gyan et.al., Paper: [http://arxiv.org/abs/2211.02033v1](http://arxiv.org/abs/2211.02033v1)
+- 2022-11-03, **Optimal Compression for Minimizing Classification Error Probability: an Information-Theoretic Approach**, Jingchao Gao et.al., Paper: [http://arxiv.org/abs/2211.02012v1](http://arxiv.org/abs/2211.02012v1)
+- 2022-11-03, **Single SMPC Invocation DPHelmet: Differentially Private Distributed Learning on a Large Scale**, Moritz Kirschte et.al., Paper: [http://arxiv.org/abs/2211.02003v1](http://arxiv.org/abs/2211.02003v1)
+- 2022-11-03, **On the invariant region for compressible Euler equations with a general equation of state**, Hailiang Liu et.al., Paper: [http://arxiv.org/abs/2211.01973v1](http://arxiv.org/abs/2211.01973v1)
+- 2022-11-03, **On a Calderón preconditioner for the symmetric formulation of the electroencephalography forward problem without barycentric refinements**, Viviana Giunzioni et.al., Paper: [http://arxiv.org/abs/2211.01967v1](http://arxiv.org/abs/2211.01967v1)
+- 2022-11-03, **Bar-Natan theory and tunneling between incompressible surfaces in 3-manifolds**, Uwe Kaiser et.al., Paper: [http://arxiv.org/abs/2211.01937v1](http://arxiv.org/abs/2211.01937v1)
+- 2022-11-03, **The Effect of Shock Wave Duration on Star Formation and the Initial Condition of Massive Cluster Formation**, Daisei Abe et.al., Paper: [http://arxiv.org/abs/2211.01931v1](http://arxiv.org/abs/2211.01931v1)
+- 2022-11-03, **Quantum kinetic theory of nonlinear thermal current**, Harsh Varshney et.al., Paper: [http://arxiv.org/abs/2211.01895v1](http://arxiv.org/abs/2211.01895v1)
+- 2022-11-03, **Faster Adaptive Momentum-Based Federated Methods for Distributed Composition Optimization**, Feihu Huang et.al., Paper: [http://arxiv.org/abs/2211.01883v1](http://arxiv.org/abs/2211.01883v1)
+- 2022-11-03, **Ultralight dark matter searches at the sub-Hz frontier with atom multi-gradiometry**, Leonardo Badurina et.al., Paper: [http://arxiv.org/abs/2211.01854v1](http://arxiv.org/abs/2211.01854v1)
 - 2022-11-02, **Current Noise of Hydrodynamic Electrons**, Aaron Hui et.al., Paper: [http://arxiv.org/abs/2211.01366v1](http://arxiv.org/abs/2211.01366v1)
 - 2022-11-02, **Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**, Di Luo et.al., Paper: [http://arxiv.org/abs/2211.01365v1](http://arxiv.org/abs/2211.01365v1)
 - 2022-11-02, **POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural Networks**, Randall Balestriero et.al., Paper: [http://arxiv.org/abs/2211.01340v1](http://arxiv.org/abs/2211.01340v1)
@@ -987,6 +997,16 @@
 
 ## Distributed Training
 
+- 2022-11-03, **Fast and robust Bayesian Inference using Gaussian Processes with GPry**, Jonas El Gammal et.al., Paper: [http://arxiv.org/abs/2211.02045v1](http://arxiv.org/abs/2211.02045v1)
+- 2022-11-03, **Comparison of Matsubara dynamics with exact quantum dynamics for an oscillator coupled to a dissipative bath**, Adam Prada et.al., Paper: [http://arxiv.org/abs/2211.02042v1](http://arxiv.org/abs/2211.02042v1)
+- 2022-11-03, **Average Mixing in Quantum Walks of Reversible Markov Chains**, Julien Sorci et.al., Paper: [http://arxiv.org/abs/2211.02037v1](http://arxiv.org/abs/2211.02037v1)
+- 2022-11-03, **Optically Induced Picosecond Lattice Compression in the Dielectric Component of a Strongly Coupled Ferroelectric/Dielectric Superlattice**, Deepankar Sri Gyan et.al., Paper: [http://arxiv.org/abs/2211.02033v1](http://arxiv.org/abs/2211.02033v1)
+- 2022-11-03, **Extending the analogy between intracellular motion in mammalian cells and glassy dynamics**, B. Corci et.al., Paper: [http://arxiv.org/abs/2211.02019v1](http://arxiv.org/abs/2211.02019v1)
+- 2022-11-03, **A Bayesian inference of relativistic mean-field model for neutron star matter from observation of NICER and GW170817/AT2017gfo**, Zhenyu Zhu et.al., Paper: [http://arxiv.org/abs/2211.02007v1](http://arxiv.org/abs/2211.02007v1)
+- 2022-11-03, **Single SMPC Invocation DPHelmet: Differentially Private Distributed Learning on a Large Scale**, Moritz Kirschte et.al., Paper: [http://arxiv.org/abs/2211.02003v1](http://arxiv.org/abs/2211.02003v1)
+- 2022-11-03, **Notes on Hardy's Uncertainty Principle for the Wigner distribution and Schrödinger evolutions**, Helge Knutsen et.al., Paper: [http://arxiv.org/abs/2211.01985v1](http://arxiv.org/abs/2211.01985v1)
+- 2022-11-03, **Dynamical fermionization in one-dimensional spinor gases at finite temperature**, Ovidiu I. Patu et.al., Paper: [http://arxiv.org/abs/2211.01975v1](http://arxiv.org/abs/2211.01975v1)
+- 2022-11-03, **Detecting nuclear mass distribution in isobar collisions via charmonium**, Jiaxing Zhao et.al., Paper: [http://arxiv.org/abs/2211.01971v1](http://arxiv.org/abs/2211.01971v1)
 - 2022-11-02, **My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization**, Umur A. Ciftci et.al., Paper: [http://arxiv.org/abs/2211.01361v1](http://arxiv.org/abs/2211.01361v1)
 - 2022-11-02, **Optimized frequency comb spectrum of parametrically modulated bottle microresonators**, M. Crespo-Ballesteros et.al., Paper: [http://arxiv.org/abs/2211.01349v1](http://arxiv.org/abs/2211.01349v1)
 - 2022-11-02, **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et.al., Paper: [http://arxiv.org/abs/2211.01335v1](http://arxiv.org/abs/2211.01335v1), Code: **[https://github.com/ofa-sys/chinese-clip](https://github.com/ofa-sys/chinese-clip)**
@@ -1480,6 +1500,9 @@
 
 ## Distributed Deep Learning
 
+- 2022-11-03, **Edge, Fog, and Cloud Computing : An Overview on Challenges and Applications**, Thong Vo et.al., Paper: [http://arxiv.org/abs/2211.01863v1](http://arxiv.org/abs/2211.01863v1)
+- 2022-11-03, **iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud**, Fei Xu et.al., Paper: [http://arxiv.org/abs/2211.01713v1](http://arxiv.org/abs/2211.01713v1)
+- 2022-11-03, **Out-of-Things Debugging: A Live Debugging Approach for Internet of Things**, Carlos Rojas Castillo et.al., Paper: [http://arxiv.org/abs/2211.01679v1](http://arxiv.org/abs/2211.01679v1)
 - 2022-11-02, **RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via Submodular Partitioning**, Haoze He et.al., Paper: [http://arxiv.org/abs/2211.00839v1](http://arxiv.org/abs/2211.00839v1)
 - 2022-11-01, **Counting and Computing Join-Endomorphisms in Lattices (Revisited)**, Carlos Pinzón et.al., Paper: [http://arxiv.org/abs/2211.00781v1](http://arxiv.org/abs/2211.00781v1)
 - 2022-11-01, **Over-the-Air Computation for Distributed Systems: Something Old and Something New**, Zheng Chen et.al., Paper: [http://arxiv.org/abs/2211.00767v1](http://arxiv.org/abs/2211.00767v1)
