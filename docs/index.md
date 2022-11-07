@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**Minimizers of Nonlocal Polyconvex Energies in Nonlocal Hyperelasticity**|José C. Bellido et.al.|[2211.02640v1](http://arxiv.org/abs/2211.02640v1)|null|
+|**2022-11-04**|**Reservoir Computing via Quantum Recurrent Neural Networks**|Samuel Yen-Chi Chen et.al.|[2211.02612v1](http://arxiv.org/abs/2211.02612v1)|null|
+|**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v1](http://arxiv.org/abs/2211.02578v1)|**[link](https://github.com/aiaudit-org/raw2logit)**|
+|**2022-11-04**|**Optimal control for state preparation in two-qubit open quantum systems driven by coherent and incoherent controls via GRAPE approach**|Vadim Petruhanov et.al.|[2211.02517v1](http://arxiv.org/abs/2211.02517v1)|null|
+|**2022-11-04**|**GOODS-ALMA 2.0: Last gigayear star formation histories of the so-called starbursts within the main sequence**|L. Ciesla et.al.|[2211.02510v1](http://arxiv.org/abs/2211.02510v1)|null|
+|**2022-11-04**|**Exchange energies in CoFeB/Ru/CoFeB Synthetic Antiferromagnets**|A. Mouhoub et.al.|[2211.02497v1](http://arxiv.org/abs/2211.02497v1)|null|
+|**2022-11-04**|**Elastic properties of moiré lattices in epitaxial two-dimensional materials**|Alexandre Artaud et.al.|[2211.02482v1](http://arxiv.org/abs/2211.02482v1)|null|
+|**2022-11-04**|**PCQA-GRAPHPOINT: Efficients Deep-Based Graph Metric For Point Cloud Quality Assessment**|Marouane Tliba et.al.|[2211.02459v1](http://arxiv.org/abs/2211.02459v1)|null|
+|**2022-11-04**|**A Herschel study of G214.5-1.8: a young, cold and quiescent giant molecular filament on the shell of a HI superbubble**|S. D. Clarke et.al.|[2211.02422v1](http://arxiv.org/abs/2211.02422v1)|null|
+|**2022-11-04**|**Pressure-induced structural transition and new superconducting phase in UTe2**|Fuminori Honda et.al.|[2211.02361v1](http://arxiv.org/abs/2211.02361v1)|null|
 |**2022-11-03**|**Optically Induced Picosecond Lattice Compression in the Dielectric Component of a Strongly Coupled Ferroelectric/Dielectric Superlattice**|Deepankar Sri Gyan et.al.|[2211.02033v1](http://arxiv.org/abs/2211.02033v1)|null|
 |**2022-11-03**|**Optimal Compression for Minimizing Classification Error Probability: an Information-Theoretic Approach**|Jingchao Gao et.al.|[2211.02012v1](http://arxiv.org/abs/2211.02012v1)|null|
 |**2022-11-03**|**Single SMPC Invocation DPHelmet: Differentially Private Distributed Learning on a Large Scale**|Moritz Kirschte et.al.|[2211.02003v1](http://arxiv.org/abs/2211.02003v1)|**[link](https://github.com/kirschte/dphelmet)**|
@@ -1112,6 +1122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
+|**2022-11-04**|**Higgs Production and $H^0 \to c\overline{c}$ at a Future Muon-Ion Collider**|Pavan Ahluwalia et.al.|[2211.02615v1](http://arxiv.org/abs/2211.02615v1)|null|
+|**2022-11-04**|**Why bother with Bayesian t-tests?**|Fintan Costello et.al.|[2211.02613v1](http://arxiv.org/abs/2211.02613v1)|null|
+|**2022-11-04**|**How to Tell When a Result Will Replicate: Significance and Replication in Distributional Null Hypothesis Tests**|Fintan Costello et.al.|[2211.02609v1](http://arxiv.org/abs/2211.02609v1)|null|
+|**2022-11-04**|**Study of Intra-Day Flux Distributions of Blazars Using XMM-Newton Satellite**|Kiran Wani et.al.|[2211.02606v1](http://arxiv.org/abs/2211.02606v1)|null|
+|**2022-11-04**|**Spatial field reconstruction with INLA: Application to simulated galaxies**|Majda Smole et.al.|[2211.02602v1](http://arxiv.org/abs/2211.02602v1)|null|
+|**2022-11-04**|**Universality of moiré physics in collapsed chiral carbon nanotubes**|Olga Arroyo-Gascón et.al.|[2211.02599v1](http://arxiv.org/abs/2211.02599v1)|null|
+|**2022-11-04**|**Modeling Temporal Data as Continuous Functions with Process Diffusion**|Marin Biloš et.al.|[2211.02590v1](http://arxiv.org/abs/2211.02590v1)|null|
+|**2022-11-04**|**Hamiltonian Quantum Generative Adversarial Networks**|Leeseok Kim et.al.|[2211.02584v1](http://arxiv.org/abs/2211.02584v1)|null|
+|**2022-11-04**|**A fractional Hawkes process II: Further characterization of the process**|Cassien Habyarimana et.al.|[2211.02583v1](http://arxiv.org/abs/2211.02583v1)|null|
 |**2022-11-03**|**Fast and robust Bayesian Inference using Gaussian Processes with GPry**|Jonas El Gammal et.al.|[2211.02045v1](http://arxiv.org/abs/2211.02045v1)|**[link](https://github.com/jonaselgammal/gpry)**|
 |**2022-11-03**|**Comparison of Matsubara dynamics with exact quantum dynamics for an oscillator coupled to a dissipative bath**|Adam Prada et.al.|[2211.02042v1](http://arxiv.org/abs/2211.02042v1)|null|
 |**2022-11-03**|**Average Mixing in Quantum Walks of Reversible Markov Chains**|Julien Sorci et.al.|[2211.02037v1](http://arxiv.org/abs/2211.02037v1)|null|
