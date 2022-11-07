@@ -1,4 +1,4 @@
-> Updated on 2022.11.06
+> Updated on 2022.11.07
 
 ## SLAM
 
@@ -1506,7 +1506,7 @@
 - 2022-11-02, **RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via Submodular Partitioning**, Haoze He et.al., Paper: [http://arxiv.org/abs/2211.00839v1](http://arxiv.org/abs/2211.00839v1)
 - 2022-11-01, **Counting and Computing Join-Endomorphisms in Lattices (Revisited)**, Carlos Pinzón et.al., Paper: [http://arxiv.org/abs/2211.00781v1](http://arxiv.org/abs/2211.00781v1)
 - 2022-11-01, **Over-the-Air Computation for Distributed Systems: Something Old and Something New**, Zheng Chen et.al., Paper: [http://arxiv.org/abs/2211.00767v1](http://arxiv.org/abs/2211.00767v1)
-- 2022-11-01, **SOLAR: A Highly Optimized Data Loading Framework for Distributed Training of CNN-based Scientific Surrogates**, Baixi Sun et.al., Paper: [http://arxiv.org/abs/2211.00224v1](http://arxiv.org/abs/2211.00224v1)
+- 2022-11-04, **SOLAR: A Highly Optimized Data Loading Framework for Distributed Training of CNN-based Scientific Surrogates**, Baixi Sun et.al., Paper: [http://arxiv.org/abs/2211.00224v2](http://arxiv.org/abs/2211.00224v2)
 - 2022-10-31, **Adaptive Compression for Communication-Efficient Distributed Training**, Maksim Makarenko et.al., Paper: [http://arxiv.org/abs/2211.00188v1](http://arxiv.org/abs/2211.00188v1)
 - 2022-10-31, **Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**, Yunqi Luo et.al., Paper: [http://arxiv.org/abs/2210.17465v1](http://arxiv.org/abs/2210.17465v1)
 - 2022-10-31, **L-GreCo: An Efficient and General Framework for Layerwise-Adaptive Gradient Compression**, Mohammadreza Alimohammadi et.al., Paper: [http://arxiv.org/abs/2210.17357v1](http://arxiv.org/abs/2210.17357v1), Code: **[https://github.com/lgrco/l-greco](https://github.com/lgrco/l-greco)**
