@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.07
+## Updated on 2022.11.08
 
 ## SLAM
 
@@ -1123,7 +1123,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
-|**2022-11-04**|**Higgs Production and $H^0 \to c\overline{c}$ at a Future Muon-Ion Collider**|Pavan Ahluwalia et.al.|[2211.02615v1](http://arxiv.org/abs/2211.02615v1)|null|
+|**2022-11-07**|**Higgs Production and $H^0 \to c\overline{c}$ at a Future Muon-Ion Collider**|Pavan Ahluwalia et.al.|[2211.02615v2](http://arxiv.org/abs/2211.02615v2)|null|
 |**2022-11-04**|**Why bother with Bayesian t-tests?**|Fintan Costello et.al.|[2211.02613v1](http://arxiv.org/abs/2211.02613v1)|null|
 |**2022-11-04**|**How to Tell When a Result Will Replicate: Significance and Replication in Distributional Null Hypothesis Tests**|Fintan Costello et.al.|[2211.02609v1](http://arxiv.org/abs/2211.02609v1)|null|
 |**2022-11-04**|**Study of Intra-Day Flux Distributions of Blazars Using XMM-Newton Satellite**|Kiran Wani et.al.|[2211.02606v1](http://arxiv.org/abs/2211.02606v1)|null|
