@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-07**|**Gradient estimates for quasilinear elliptic Neumann problems with unbounded first-order terms**|Marco Cirant et.al.|[2211.03760v1](http://arxiv.org/abs/2211.03760v1)|null|
+|**2022-11-07**|**AskewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks**|Louis Leconte et.al.|[2211.03741v1](http://arxiv.org/abs/2211.03741v1)|null|
+|**2022-11-07**|**An Iterative Bidirectional Gradient Boosting Algorithm for CVR Baseline Estimation**|Han Pyo Lee et.al.|[2211.03733v1](http://arxiv.org/abs/2211.03733v1)|null|
+|**2022-11-07**|**Multi-site Reaction Dynamics Through Multi-fragment Density Matrix Embedding**|Chenghan Li et.al.|[2211.03728v1](http://arxiv.org/abs/2211.03728v1)|null|
+|**2022-11-07**|**TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition**|Lizhi Xiang et.al.|[2211.03715v1](http://arxiv.org/abs/2211.03715v1)|null|
+|**2022-11-07**|**A DNA Based Colour Image Encryption Scheme Using A Convolutional Autoencoder**|Fawad Ahmed et.al.|[2211.03662v1](http://arxiv.org/abs/2211.03662v1)|null|
+|**2022-11-07**|**Compressible Gravity-Capillary Water Waves with Vorticity: Local Well-Posedness, Incompressible and Zero-Surface-Tension Limits**|Chenyun Luo et.al.|[2211.03600v1](http://arxiv.org/abs/2211.03600v1)|null|
+|**2022-11-07**|**pyGSL: A Graph Structure Learning Toolkit**|Max Wasserman et.al.|[2211.03583v1](http://arxiv.org/abs/2211.03583v1)|**[link](https://github.com/maxwass/pygsl)**|
+|**2022-11-07**|**Can neural networks extrapolate? Discussion of a theorem by Pedro Domingos**|Adrien Courtois et.al.|[2211.03566v1](http://arxiv.org/abs/2211.03566v1)|null|
+|**2022-11-07**|**A Targeted Sampling Strategy for Compressive Cryo Focused Ion Beam Scanning Electron Microscopy**|Daniel Nicholls et.al.|[2211.03494v1](http://arxiv.org/abs/2211.03494v1)|null|
 |**2022-11-04**|**Minimizers of Nonlocal Polyconvex Energies in Nonlocal Hyperelasticity**|José C. Bellido et.al.|[2211.02640v1](http://arxiv.org/abs/2211.02640v1)|null|
 |**2022-11-04**|**Reservoir Computing via Quantum Recurrent Neural Networks**|Samuel Yen-Chi Chen et.al.|[2211.02612v1](http://arxiv.org/abs/2211.02612v1)|null|
 |**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v1](http://arxiv.org/abs/2211.02578v1)|**[link](https://github.com/aiaudit-org/raw2logit)**|
@@ -1122,6 +1132,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-07**|**A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**|Duo Xu et.al.|[2211.03781v1](http://arxiv.org/abs/2211.03781v1)|null|
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|**[link](https://github.com/maitreyapatel/cripp-vqa)**|
+|**2022-11-07**|**On the Irreducibility and Distribution of Arithmetic Divisors**|Robert Wilms et.al.|[2211.03766v1](http://arxiv.org/abs/2211.03766v1)|null|
+|**2022-11-07**|**Spatial distribution and determinants of childhood vaccination refusal in the United States**|Bokgyeong Kang et.al.|[2211.03763v1](http://arxiv.org/abs/2211.03763v1)|null|
+|**2022-11-07**|**Proper losses for discrete generative models**|Rafael Frongillo et.al.|[2211.03761v1](http://arxiv.org/abs/2211.03761v1)|null|
+|**2022-11-07**|**Discrete Distribution Estimation under User-level Local Differential Privacy**|Jayadev Acharya et.al.|[2211.03757v1](http://arxiv.org/abs/2211.03757v1)|null|
+|**2022-11-07**|**Spectral Independence Beyond Uniqueness using the topological method**|Charilaos Efthymiou et.al.|[2211.03753v1](http://arxiv.org/abs/2211.03753v1)|null|
+|**2022-11-07**|**On renewal theory for cluster processes**|Bojan Basrak et.al.|[2211.03749v1](http://arxiv.org/abs/2211.03749v1)|null|
+|**2022-11-07**|**Monte Carlo Techniques for Addressing Large Errors and Missing Data in Simulation-based Inference**|Bingjie Wang et.al.|[2211.03747v1](http://arxiv.org/abs/2211.03747v1)|null|
+|**2022-11-07**|**First Measurement of Differential Cross Sections for Muon Neutrino Charged Current Interactions on Argon with a Two-proton Final State in the MicroBooNE Detector**|MicroBooNE collaboration et.al.|[2211.03734v1](http://arxiv.org/abs/2211.03734v1)|null|
 |**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
 |**2022-11-07**|**Higgs Production and $H^0 \to c\overline{c}$ at a Future Muon-Ion Collider**|Pavan Ahluwalia et.al.|[2211.02615v2](http://arxiv.org/abs/2211.02615v2)|null|
 |**2022-11-04**|**Why bother with Bayesian t-tests?**|Fintan Costello et.al.|[2211.02613v1](http://arxiv.org/abs/2211.02613v1)|null|
@@ -1637,6 +1657,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-07**|**DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**|Newsha Ardalani et.al.|[2211.03309v1](http://arxiv.org/abs/2211.03309v1)|null|
+|**2022-11-07**|**HFedMS: Heterogeneous Federated Learning with Memorable Data Semantics in Industrial Metaverse**|Shenglai Zeng et.al.|[2211.03300v1](http://arxiv.org/abs/2211.03300v1)|null|
+|**2022-11-06**|**Deliberation Networks and How to Train Them**|Qingyun Dou et.al.|[2211.03217v1](http://arxiv.org/abs/2211.03217v1)|null|
+|**2022-11-05**|**Cyber-physical interdependent restoration scheduling for active distribution network via ad hoc wireless communication**|Chongyu Wang et.al.|[2211.02819v1](http://arxiv.org/abs/2211.02819v1)|null|
 |**2022-11-03**|**Edge, Fog, and Cloud Computing : An Overview on Challenges and Applications**|Thong Vo et.al.|[2211.01863v1](http://arxiv.org/abs/2211.01863v1)|null|
 |**2022-11-03**|**iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud**|Fei Xu et.al.|[2211.01713v1](http://arxiv.org/abs/2211.01713v1)|**[link](https://github.com/icloud-ecnu/igniter)**|
 |**2022-11-03**|**Out-of-Things Debugging: A Live Debugging Approach for Internet of Things**|Carlos Rojas Castillo et.al.|[2211.01679v1](http://arxiv.org/abs/2211.01679v1)|null|
