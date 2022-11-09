@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-11-08, **Microprocessor Design with Dynamic Clock Source and Multi-Width Instructions**, Keyu Chen et.al., Paper: [http://arxiv.org/abs/2211.04455v1](http://arxiv.org/abs/2211.04455v1)
+- 2022-11-08, **Continuous Isotropic-Nematic transition in compressed rod-like based nanocolloid**, Joanna Łoś et.al., Paper: [http://arxiv.org/abs/2211.04432v1](http://arxiv.org/abs/2211.04432v1)
+- 2022-11-08, **Black Box Lie Group Preconditioners for SGD**, Xilin Li et.al., Paper: [http://arxiv.org/abs/2211.04422v1](http://arxiv.org/abs/2211.04422v1)
+- 2022-11-08, **Individualized and Global Feature Attributions for Gradient Boosted Trees in the Presence of $\ell_2$ Regularization**, Qingyao Sun et.al., Paper: [http://arxiv.org/abs/2211.04409v1](http://arxiv.org/abs/2211.04409v1), Code: **[https://github.com/nalzok/treeinner](https://github.com/nalzok/treeinner)**
+- 2022-11-08, **Why we couldn't prove SETH hardness of the Closest Vector Problem for even norms, and of the Subset Sum Problem!**, Divesh Aggarwal et.al., Paper: [http://arxiv.org/abs/2211.04385v1](http://arxiv.org/abs/2211.04385v1)
+- 2022-11-08, **A Unified Framework for Continuous-time Unconstrained Distributed Optimization**, Behrouz Touri et.al., Paper: [http://arxiv.org/abs/2211.04358v1](http://arxiv.org/abs/2211.04358v1)
+- 2022-11-08, **Geometric Constellation Shaping for Fiber-Optic Channels via End-to-End Learning**, Ognjen Jovanovic et.al., Paper: [http://arxiv.org/abs/2211.04311v1](http://arxiv.org/abs/2211.04311v1)
+- 2022-11-08, **Radially Symmetric Non-isentropic Euler flows: continuous blowup with positive pressure**, Helge Kristian Jenssen et.al., Paper: [http://arxiv.org/abs/2211.04309v1](http://arxiv.org/abs/2211.04309v1)
+- 2022-11-08, **Microwave-assisted thermoelectricity in SIS' tunnel junctions**, A. Hijano et.al., Paper: [http://arxiv.org/abs/2211.04288v1](http://arxiv.org/abs/2211.04288v1)
+- 2022-11-08, **Efficient Compressed Ratio Estimation using Online Sequential Learning for Edge Computing**, Hiroki Oikawa et.al., Paper: [http://arxiv.org/abs/2211.04284v1](http://arxiv.org/abs/2211.04284v1)
 - 2022-11-07, **Gradient estimates for quasilinear elliptic Neumann problems with unbounded first-order terms**, Marco Cirant et.al., Paper: [http://arxiv.org/abs/2211.03760v1](http://arxiv.org/abs/2211.03760v1)
 - 2022-11-07, **AskewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks**, Louis Leconte et.al., Paper: [http://arxiv.org/abs/2211.03741v1](http://arxiv.org/abs/2211.03741v1)
 - 2022-11-07, **An Iterative Bidirectional Gradient Boosting Algorithm for CVR Baseline Estimation**, Han Pyo Lee et.al., Paper: [http://arxiv.org/abs/2211.03733v1](http://arxiv.org/abs/2211.03733v1)
@@ -1017,6 +1027,16 @@
 
 ## Distributed Training
 
+- 2022-11-08, **Sampling from convex sets with a cold start using multiscale decompositions**, Hariharan Narayanan et.al., Paper: [http://arxiv.org/abs/2211.04439v1](http://arxiv.org/abs/2211.04439v1)
+- 2022-11-08, **Non-singlet quark helicity PDFs of the nucleon from pseudo-distributions**, Robert G. Edwards et.al., Paper: [http://arxiv.org/abs/2211.04434v1](http://arxiv.org/abs/2211.04434v1)
+- 2022-11-08, **An Energy-Based Lengthscale for Reduced Order Models of Turbulent Flows**, Changhong Mou et.al., Paper: [http://arxiv.org/abs/2211.04404v1](http://arxiv.org/abs/2211.04404v1)
+- 2022-11-08, **Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**, Qi Fan et.al., Paper: [http://arxiv.org/abs/2211.04393v1](http://arxiv.org/abs/2211.04393v1)
+- 2022-11-08, **Reduced Order Probabilistic Emulation for Physics-Based Thermosphere Models**, Richard J. Licata et.al., Paper: [http://arxiv.org/abs/2211.04392v1](http://arxiv.org/abs/2211.04392v1), Code: **[https://github.com/rjlicata/tie-gcm_rope_preprint](https://github.com/rjlicata/tie-gcm_rope_preprint)**
+- 2022-11-08, **Self-buckling and self-writhing of semi-flexible microorganisms**, Wilson Lough et.al., Paper: [http://arxiv.org/abs/2211.04381v1](http://arxiv.org/abs/2211.04381v1)
+- 2022-11-08, **Strong-Lensing Source Reconstruction with Denoising Diffusion Restoration Models**, Konstantin Karchev et.al., Paper: [http://arxiv.org/abs/2211.04365v1](http://arxiv.org/abs/2211.04365v1)
+- 2022-11-08, **NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries?**, Saadia Gabriel et.al., Paper: [http://arxiv.org/abs/2211.04364v1](http://arxiv.org/abs/2211.04364v1)
+- 2022-11-08, **A Unified Framework for Continuous-time Unconstrained Distributed Optimization**, Behrouz Touri et.al., Paper: [http://arxiv.org/abs/2211.04358v1](http://arxiv.org/abs/2211.04358v1)
+- 2022-11-08, **Demultiplexed Single-Photon Source with a Quantum Dot Coupled to Microresonator**, M. V. Rakhlin et.al., Paper: [http://arxiv.org/abs/2211.04356v1](http://arxiv.org/abs/2211.04356v1)
 - 2022-11-07, **A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**, Duo Xu et.al., Paper: [http://arxiv.org/abs/2211.03781v1](http://arxiv.org/abs/2211.03781v1)
 - 2022-11-07, **CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**, Maitreya Patel et.al., Paper: [http://arxiv.org/abs/2211.03779v1](http://arxiv.org/abs/2211.03779v1), Code: **[https://github.com/maitreyapatel/cripp-vqa](https://github.com/maitreyapatel/cripp-vqa)**
 - 2022-11-07, **On the Irreducibility and Distribution of Arithmetic Divisors**, Robert Wilms et.al., Paper: [http://arxiv.org/abs/2211.03766v1](http://arxiv.org/abs/2211.03766v1)
@@ -1540,6 +1560,9 @@
 
 ## Distributed Deep Learning
 
+- 2022-11-08, **Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design**, Yuchang Sun et.al., Paper: [http://arxiv.org/abs/2211.04132v1](http://arxiv.org/abs/2211.04132v1)
+- 2022-11-08, **Simulation-Based Parallel Training**, Lucas Meyer et.al., Paper: [http://arxiv.org/abs/2211.04119v1](http://arxiv.org/abs/2211.04119v1)
+- 2022-11-08, **Distributed Computing for Scalable Optimal Power Flow in Large Radial Electric Power Distribution Systems with Distributed Energy Resources**, Rabayet Sadnan et.al., Paper: [http://arxiv.org/abs/2211.03920v1](http://arxiv.org/abs/2211.03920v1)
 - 2022-11-07, **DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**, Newsha Ardalani et.al., Paper: [http://arxiv.org/abs/2211.03309v1](http://arxiv.org/abs/2211.03309v1)
 - 2022-11-07, **HFedMS: Heterogeneous Federated Learning with Memorable Data Semantics in Industrial Metaverse**, Shenglai Zeng et.al., Paper: [http://arxiv.org/abs/2211.03300v1](http://arxiv.org/abs/2211.03300v1), Code: **[https://github.com/slz-ai/hfedms](https://github.com/slz-ai/hfedms)**
 - 2022-11-06, **Deliberation Networks and How to Train Them**, Qingyun Dou et.al., Paper: [http://arxiv.org/abs/2211.03217v1](http://arxiv.org/abs/2211.03217v1)
