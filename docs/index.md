@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.09
+## Updated on 2022.11.10
 
 ## SLAM
 
@@ -1145,7 +1145,7 @@ layout: default
 |**2022-11-08**|**Sampling from convex sets with a cold start using multiscale decompositions**|Hariharan Narayanan et.al.|[2211.04439v1](http://arxiv.org/abs/2211.04439v1)|null|
 |**2022-11-08**|**Non-singlet quark helicity PDFs of the nucleon from pseudo-distributions**|Robert G. Edwards et.al.|[2211.04434v1](http://arxiv.org/abs/2211.04434v1)|null|
 |**2022-11-08**|**An Energy-Based Lengthscale for Reduced Order Models of Turbulent Flows**|Changhong Mou et.al.|[2211.04404v1](http://arxiv.org/abs/2211.04404v1)|null|
-|**2022-11-08**|**Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**|Qi Fan et.al.|[2211.04393v1](http://arxiv.org/abs/2211.04393v1)|null|
+|**2022-11-09**|**Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts**|Qi Fan et.al.|[2211.04393v2](http://arxiv.org/abs/2211.04393v2)|null|
 |**2022-11-08**|**Reduced Order Probabilistic Emulation for Physics-Based Thermosphere Models**|Richard J. Licata et.al.|[2211.04392v1](http://arxiv.org/abs/2211.04392v1)|**[link](https://github.com/rjlicata/tie-gcm_rope_preprint)**|
 |**2022-11-08**|**Self-buckling and self-writhing of semi-flexible microorganisms**|Wilson Lough et.al.|[2211.04381v1](http://arxiv.org/abs/2211.04381v1)|null|
 |**2022-11-08**|**Strong-Lensing Source Reconstruction with Denoising Diffusion Restoration Models**|Konstantin Karchev et.al.|[2211.04365v1](http://arxiv.org/abs/2211.04365v1)|null|
