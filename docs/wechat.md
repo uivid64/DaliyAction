@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-11-09, **A Note on Task-Aware Loss via Reweighing Prediction Loss by Decision-Regret**, Connor Lawless et.al., Paper: [http://arxiv.org/abs/2211.05116v1](http://arxiv.org/abs/2211.05116v1)
+- 2022-11-09, **Interfacing picosecond and nanosecond quantum light pulses**, Filip Sośnicki et.al., Paper: [http://arxiv.org/abs/2211.05112v1](http://arxiv.org/abs/2211.05112v1)
+- 2022-11-09, **Automated Learning: An Implementation of The A* Search Algorithm over The Random Base Functions**, Nima Tatari et.al., Paper: [http://arxiv.org/abs/2211.05085v1](http://arxiv.org/abs/2211.05085v1)
+- 2022-11-09, **Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**, JieFeng Chen et.al., Paper: [http://arxiv.org/abs/2211.05064v1](http://arxiv.org/abs/2211.05064v1)
+- 2022-11-09, **The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**, Matthew Aquilina et.al., Paper: [http://arxiv.org/abs/2211.05018v1](http://arxiv.org/abs/2211.05018v1), Code: **[https://github.com/um-dsrg/rumpy](https://github.com/um-dsrg/rumpy)**
+- 2022-11-09, **Band alignment study at the $SrTaO_2N/H_2O$ interface varying lattice constants and surface termination from first-principles calculations**, R. C. Bastidas Briceño et.al., Paper: [http://arxiv.org/abs/2211.04997v1](http://arxiv.org/abs/2211.04997v1)
+- 2022-11-09, **A Nearly Time-Optimal Distributed Approximation of Minimum Cost $k$-Edge-Connected Spanning Subgraph**, Michal Dory et.al., Paper: [http://arxiv.org/abs/2211.04994v1](http://arxiv.org/abs/2211.04994v1)
+- 2022-11-09, **Accelerating Adversarial Perturbation by 50% with Semi-backward Propagation**, Zhiqi Bu et.al., Paper: [http://arxiv.org/abs/2211.04973v1](http://arxiv.org/abs/2211.04973v1)
+- 2022-11-09, **Resource frugal optimizer for quantum machine learning**, Charles Moussa et.al., Paper: [http://arxiv.org/abs/2211.04965v1](http://arxiv.org/abs/2211.04965v1)
+- 2022-11-09, **Stochastic Differential Equations with Local Growth Singular Drifts**, Wenjie Ye et.al., Paper: [http://arxiv.org/abs/2211.04845v1](http://arxiv.org/abs/2211.04845v1)
 - 2022-11-08, **Microprocessor Design with Dynamic Clock Source and Multi-Width Instructions**, Keyu Chen et.al., Paper: [http://arxiv.org/abs/2211.04455v1](http://arxiv.org/abs/2211.04455v1)
 - 2022-11-08, **Continuous Isotropic-Nematic transition in compressed rod-like based nanocolloid**, Joanna Łoś et.al., Paper: [http://arxiv.org/abs/2211.04432v1](http://arxiv.org/abs/2211.04432v1)
 - 2022-11-08, **Black Box Lie Group Preconditioners for SGD**, Xilin Li et.al., Paper: [http://arxiv.org/abs/2211.04422v1](http://arxiv.org/abs/2211.04422v1)
@@ -1027,6 +1037,16 @@
 
 ## Distributed Training
 
+- 2022-11-09, **Coupling Semi-Analytic and N-body Galaxies (CoSANG) for cosmological stellar halo simulations I- Methods and the structure of dark matter halos**, Shahram Talei et.al., Paper: [http://arxiv.org/abs/2211.05107v1](http://arxiv.org/abs/2211.05107v1)
+- 2022-11-09, **Particle Flow Gaussian Sum Particle Filter**, Karthik Comandur et.al., Paper: [http://arxiv.org/abs/2211.05104v1](http://arxiv.org/abs/2211.05104v1)
+- 2022-11-09, **Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**, Wieslaw M. Macek et.al., Paper: [http://arxiv.org/abs/2211.05098v1](http://arxiv.org/abs/2211.05098v1)
+- 2022-11-09, **Tamm plasmon polariton in planar structures: A brief overview and applications**, Chinmaya Kar et.al., Paper: [http://arxiv.org/abs/2211.05095v1](http://arxiv.org/abs/2211.05095v1)
+- 2022-11-09, **Clinical Contrastive Learning for Biomarker Detection**, Kiran Kokilepersaud et.al., Paper: [http://arxiv.org/abs/2211.05092v1](http://arxiv.org/abs/2211.05092v1)
+- 2022-11-09, **A closer look at the seesaw-dark matter correspondence**, Rupert Coy et.al., Paper: [http://arxiv.org/abs/2211.05091v1](http://arxiv.org/abs/2211.05091v1)
+- 2022-11-09, **Statistical recovery of 21cm visibilities and their power spectra with Gaussian constrained realisations and Gibbs sampling**, Fraser Kennedy et.al., Paper: [http://arxiv.org/abs/2211.05088v1](http://arxiv.org/abs/2211.05088v1)
+- 2022-11-09, **Assessment of kinetic theories for moderately dense granular binary mixtures: Shear viscosity coefficient**, Moisés García Chamorro et.al., Paper: [http://arxiv.org/abs/2211.05084v1](http://arxiv.org/abs/2211.05084v1)
+- 2022-11-09, **On the coefficients of $q$-series and modular forms**, William Craig et.al., Paper: [http://arxiv.org/abs/2211.05072v1](http://arxiv.org/abs/2211.05072v1)
+- 2022-11-09, **A Diffeomorphic Flow-based Variational Framework for Multi-speaker Emotion Conversion**, Ravi Shankar et.al., Paper: [http://arxiv.org/abs/2211.05071v1](http://arxiv.org/abs/2211.05071v1)
 - 2022-11-08, **Sampling from convex sets with a cold start using multiscale decompositions**, Hariharan Narayanan et.al., Paper: [http://arxiv.org/abs/2211.04439v1](http://arxiv.org/abs/2211.04439v1)
 - 2022-11-08, **Non-singlet quark helicity PDFs of the nucleon from pseudo-distributions**, Robert G. Edwards et.al., Paper: [http://arxiv.org/abs/2211.04434v1](http://arxiv.org/abs/2211.04434v1)
 - 2022-11-08, **An Energy-Based Lengthscale for Reduced Order Models of Turbulent Flows**, Changhong Mou et.al., Paper: [http://arxiv.org/abs/2211.04404v1](http://arxiv.org/abs/2211.04404v1)
@@ -1560,6 +1580,7 @@
 
 ## Distributed Deep Learning
 
+- 2022-11-09, **A Capability-based Distributed Authorization System to Enforce Context-aware Permission Sequences**, Adrian Shuai Li et.al., Paper: [http://arxiv.org/abs/2211.04980v1](http://arxiv.org/abs/2211.04980v1)
 - 2022-11-08, **Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design**, Yuchang Sun et.al., Paper: [http://arxiv.org/abs/2211.04132v1](http://arxiv.org/abs/2211.04132v1)
 - 2022-11-08, **Simulation-Based Parallel Training**, Lucas Meyer et.al., Paper: [http://arxiv.org/abs/2211.04119v1](http://arxiv.org/abs/2211.04119v1)
 - 2022-11-08, **Distributed Computing for Scalable Optimal Power Flow in Large Radial Electric Power Distribution Systems with Distributed Energy Resources**, Rabayet Sadnan et.al., Paper: [http://arxiv.org/abs/2211.03920v1](http://arxiv.org/abs/2211.03920v1)
