@@ -1,4 +1,4 @@
-## Updated on 2022.11.10
+## Updated on 2022.11.11
 
 ## SLAM
 
@@ -603,11 +603,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-09**|**A Note on Task-Aware Loss via Reweighing Prediction Loss by Decision-Regret**|Connor Lawless et.al.|[2211.05116v1](http://arxiv.org/abs/2211.05116v1)|null|
+|**2022-11-09**|**A Note on Task-Aware Loss via Reweighing Prediction Loss by Decision-Regret**|Connor Lawless et.al.|[2211.05116v1](http://arxiv.org/abs/2211.05116v1)|**[link](https://github.com/angelamzhou/opt-milp-taskloss)**|
 |**2022-11-09**|**Interfacing picosecond and nanosecond quantum light pulses**|Filip Sośnicki et.al.|[2211.05112v1](http://arxiv.org/abs/2211.05112v1)|null|
 |**2022-11-09**|**Automated Learning: An Implementation of The A* Search Algorithm over The Random Base Functions**|Nima Tatari et.al.|[2211.05085v1](http://arxiv.org/abs/2211.05085v1)|null|
-|**2022-11-09**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v1](http://arxiv.org/abs/2211.05064v1)|null|
-|**2022-11-09**|**The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**|Matthew Aquilina et.al.|[2211.05018v1](http://arxiv.org/abs/2211.05018v1)|**[link](https://github.com/um-dsrg/rumpy)**|
+|**2022-11-10**|**Test of Artificial Neural Networks in Likelihood-free Cosmological Constraints: A Comparison of IMNN and DAE**|JieFeng Chen et.al.|[2211.05064v2](http://arxiv.org/abs/2211.05064v2)|null|
+|**2022-11-09**|**The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**|Matthew Aquilina et.al.|[2211.05018v1](http://arxiv.org/abs/2211.05018v1)|null|
 |**2022-11-09**|**Band alignment study at the $SrTaO_2N/H_2O$ interface varying lattice constants and surface termination from first-principles calculations**|R. C. Bastidas Briceño et.al.|[2211.04997v1](http://arxiv.org/abs/2211.04997v1)|null|
 |**2022-11-09**|**A Nearly Time-Optimal Distributed Approximation of Minimum Cost $k$-Edge-Connected Spanning Subgraph**|Michal Dory et.al.|[2211.04994v1](http://arxiv.org/abs/2211.04994v1)|null|
 |**2022-11-09**|**Accelerating Adversarial Perturbation by 50% with Semi-backward Propagation**|Zhiqi Bu et.al.|[2211.04973v1](http://arxiv.org/abs/2211.04973v1)|null|
@@ -1697,7 +1697,7 @@
 |**2022-11-08**|**Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design**|Yuchang Sun et.al.|[2211.04132v1](http://arxiv.org/abs/2211.04132v1)|null|
 |**2022-11-08**|**Simulation-Based Parallel Training**|Lucas Meyer et.al.|[2211.04119v1](http://arxiv.org/abs/2211.04119v1)|null|
 |**2022-11-08**|**Distributed Computing for Scalable Optimal Power Flow in Large Radial Electric Power Distribution Systems with Distributed Energy Resources**|Rabayet Sadnan et.al.|[2211.03920v1](http://arxiv.org/abs/2211.03920v1)|null|
-|**2022-11-07**|**DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**|Newsha Ardalani et.al.|[2211.03309v1](http://arxiv.org/abs/2211.03309v1)|null|
+|**2022-11-07**|**DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**|Newsha Ardalani et.al.|[2211.03309v1](http://arxiv.org/abs/2211.03309v1)|**[link](https://github.com/nanocad-lab/deepflow)**|
 |**2022-11-07**|**HFedMS: Heterogeneous Federated Learning with Memorable Data Semantics in Industrial Metaverse**|Shenglai Zeng et.al.|[2211.03300v1](http://arxiv.org/abs/2211.03300v1)|**[link](https://github.com/slz-ai/hfedms)**|
 |**2022-11-06**|**Deliberation Networks and How to Train Them**|Qingyun Dou et.al.|[2211.03217v1](http://arxiv.org/abs/2211.03217v1)|null|
 |**2022-11-05**|**Cyber-physical interdependent restoration scheduling for active distribution network via ad hoc wireless communication**|Chongyu Wang et.al.|[2211.02819v1](http://arxiv.org/abs/2211.02819v1)|null|
