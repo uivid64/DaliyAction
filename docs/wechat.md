@@ -494,6 +494,16 @@
 
 ## Gradient Compression
 
+- 2022-11-10, **Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**, Jocelyn T. Chi et.al., Paper: [http://arxiv.org/abs/2211.05749v1](http://arxiv.org/abs/2211.05749v1)
+- 2022-11-10, **How Does Sharpness-Aware Minimization Minimize Sharpness?**, Kaiyue Wen et.al., Paper: [http://arxiv.org/abs/2211.05729v1](http://arxiv.org/abs/2211.05729v1)
+- 2022-11-10, **Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks**, Maarten Terpstra et.al., Paper: [http://arxiv.org/abs/2211.05678v1](http://arxiv.org/abs/2211.05678v1)
+- 2022-11-10, **Mapping the Milky Way Disk with GAIA DR3: 3D extended kinematic maps and rotation curve to $\approx 30$ kpc**, Hai-Feng Wang et.al., Paper: [http://arxiv.org/abs/2211.05668v1](http://arxiv.org/abs/2211.05668v1)
+- 2022-11-10, **Regression as Classification: Influence of Task Formulation on Neural Network Features**, Lawrence Stewart et.al., Paper: [http://arxiv.org/abs/2211.05641v1](http://arxiv.org/abs/2211.05641v1)
+- 2022-11-10, **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning**, Mohsen Fayyaz et.al., Paper: [http://arxiv.org/abs/2211.05610v1](http://arxiv.org/abs/2211.05610v1)
+- 2022-11-10, **Optimal estimate of field concentration between multiscale nearly-touching inclusions for 3-D Helmholtz system**, Youjun Deng et.al., Paper: [http://arxiv.org/abs/2211.05609v1](http://arxiv.org/abs/2211.05609v1)
+- 2022-11-10, **Utilizing the slope of the brightness temperature continuum as a diagnostic tool of solar ALMA observations**, Henrik Eklund et.al., Paper: [http://arxiv.org/abs/2211.05586v1](http://arxiv.org/abs/2211.05586v1)
+- 2022-11-10, **Chromospheric thermodynamic conditions from inversions of complex Mg II h&k profiles observed in flares**, Alberto Sainz Dalda et.al., Paper: [http://arxiv.org/abs/2211.05459v1](http://arxiv.org/abs/2211.05459v1)
+- 2022-11-10, **A framework for high-fidelity particle tracking on massively parallel systems**, Patrick Kopper et.al., Paper: [http://arxiv.org/abs/2211.05458v1](http://arxiv.org/abs/2211.05458v1)
 - 2022-11-09, **A Note on Task-Aware Loss via Reweighing Prediction Loss by Decision-Regret**, Connor Lawless et.al., Paper: [http://arxiv.org/abs/2211.05116v1](http://arxiv.org/abs/2211.05116v1), Code: **[https://github.com/angelamzhou/opt-milp-taskloss](https://github.com/angelamzhou/opt-milp-taskloss)**
 - 2022-11-09, **Interfacing picosecond and nanosecond quantum light pulses**, Filip Sośnicki et.al., Paper: [http://arxiv.org/abs/2211.05112v1](http://arxiv.org/abs/2211.05112v1)
 - 2022-11-09, **Automated Learning: An Implementation of The A* Search Algorithm over The Random Base Functions**, Nima Tatari et.al., Paper: [http://arxiv.org/abs/2211.05085v1](http://arxiv.org/abs/2211.05085v1)
@@ -1037,6 +1047,16 @@
 
 ## Distributed Training
 
+- 2022-11-10, **The Randomized $k$-Server Conjecture is False!**, Sébastien Bubeck et.al., Paper: [http://arxiv.org/abs/2211.05753v1](http://arxiv.org/abs/2211.05753v1)
+- 2022-11-10, **Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2211.05750v1](http://arxiv.org/abs/2211.05750v1), Code: **[https://github.com/sfanxiang/nano](https://github.com/sfanxiang/nano)**
+- 2022-11-10, **Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**, Denis Burgarella et.al., Paper: [http://arxiv.org/abs/2211.05744v1](http://arxiv.org/abs/2211.05744v1)
+- 2022-11-10, **MIGHTEE: Deep 1.4 GHz Source Counts and the Sky Temperature Contribution of Star Forming Galaxies and Active Galactic Nuclei**, C. L. Hale et.al., Paper: [http://arxiv.org/abs/2211.05741v1](http://arxiv.org/abs/2211.05741v1)
+- 2022-11-10, **4H-SiC Schottky diode radiation hardness assessment by IBIC microscopy**, Ettore Vittone et.al., Paper: [http://arxiv.org/abs/2211.05740v1](http://arxiv.org/abs/2211.05740v1)
+- 2022-11-10, **FedLesScan: Mitigating Stragglers in Serverless Federated Learning**, Mohamed Elzohairy et.al., Paper: [http://arxiv.org/abs/2211.05739v1](http://arxiv.org/abs/2211.05739v1)
+- 2022-11-10, **Quantum key distribution rates from semidefinite programming**, Mateus Araújo et.al., Paper: [http://arxiv.org/abs/2211.05725v1](http://arxiv.org/abs/2211.05725v1)
+- 2022-11-10, **Early Performance Results on 4th Gen Intel(R) Xeon (R) Scalable Processors with DDR and Intel(R) Xeon(R) processors, codenamed Sapphire Rapids with HBM**, Galen M. Shipman et.al., Paper: [http://arxiv.org/abs/2211.05712v1](http://arxiv.org/abs/2211.05712v1)
+- 2022-11-10, **Realization of a multi-output quantum pulse gate for decoding high-dimensional temporal modes of single-photon states**, Laura Serino et.al., Paper: [http://arxiv.org/abs/2211.05693v1](http://arxiv.org/abs/2211.05693v1)
+- 2022-11-10, **Probabilistic amplitude shaping for continuous-variable quantum key distribution with discrete modulation**, Michele N. Notarnicola et.al., Paper: [http://arxiv.org/abs/2211.05688v1](http://arxiv.org/abs/2211.05688v1)
 - 2022-11-09, **Coupling Semi-Analytic and N-body Galaxies (CoSANG) for cosmological stellar halo simulations I- Methods and the structure of dark matter halos**, Shahram Talei et.al., Paper: [http://arxiv.org/abs/2211.05107v1](http://arxiv.org/abs/2211.05107v1)
 - 2022-11-09, **Particle Flow Gaussian Sum Particle Filter**, Karthik Comandur et.al., Paper: [http://arxiv.org/abs/2211.05104v1](http://arxiv.org/abs/2211.05104v1)
 - 2022-11-09, **Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**, Wieslaw M. Macek et.al., Paper: [http://arxiv.org/abs/2211.05098v1](http://arxiv.org/abs/2211.05098v1)
@@ -1580,6 +1600,10 @@
 
 ## Distributed Deep Learning
 
+- 2022-11-10, **FedLesScan: Mitigating Stragglers in Serverless Federated Learning**, Mohamed Elzohairy et.al., Paper: [http://arxiv.org/abs/2211.05739v1](http://arxiv.org/abs/2211.05739v1)
+- 2022-11-10, **Generalized Wardrop Equilibrium for Charging Station Selection and Route Choice of Electric Vehicles in Joint Power Distribution and Transportation Networks**, Babak Ghaffarzadeh Bakhshayesh et.al., Paper: [http://arxiv.org/abs/2211.05635v1](http://arxiv.org/abs/2211.05635v1)
+- 2022-11-10, **DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**, Nikhil Bansal et.al., Paper: [http://arxiv.org/abs/2211.05429v1](http://arxiv.org/abs/2211.05429v1)
+- 2022-11-10, **A Comprehensive Survey on Distributed Training of Graph Neural Networks**, Haiyang Lin et.al., Paper: [http://arxiv.org/abs/2211.05368v1](http://arxiv.org/abs/2211.05368v1)
 - 2022-11-09, **A Capability-based Distributed Authorization System to Enforce Context-aware Permission Sequences**, Adrian Shuai Li et.al., Paper: [http://arxiv.org/abs/2211.04980v1](http://arxiv.org/abs/2211.04980v1)
 - 2022-11-08, **Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design**, Yuchang Sun et.al., Paper: [http://arxiv.org/abs/2211.04132v1](http://arxiv.org/abs/2211.04132v1)
 - 2022-11-08, **Simulation-Based Parallel Training**, Lucas Meyer et.al., Paper: [http://arxiv.org/abs/2211.04119v1](http://arxiv.org/abs/2211.04119v1)
