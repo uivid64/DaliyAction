@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Using machine learning to compress the matter transfer function $T(k)$**|J. Bayron Orjuela-Quintana et.al.|[2211.06393v1](http://arxiv.org/abs/2211.06393v1)|null|
+|**2022-11-11**|**Online Signal Recovery via Heavy Ball Kaczmarz**|Benjamin Jarman et.al.|[2211.06391v1](http://arxiv.org/abs/2211.06391v1)|null|
+|**2022-11-11**|**Enhancing and Adversarial: Improve ASR with Speaker Labels**|Wei Zhou et.al.|[2211.06369v1](http://arxiv.org/abs/2211.06369v1)|null|
+|**2022-11-11**|**A numerical investigation of dimensionless numbers characterizing meltpool morphology of the laser powder bed fusion process**|Kunal Bhagat et.al.|[2211.06312v1](http://arxiv.org/abs/2211.06312v1)|null|
+|**2022-11-11**|**Emergence of universal scaling in isotropic turbulence**|Sualeh Khurshid et.al.|[2211.06307v1](http://arxiv.org/abs/2211.06307v1)|null|
+|**2022-11-11**|**Assessing passive scalar dynamics in bubble-induced turbulence using DNS**|Niklas Hidman et.al.|[2211.06293v1](http://arxiv.org/abs/2211.06293v1)|null|
+|**2022-11-11**|**Distributed Projected Gradient Descent for Convex Optimization with Clique-wise Coupled Constraints**|Yuto Watanabe et.al.|[2211.06284v1](http://arxiv.org/abs/2211.06284v1)|null|
+|**2022-11-11**|**Multitask Learning for Improved Late Mechanical Activation Detection of Heart from Cine DENSE MRI**|Jiarui Xing et.al.|[2211.06238v1](http://arxiv.org/abs/2211.06238v1)|null|
+|**2022-11-11**|**Global small solutions to the 3D compressible viscous non-resistive MHD system**|Jiahong Wu et.al.|[2211.06231v1](http://arxiv.org/abs/2211.06231v1)|null|
+|**2022-11-11**|**Multiscale Optimization via Enhanced Multilevel PCA-based Control Space Reduction for Electrical Impedance Tomography Imaging**|Maria M. F. M. Chun et.al.|[2211.06227v1](http://arxiv.org/abs/2211.06227v1)|null|
 |**2022-11-10**|**Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**|Jocelyn T. Chi et.al.|[2211.05749v1](http://arxiv.org/abs/2211.05749v1)|null|
 |**2022-11-10**|**How Does Sharpness-Aware Minimization Minimize Sharpness?**|Kaiyue Wen et.al.|[2211.05729v1](http://arxiv.org/abs/2211.05729v1)|null|
 |**2022-11-10**|**Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks**|Maarten Terpstra et.al.|[2211.05678v1](http://arxiv.org/abs/2211.05678v1)|null|
@@ -1158,6 +1168,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**On the Infinite Variance Problem in Fermion Models**|Andrei Alexandru et.al.|[2211.06419v1](http://arxiv.org/abs/2211.06419v1)|null|
+|**2022-11-11**|**Online Signal Recovery via Heavy Ball Kaczmarz**|Benjamin Jarman et.al.|[2211.06391v1](http://arxiv.org/abs/2211.06391v1)|null|
+|**2022-11-11**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
+|**2022-11-11**|**Close TNO Passages as a Driver of the Origin and Evolution of Ultra-Wide Kuiper Belt Binaries**|Hunter M. Campbell et.al.|[2211.06383v1](http://arxiv.org/abs/2211.06383v1)|null|
+|**2022-11-11**|**Parallelization of Garfield++ and neBEM to simulate space charge effects in RPCs**|Tanay Dey et.al.|[2211.06361v1](http://arxiv.org/abs/2211.06361v1)|null|
+|**2022-11-11**|**Differentially Private Methods for Compositional Data**|Qi Guo et.al.|[2211.06337v1](http://arxiv.org/abs/2211.06337v1)|null|
+|**2022-11-11**|**A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs**|Claudia Vanea et.al.|[2211.06292v1](http://arxiv.org/abs/2211.06292v1)|**[link](https://github.com/nellaker-group/placenta)**|
+|**2022-11-11**|**Do Bayesian Neural Networks Need To Be Fully Stochastic?**|Mrinank Sharma et.al.|[2211.06291v1](http://arxiv.org/abs/2211.06291v1)|null|
+|**2022-11-11**|**Distributed Projected Gradient Descent for Convex Optimization with Clique-wise Coupled Constraints**|Yuto Watanabe et.al.|[2211.06284v1](http://arxiv.org/abs/2211.06284v1)|null|
+|**2022-11-11**|**A variational atomic model of plasma accounting for ion radial correlations and electronic structure of ions (VAMPIRES)**|T. Blenski et.al.|[2211.06258v1](http://arxiv.org/abs/2211.06258v1)|null|
 |**2022-11-10**|**The Randomized $k$-Server Conjecture is False!**|Sébastien Bubeck et.al.|[2211.05753v1](http://arxiv.org/abs/2211.05753v1)|null|
 |**2022-11-10**|**Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control**|Xiang Fan et.al.|[2211.05750v1](http://arxiv.org/abs/2211.05750v1)|**[link](https://github.com/sfanxiang/nano)**|
 |**2022-11-10**|**Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**|Denis Burgarella et.al.|[2211.05744v1](http://arxiv.org/abs/2211.05744v1)|null|
@@ -1713,6 +1733,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Physically Consistent Neural ODEs for Learning Multi-Physics Systems**|Muhammad Zakwan et.al.|[2211.06130v1](http://arxiv.org/abs/2211.06130v1)|null|
 |**2022-11-10**|**FedLesScan: Mitigating Stragglers in Serverless Federated Learning**|Mohamed Elzohairy et.al.|[2211.05739v1](http://arxiv.org/abs/2211.05739v1)|null|
 |**2022-11-10**|**Generalized Wardrop Equilibrium for Charging Station Selection and Route Choice of Electric Vehicles in Joint Power Distribution and Transportation Networks**|Babak Ghaffarzadeh Bakhshayesh et.al.|[2211.05635v1](http://arxiv.org/abs/2211.05635v1)|null|
 |**2022-11-10**|**DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**|Nikhil Bansal et.al.|[2211.05429v1](http://arxiv.org/abs/2211.05429v1)|null|
