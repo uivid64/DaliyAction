@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.13
+## Updated on 2022.11.14
 
 ## SLAM
 
@@ -1720,12 +1720,12 @@ layout: default
 |**2022-11-10**|**FedLesScan: Mitigating Stragglers in Serverless Federated Learning**|Mohamed Elzohairy et.al.|[2211.05739v1](http://arxiv.org/abs/2211.05739v1)|null|
 |**2022-11-10**|**Generalized Wardrop Equilibrium for Charging Station Selection and Route Choice of Electric Vehicles in Joint Power Distribution and Transportation Networks**|Babak Ghaffarzadeh Bakhshayesh et.al.|[2211.05635v1](http://arxiv.org/abs/2211.05635v1)|null|
 |**2022-11-10**|**DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**|Nikhil Bansal et.al.|[2211.05429v1](http://arxiv.org/abs/2211.05429v1)|null|
-|**2022-11-10**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v1](http://arxiv.org/abs/2211.05368v1)|null|
+|**2022-11-11**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v2](http://arxiv.org/abs/2211.05368v2)|null|
 |**2022-11-09**|**A Capability-based Distributed Authorization System to Enforce Context-aware Permission Sequences**|Adrian Shuai Li et.al.|[2211.04980v1](http://arxiv.org/abs/2211.04980v1)|null|
 |**2022-11-08**|**Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design**|Yuchang Sun et.al.|[2211.04132v1](http://arxiv.org/abs/2211.04132v1)|null|
 |**2022-11-08**|**Simulation-Based Parallel Training**|Lucas Meyer et.al.|[2211.04119v1](http://arxiv.org/abs/2211.04119v1)|null|
 |**2022-11-08**|**Distributed Computing for Scalable Optimal Power Flow in Large Radial Electric Power Distribution Systems with Distributed Energy Resources**|Rabayet Sadnan et.al.|[2211.03920v1](http://arxiv.org/abs/2211.03920v1)|null|
-|**2022-11-07**|**DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**|Newsha Ardalani et.al.|[2211.03309v1](http://arxiv.org/abs/2211.03309v1)|**[link](https://github.com/nanocad-lab/deepflow)**|
+|**2022-11-11**|**DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems**|Newsha Ardalani et.al.|[2211.03309v2](http://arxiv.org/abs/2211.03309v2)|**[link](https://github.com/nanocad-lab/deepflow)**|
 |**2022-11-07**|**HFedMS: Heterogeneous Federated Learning with Memorable Data Semantics in Industrial Metaverse**|Shenglai Zeng et.al.|[2211.03300v1](http://arxiv.org/abs/2211.03300v1)|**[link](https://github.com/slz-ai/hfedms)**|
 |**2022-11-06**|**Deliberation Networks and How to Train Them**|Qingyun Dou et.al.|[2211.03217v1](http://arxiv.org/abs/2211.03217v1)|null|
 |**2022-11-05**|**Cyber-physical interdependent restoration scheduling for active distribution network via ad hoc wireless communication**|Chongyu Wang et.al.|[2211.02819v1](http://arxiv.org/abs/2211.02819v1)|null|
