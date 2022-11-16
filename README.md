@@ -1,4 +1,4 @@
-## Updated on 2022.11.15
+## Updated on 2022.11.16
 
 ## SLAM
 
@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Growing Random Strings in CA**|M. Andrecut et.al.|[2211.07626v1](http://arxiv.org/abs/2211.07626v1)|null|
+|**2022-11-14**|**Quijote-PNG: Quasi-maximum likelihood estimation of Primordial Non-Gaussianity in the non-linear halo density field**|Gabriel Jung et.al.|[2211.07565v1](http://arxiv.org/abs/2211.07565v1)|null|
+|**2022-11-14**|**Thermal effects in spintronic materials and devices: an experimentalist's guide**|Barry L Zink et.al.|[2211.07560v1](http://arxiv.org/abs/2211.07560v1)|null|
+|**2022-11-14**|**High-resolution single-shot spiral diffusion-weighted imaging at 7T using expanded encoding with compressed sensing**|Gabriel Varela-Mattatall et.al.|[2211.07532v1](http://arxiv.org/abs/2211.07532v1)|null|
+|**2022-11-14**|**Adaptive search space decomposition method for pre- and post- buckling analyses of space truss structures**|Varun Ojha et.al.|[2211.07519v1](http://arxiv.org/abs/2211.07519v1)|null|
+|**2022-11-14**|**Large-Z atoms in the strong-interaction limit of DFT: Implications for gradient expansions and for the Lieb-Oxford bound**|Timothy J. Daas et.al.|[2211.07512v1](http://arxiv.org/abs/2211.07512v1)|null|
+|**2022-11-14**|**PCWE for FSAI -- Derivation of scalar wave equations for fluid-structure-acoustics interaction of low Mach number flows**|Stefan Schoder et.al.|[2211.07490v1](http://arxiv.org/abs/2211.07490v1)|null|
+|**2022-11-14**|**Saturn's Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations**|James S. D. Blake et.al.|[2211.07486v1](http://arxiv.org/abs/2211.07486v1)|null|
+|**2022-11-14**|**Deep Narrowband Photometry of the M101 Group: Strong-Line Abundances of 720 HII Regions**|Ray Garner III et.al.|[2211.07463v1](http://arxiv.org/abs/2211.07463v1)|null|
+|**2022-11-14**|**$p$-adaptive algorithms in Discontinuous Galerkin solutions to the time-domain Maxwell's equations**|Apurva Tiwari et.al.|[2211.07461v1](http://arxiv.org/abs/2211.07461v1)|null|
 |**2022-11-11**|**Using machine learning to compress the matter transfer function $T(k)$**|J. Bayron Orjuela-Quintana et.al.|[2211.06393v1](http://arxiv.org/abs/2211.06393v1)|null|
 |**2022-11-11**|**Online Signal Recovery via Heavy Ball Kaczmarz**|Benjamin Jarman et.al.|[2211.06391v1](http://arxiv.org/abs/2211.06391v1)|null|
 |**2022-11-11**|**Enhancing and Adversarial: Improve ASR with Speaker Labels**|Wei Zhou et.al.|[2211.06369v1](http://arxiv.org/abs/2211.06369v1)|null|
@@ -1168,6 +1178,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**|Kenta Kiuchi et.al.|[2211.07637v1](http://arxiv.org/abs/2211.07637v1)|null|
+|**2022-11-14**|**Exploratory Control with Tsallis Entropy for Latent Factor Models**|Ryan Donnelly et.al.|[2211.07622v1](http://arxiv.org/abs/2211.07622v1)|null|
+|**2022-11-14**|**Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**|Soeren Becker et.al.|[2211.07619v1](http://arxiv.org/abs/2211.07619v1)|null|
+|**2022-11-14**|**Fast Distributed Brooks' Theorem**|Manuela Fischer et.al.|[2211.07606v1](http://arxiv.org/abs/2211.07606v1)|null|
+|**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
+|**2022-11-15**|**On the Smoothed Complexity of Combinatorial Local Search**|Yiannis Giannakopoulos et.al.|[2211.07547v2](http://arxiv.org/abs/2211.07547v2)|null|
+|**2022-11-14**|**NeurIPS 2022 Competition: Driving SMARTS**|Amir Rasouli et.al.|[2211.07545v1](http://arxiv.org/abs/2211.07545v1)|null|
+|**2022-11-15**|**FLARES VIII. The Emergence of Passive Galaxies in the Early Universe ($z > 5$)**|Christopher C. Lovell et.al.|[2211.07540v2](http://arxiv.org/abs/2211.07540v2)|null|
+|**2022-11-14**|**Local predictability and coherence versus distributed entanglement in entanglement swapping from partially entangled pure states**|Jonas Maziero et.al.|[2211.07539v1](http://arxiv.org/abs/2211.07539v1)|null|
+|**2022-11-14**|**General entropic constraints on CSS codes within magic distillation protocols**|Rhea Alexander et.al.|[2211.07535v1](http://arxiv.org/abs/2211.07535v1)|null|
 |**2022-11-11**|**On the Infinite Variance Problem in Fermion Models**|Andrei Alexandru et.al.|[2211.06419v1](http://arxiv.org/abs/2211.06419v1)|null|
 |**2022-11-11**|**Online Signal Recovery via Heavy Ball Kaczmarz**|Benjamin Jarman et.al.|[2211.06391v1](http://arxiv.org/abs/2211.06391v1)|null|
 |**2022-11-11**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
@@ -1733,6 +1753,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**|Soeren Becker et.al.|[2211.07619v1](http://arxiv.org/abs/2211.07619v1)|null|
+|**2022-11-14**|**Parallel Downlink Data Distribution in Indoor Multi-hop THz Networks**|Cao Vien Phung et.al.|[2211.07202v1](http://arxiv.org/abs/2211.07202v1)|null|
+|**2022-11-14**|**An Invitation to Distributed Quantum Neural Networks**|Lirandë Pira et.al.|[2211.07056v1](http://arxiv.org/abs/2211.07056v1)|null|
+|**2022-11-13**|**Differentially Private Vertical Federated Learning**|Thilina Ranbaduge et.al.|[2211.06782v1](http://arxiv.org/abs/2211.06782v1)|null|
+|**2022-11-11**|**More Generalized and Personalized Unsupervised Representation Learning In A Distributed System**|Yuewei Yang et.al.|[2211.06470v1](http://arxiv.org/abs/2211.06470v1)|null|
+|**2022-11-11**|**Grid-forming control of three-phase and single-phase converters across unbalanced transmission and distribution systems**|Shahin S. Nudehi et.al.|[2211.06464v1](http://arxiv.org/abs/2211.06464v1)|null|
 |**2022-11-11**|**Physically Consistent Neural ODEs for Learning Multi-Physics Systems**|Muhammad Zakwan et.al.|[2211.06130v1](http://arxiv.org/abs/2211.06130v1)|null|
 |**2022-11-10**|**FedLesScan: Mitigating Stragglers in Serverless Federated Learning**|Mohamed Elzohairy et.al.|[2211.05739v1](http://arxiv.org/abs/2211.05739v1)|null|
 |**2022-11-10**|**Generalized Wardrop Equilibrium for Charging Station Selection and Route Choice of Electric Vehicles in Joint Power Distribution and Transportation Networks**|Babak Ghaffarzadeh Bakhshayesh et.al.|[2211.05635v1](http://arxiv.org/abs/2211.05635v1)|null|
