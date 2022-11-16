@@ -607,6 +607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Model free Shapley values for high dimensional data**|Naofumi Hama et.al.|[2211.08414v1](http://arxiv.org/abs/2211.08414v1)|**[link](https://github.com/cohortshapley/cohortintgrad)**|
+|**2022-11-15**|**Universal Distributional Decision-based Black-box Adversarial Attack with Reinforcement Learning**|Yiran Huang et.al.|[2211.08384v1](http://arxiv.org/abs/2211.08384v1)|null|
+|**2022-11-15**|**Viscosity of pure-glue QCD from the lattice**|Luis Altenkort et.al.|[2211.08230v1](http://arxiv.org/abs/2211.08230v1)|null|
+|**2022-11-15**|**On Energy Efficiency and Fairness Maximization in RIS-Assisted MU-MISO mmWave Communications**|Ahmed Magbool et.al.|[2211.08224v1](http://arxiv.org/abs/2211.08224v1)|null|
+|**2022-11-15**|**A Homogenous Second-Order Descent Method for Nonconvex Optimization**|Chuwen Zhang et.al.|[2211.08212v1](http://arxiv.org/abs/2211.08212v1)|null|
+|**2022-11-15**|**Improved Coresets for Euclidean $k$-Means**|Vincent Cohen-Addad et.al.|[2211.08184v1](http://arxiv.org/abs/2211.08184v1)|null|
+|**2022-11-15**|**Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**|Yu Wang et.al.|[2211.08071v1](http://arxiv.org/abs/2211.08071v1)|null|
+|**2022-11-15**|**MORA: Improving Ensemble Robustness Evaluation with Model-Reweighing Attack**|Yunrui Yu et.al.|[2211.08008v1](http://arxiv.org/abs/2211.08008v1)|null|
+|**2022-11-15**|**Differentiable matrix product states for simulating variational quantum computational chemistry**|Zhiqian Xu et.al.|[2211.07983v1](http://arxiv.org/abs/2211.07983v1)|null|
+|**2022-11-15**|**A Simple and Efficient Lagrange Multiplier Based Mixed Finite Element for Gradient Damage**|Johannes Riesselmann et.al.|[2211.07964v1](http://arxiv.org/abs/2211.07964v1)|null|
 |**2022-11-14**|**Growing Random Strings in CA**|M. Andrecut et.al.|[2211.07626v1](http://arxiv.org/abs/2211.07626v1)|null|
 |**2022-11-14**|**Quijote-PNG: Quasi-maximum likelihood estimation of Primordial Non-Gaussianity in the non-linear halo density field**|Gabriel Jung et.al.|[2211.07565v1](http://arxiv.org/abs/2211.07565v1)|null|
 |**2022-11-14**|**Thermal effects in spintronic materials and devices: an experimentalist's guide**|Barry L Zink et.al.|[2211.07560v1](http://arxiv.org/abs/2211.07560v1)|null|
@@ -1182,6 +1192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Mechanistic Mode Connectivity**|Ekdeep Singh Lubana et.al.|[2211.08422v1](http://arxiv.org/abs/2211.08422v1)|**[link](https://github.com/ekdeepslubana/mmc)**|
+|**2022-11-15**|**Is the Machine Smarter than the Theorist: Deriving Formulas for Particle Kinematics with Symbolic Regression**|Zhongtian Dong et.al.|[2211.08420v1](http://arxiv.org/abs/2211.08420v1)|null|
+|**2022-11-15**|**Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges**|Enrique Tomás Martínez Beltrán et.al.|[2211.08413v1](http://arxiv.org/abs/2211.08413v1)|null|
+|**2022-11-15**|**Far-from-equilibrium universality in two-dimensional Heisenberg antiferromagnets**|Zhaoyi Li et.al.|[2211.08392v1](http://arxiv.org/abs/2211.08392v1)|null|
+|**2022-11-15**|**Universal Distributional Decision-based Black-box Adversarial Attack with Reinforcement Learning**|Yiran Huang et.al.|[2211.08384v1](http://arxiv.org/abs/2211.08384v1)|null|
+|**2022-11-15**|**A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters**|Giulia Gianfagna et.al.|[2211.08372v1](http://arxiv.org/abs/2211.08372v1)|null|
+|**2022-11-15**|**Collaborative and AI-aided Exam Question Generation using Wikidata in Education**|Philipp Scharpf et.al.|[2211.08361v1](http://arxiv.org/abs/2211.08361v1)|null|
+|**2022-11-15**|**Probabilistic Deep Metric Learning for Hyperspectral Image Classification**|Chengkun Wang et.al.|[2211.08349v1](http://arxiv.org/abs/2211.08349v1)|**[link](https://github.com/wzzheng/pdml)**|
+|**2022-11-15**|**Non-perturbative non-Gaussianity and primordial black holes**|Andrew D. Gow et.al.|[2211.08348v1](http://arxiv.org/abs/2211.08348v1)|null|
+|**2022-11-15**|**Photometric detection of internal gravity waves in upper main-sequence stars. III. Comparison of amplitude spectrum fitting and Gaussian process regression using celerite2**|Dominic M. Bowman et.al.|[2211.08347v1](http://arxiv.org/abs/2211.08347v1)|null|
 |**2022-11-14**|**Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**|Kenta Kiuchi et.al.|[2211.07637v1](http://arxiv.org/abs/2211.07637v1)|null|
 |**2022-11-14**|**Exploratory Control with Tsallis Entropy for Latent Factor Models**|Ryan Donnelly et.al.|[2211.07622v1](http://arxiv.org/abs/2211.07622v1)|null|
 |**2022-11-14**|**Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**|Soeren Becker et.al.|[2211.07619v1](http://arxiv.org/abs/2211.07619v1)|null|
@@ -1757,6 +1777,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Laser and Diffusion Driven Optimal Discrimination of Similar Quantum Systems in Resonator**|K. A. Lyakhov et.al.|[2211.08214v1](http://arxiv.org/abs/2211.08214v1)|null|
+|**2022-11-15**|**Shared Network Effects in Time- versus Event-Triggered Consensus of a Single-Integrator Multi-Agent System**|David Meister et.al.|[2211.08156v1](http://arxiv.org/abs/2211.08156v1)|null|
+|**2022-11-14**|**Evaluating Distribution System Reliability with Hyperstructures Graph Convolutional Nets**|Yuzhou Chen et.al.|[2211.07645v1](http://arxiv.org/abs/2211.07645v1)|null|
 |**2022-11-14**|**Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**|Soeren Becker et.al.|[2211.07619v1](http://arxiv.org/abs/2211.07619v1)|null|
 |**2022-11-14**|**Parallel Downlink Data Distribution in Indoor Multi-hop THz Networks**|Cao Vien Phung et.al.|[2211.07202v1](http://arxiv.org/abs/2211.07202v1)|null|
 |**2022-11-14**|**An Invitation to Distributed Quantum Neural Networks**|Lirandë Pira et.al.|[2211.07056v1](http://arxiv.org/abs/2211.07056v1)|null|
