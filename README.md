@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders**|Wele Gedara Chaminda Bandara et.al.|[2211.09120v1](http://arxiv.org/abs/2211.09120v1)|**[link](https://github.com/wgcban/adamae)**|
+|**2022-11-16**|**Global Optimization with Parametric Function Approximation**|Chong Liu et.al.|[2211.09100v1](http://arxiv.org/abs/2211.09100v1)|null|
+|**2022-11-16**|**Four-dimensional complete gradient shrinking Ricci solitons with half positive isotropic curvature**|Huai-Dong Cao et.al.|[2211.09091v1](http://arxiv.org/abs/2211.09091v1)|null|
+|**2022-11-16**|**Online convex optimization for constrained control of linear systems using a reference governor**|Marko Nonhoff et.al.|[2211.09088v1](http://arxiv.org/abs/2211.09088v1)|null|
+|**2022-11-16**|**Efficient excitation-transfer across fully connected networks via local-energy optimization**|P. Sgroi et.al.|[2211.09079v1](http://arxiv.org/abs/2211.09079v1)|null|
+|**2022-11-16**|**Squeeze flow of micro-droplets: convolutional neural network with trainable and tunable refinement**|Aryan Mehboudi et.al.|[2211.09061v1](http://arxiv.org/abs/2211.09061v1)|**[link](https://github.com/sqflow/sqflow)**|
+|**2022-11-16**|**Multidimensional Generalized Riemann Problem Solver for Maxwell's Equations**|Arijit Hazra et.al.|[2211.09016v1](http://arxiv.org/abs/2211.09016v1)|null|
+|**2022-11-16**|**Asynchronous Gradient Play in Zero-Sum Multi-agent Games**|Ruicheng Ao et.al.|[2211.08980v1](http://arxiv.org/abs/2211.08980v1)|null|
+|**2022-11-16**|**AdaTriplet-RA: Domain Matching via Adaptive Triplet and Reinforced Attention for Unsupervised Domain Adaptation**|Xinyao Shu et.al.|[2211.08894v1](http://arxiv.org/abs/2211.08894v1)|**[link](https://github.com/shuxy0120/adatriplet-ra)**|
+|**2022-11-16**|**Interaction between massive star winds and the interstellar medium**|Jonathan Mackey et.al.|[2211.08808v1](http://arxiv.org/abs/2211.08808v1)|null|
 |**2022-11-15**|**Model free Shapley values for high dimensional data**|Naofumi Hama et.al.|[2211.08414v1](http://arxiv.org/abs/2211.08414v1)|**[link](https://github.com/cohortshapley/cohortintgrad)**|
 |**2022-11-15**|**Universal Distributional Decision-based Black-box Adversarial Attack with Reinforcement Learning**|Yiran Huang et.al.|[2211.08384v1](http://arxiv.org/abs/2211.08384v1)|null|
 |**2022-11-15**|**Viscosity of pure-glue QCD from the lattice**|Luis Altenkort et.al.|[2211.08230v1](http://arxiv.org/abs/2211.08230v1)|null|
@@ -1188,6 +1198,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**High-Eccentricity Migration with Disk-Induced Spin-Orbit Misalignment: a Preference for Perpendicular Hot Jupiters**|Michelle Vick et.al.|[2211.09122v1](http://arxiv.org/abs/2211.09122v1)|null|
+|**2022-11-16**|**AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders**|Wele Gedara Chaminda Bandara et.al.|[2211.09120v1](http://arxiv.org/abs/2211.09120v1)|**[link](https://github.com/wgcban/adamae)**|
+|**2022-11-16**|**Rapidity and momentum distributions of 1D dipolar quantum gases**|Kuan-Yu Li et.al.|[2211.09118v1](http://arxiv.org/abs/2211.09118v1)|null|
+|**2022-11-16**|**Applications of Differentiable Physics Simulations in Particle Accelerator Modeling**|Ryan Roussel et.al.|[2211.09077v1](http://arxiv.org/abs/2211.09077v1)|null|
+|**2022-11-16**|**$Λ_b\rightarrow Λ(\to p π^-) \ell^+\ell^-$ as probe of CP-violating New Physics**|Diganta Das et.al.|[2211.09065v1](http://arxiv.org/abs/2211.09065v1)|null|
+|**2022-11-16**|**A constant lower bound for the union-closed sets conjecture**|Justin Gilmer et.al.|[2211.09055v1](http://arxiv.org/abs/2211.09055v1)|null|
+|**2022-11-16**|**Entanglement distribution quantum networking within deployed telecommunications fibre-optic infrastructure**|Marcus J Clark et.al.|[2211.09051v1](http://arxiv.org/abs/2211.09051v1)|null|
+|**2022-11-16**|**Ground state baryons in the flux-tube three-body confinement model using Diffusion Monte Carlo**|Yao Ma et.al.|[2211.09021v1](http://arxiv.org/abs/2211.09021v1)|null|
+|**2022-11-16**|**Optimal SMC for Transactional Programs**|Parosh Aziz Abdulla et.al.|[2211.09020v1](http://arxiv.org/abs/2211.09020v1)|null|
+|**2022-11-16**|**Spatial and dynamical structure of the NGC 2264 star-forming region**|E. Flaccomio et.al.|[2211.09000v1](http://arxiv.org/abs/2211.09000v1)|null|
 |**2022-11-15**|**Mechanistic Mode Connectivity**|Ekdeep Singh Lubana et.al.|[2211.08422v1](http://arxiv.org/abs/2211.08422v1)|**[link](https://github.com/ekdeepslubana/mmc)**|
 |**2022-11-15**|**Is the Machine Smarter than the Theorist: Deriving Formulas for Particle Kinematics with Symbolic Regression**|Zhongtian Dong et.al.|[2211.08420v1](http://arxiv.org/abs/2211.08420v1)|null|
 |**2022-11-15**|**Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges**|Enrique Tomás Martínez Beltrán et.al.|[2211.08413v1](http://arxiv.org/abs/2211.08413v1)|null|
