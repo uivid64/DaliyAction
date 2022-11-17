@@ -1,4 +1,4 @@
-## Updated on 2022.11.16
+## Updated on 2022.11.17
 
 ## SLAM
 
@@ -606,10 +606,10 @@
 |**2022-11-15**|**Model free Shapley values for high dimensional data**|Naofumi Hama et.al.|[2211.08414v1](http://arxiv.org/abs/2211.08414v1)|**[link](https://github.com/cohortshapley/cohortintgrad)**|
 |**2022-11-15**|**Universal Distributional Decision-based Black-box Adversarial Attack with Reinforcement Learning**|Yiran Huang et.al.|[2211.08384v1](http://arxiv.org/abs/2211.08384v1)|null|
 |**2022-11-15**|**Viscosity of pure-glue QCD from the lattice**|Luis Altenkort et.al.|[2211.08230v1](http://arxiv.org/abs/2211.08230v1)|null|
-|**2022-11-15**|**On Energy Efficiency and Fairness Maximization in RIS-Assisted MU-MISO mmWave Communications**|Ahmed Magbool et.al.|[2211.08224v1](http://arxiv.org/abs/2211.08224v1)|null|
+|**2022-11-16**|**On Energy Efficiency and Fairness Maximization in RIS-Assisted MU-MISO mmWave Communications**|Ahmed Magbool et.al.|[2211.08224v2](http://arxiv.org/abs/2211.08224v2)|null|
 |**2022-11-15**|**A Homogenous Second-Order Descent Method for Nonconvex Optimization**|Chuwen Zhang et.al.|[2211.08212v1](http://arxiv.org/abs/2211.08212v1)|null|
-|**2022-11-15**|**Improved Coresets for Euclidean $k$-Means**|Vincent Cohen-Addad et.al.|[2211.08184v1](http://arxiv.org/abs/2211.08184v1)|null|
-|**2022-11-15**|**Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**|Yu Wang et.al.|[2211.08071v1](http://arxiv.org/abs/2211.08071v1)|null|
+|**2022-11-16**|**Improved Coresets for Euclidean $k$-Means**|Vincent Cohen-Addad et.al.|[2211.08184v2](http://arxiv.org/abs/2211.08184v2)|null|
+|**2022-11-16**|**Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**|Yu Wang et.al.|[2211.08071v2](http://arxiv.org/abs/2211.08071v2)|null|
 |**2022-11-15**|**MORA: Improving Ensemble Robustness Evaluation with Model-Reweighing Attack**|Yunrui Yu et.al.|[2211.08008v1](http://arxiv.org/abs/2211.08008v1)|null|
 |**2022-11-15**|**Differentiable matrix product states for simulating variational quantum computational chemistry**|Zhiqian Xu et.al.|[2211.07983v1](http://arxiv.org/abs/2211.07983v1)|null|
 |**2022-11-15**|**A Simple and Efficient Lagrange Multiplier Based Mixed Finite Element for Gradient Damage**|Johannes Riesselmann et.al.|[2211.07964v1](http://arxiv.org/abs/2211.07964v1)|null|
