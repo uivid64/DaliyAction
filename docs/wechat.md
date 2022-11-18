@@ -1,4 +1,4 @@
-> Updated on 2022.11.17
+> Updated on 2022.11.18
 
 ## SLAM
 
@@ -1093,9 +1093,9 @@
 - 2022-11-16, **Applications of Differentiable Physics Simulations in Particle Accelerator Modeling**, Ryan Roussel et.al., Paper: [http://arxiv.org/abs/2211.09077v1](http://arxiv.org/abs/2211.09077v1)
 - 2022-11-16, **$Λ_b\rightarrow Λ(\to p π^-) \ell^+\ell^-$ as probe of CP-violating New Physics**, Diganta Das et.al., Paper: [http://arxiv.org/abs/2211.09065v1](http://arxiv.org/abs/2211.09065v1)
 - 2022-11-16, **A constant lower bound for the union-closed sets conjecture**, Justin Gilmer et.al., Paper: [http://arxiv.org/abs/2211.09055v1](http://arxiv.org/abs/2211.09055v1)
-- 2022-11-16, **Entanglement distribution quantum networking within deployed telecommunications fibre-optic infrastructure**, Marcus J Clark et.al., Paper: [http://arxiv.org/abs/2211.09051v1](http://arxiv.org/abs/2211.09051v1)
+- 2022-11-17, **Entanglement distribution quantum networking within deployed telecommunications fibre-optic infrastructure**, Marcus J Clark et.al., Paper: [http://arxiv.org/abs/2211.09051v2](http://arxiv.org/abs/2211.09051v2)
 - 2022-11-16, **Ground state baryons in the flux-tube three-body confinement model using Diffusion Monte Carlo**, Yao Ma et.al., Paper: [http://arxiv.org/abs/2211.09021v1](http://arxiv.org/abs/2211.09021v1)
-- 2022-11-16, **Optimal SMC for Transactional Programs**, Parosh Aziz Abdulla et.al., Paper: [http://arxiv.org/abs/2211.09020v1](http://arxiv.org/abs/2211.09020v1)
+- 2022-11-17, **Optimal SMC for Transactional Programs**, Parosh Aziz Abdulla et.al., Paper: [http://arxiv.org/abs/2211.09020v2](http://arxiv.org/abs/2211.09020v2)
 - 2022-11-16, **Spatial and dynamical structure of the NGC 2264 star-forming region**, E. Flaccomio et.al., Paper: [http://arxiv.org/abs/2211.09000v1](http://arxiv.org/abs/2211.09000v1)
 - 2022-11-15, **Mechanistic Mode Connectivity**, Ekdeep Singh Lubana et.al., Paper: [http://arxiv.org/abs/2211.08422v1](http://arxiv.org/abs/2211.08422v1), Code: **[https://github.com/ekdeepslubana/mmc](https://github.com/ekdeepslubana/mmc)**
 - 2022-11-15, **Is the Machine Smarter than the Theorist: Deriving Formulas for Particle Kinematics with Symbolic Regression**, Zhongtian Dong et.al., Paper: [http://arxiv.org/abs/2211.08420v1](http://arxiv.org/abs/2211.08420v1)
