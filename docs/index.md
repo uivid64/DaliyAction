@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.18
+## Updated on 2022.11.19
 
 ## SLAM
 
@@ -607,7 +607,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|null|
+|**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|**[link](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)**|
 |**2022-11-17**|**Exploring Earth's Ionosphere and its effect on low radio frequency observation with the uGMRT and the SKA**|Sarvesh Mangla et.al.|[2211.09738v1](http://arxiv.org/abs/2211.09738v1)|null|
 |**2022-11-17**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v1](http://arxiv.org/abs/2211.09721v1)|null|
 |**2022-11-17**|**The origin of star-forming rings in S0 galaxies**|J. L. Tous et.al.|[2211.09697v1](http://arxiv.org/abs/2211.09697v1)|null|
