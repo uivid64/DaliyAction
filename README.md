@@ -603,6 +603,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-18**|**CNeRV: Content-adaptive Neural Representation for Visual Data**|Hao Chen et.al.|[2211.10421v1](http://arxiv.org/abs/2211.10421v1)|null|
+|**2022-11-18**|**Informative Sample-Aware Proxy for Deep Metric Learning**|Aoyu Li et.al.|[2211.10382v1](http://arxiv.org/abs/2211.10382v1)|null|
+|**2022-11-18**|**Pressure-induced superconductivity in PdTeI with quasi-one-dimensional PdTe chains**|Yi Zhao et.al.|[2211.10294v1](http://arxiv.org/abs/2211.10294v1)|null|
+|**2022-11-18**|**TensAIR: Online Learning from Data Streams via Asynchronous Iterative Routing**|Mauro Dalle Lucca Tosi et.al.|[2211.10280v1](http://arxiv.org/abs/2211.10280v1)|null|
+|**2022-11-18**|**Model-based Causal Bayesian Optimization**|Scott Sussex et.al.|[2211.10257v1](http://arxiv.org/abs/2211.10257v1)|**[link](https://github.com/ssethz/mcbo)**|
+|**2022-11-18**|**Spectral broadening in convex-concave multipass cells**|Kilian Fritsch et.al.|[2211.10241v1](http://arxiv.org/abs/2211.10241v1)|null|
+|**2022-11-18**|**Iteration Complexity of Fixed-Step-Momentum Methods for Convex Quadratic Functions**|Melinda Hagedorn et.al.|[2211.10234v1](http://arxiv.org/abs/2211.10234v1)|null|
+|**2022-11-18**|**How Do Input Attributes Impact the Privacy Loss in Differential Privacy?**|Tamara T. Mueller et.al.|[2211.10173v1](http://arxiv.org/abs/2211.10173v1)|null|
+|**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
+|**2022-11-18**|**Identifying Correlation in Stream of Samples**|Zhenhao Gu et.al.|[2211.10137v1](http://arxiv.org/abs/2211.10137v1)|null|
 |**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|**[link](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)**|
 |**2022-11-17**|**Exploring Earth's Ionosphere and its effect on low radio frequency observation with the uGMRT and the SKA**|Sarvesh Mangla et.al.|[2211.09738v1](http://arxiv.org/abs/2211.09738v1)|null|
 |**2022-11-18**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v2](http://arxiv.org/abs/2211.09721v2)|null|
@@ -1208,6 +1218,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-18**|**Forecasting labels under distribution-shift for machine-guided sequence design**|Lauren Berk Wheelock et.al.|[2211.10422v1](http://arxiv.org/abs/2211.10422v1)|null|
+|**2022-11-18**|**TSN-FlexTest: Flexible TSN Measurement Testbed (Extended Version)**|Marian Ulbricht et.al.|[2211.10413v1](http://arxiv.org/abs/2211.10413v1)|null|
+|**2022-11-18**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388v1](http://arxiv.org/abs/2211.10388v1)|null|
+|**2022-11-18**|**Invariant Learning via Diffusion Dreamed Distribution Shifts**|Priyatham Kattakinda et.al.|[2211.10370v1](http://arxiv.org/abs/2211.10370v1)|null|
+|**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/beyondguo/genius)**|
+|**2022-11-18**|**A nation-wide experiment: fuel tax cuts and almost free public transport for three months in Germany -- Report 5 Insights into four months of mobility tracking**|Lennart Adenaw et.al.|[2211.10328v1](http://arxiv.org/abs/2211.10328v1)|null|
+|**2022-11-18**|**All models are wrong, but which are useful? Comparing parametric and nonparametric estimation of causal effects in finite samples**|Kara E. Rudolph et.al.|[2211.10310v1](http://arxiv.org/abs/2211.10310v1)|null|
+|**2022-11-18**|**The distorting lens of human mobility data**|Riccardo Gallotti et.al.|[2211.10308v1](http://arxiv.org/abs/2211.10308v1)|null|
+|**2022-11-18**|**On the Evaluation of Generative Models in High Energy Physics**|Raghav Kansal et.al.|[2211.10295v1](http://arxiv.org/abs/2211.10295v1)|null|
+|**2022-11-18**|**A new avenue in the search for CP violation: Moessbauer spectroscopy of 227-Ac**|M. Scheck et.al.|[2211.10286v1](http://arxiv.org/abs/2211.10286v1)|null|
 |**2022-11-17**|**Bayesian Hierarchical Models For Multi-type Survey Data Using Spatially Correlated Covariates Measured With Error**|Saikat Nandy et.al.|[2211.09797v1](http://arxiv.org/abs/2211.09797v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 |**2022-11-17**|**DiffusionDet: Diffusion Model for Object Detection**|Shoufa Chen et.al.|[2211.09788v1](http://arxiv.org/abs/2211.09788v1)|**[link](https://github.com/shoufachen/diffusiondet)**|
@@ -1813,6 +1833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**Reducing Hallucinations in Neural Machine Translation with Feature Attribution**|Joël Tang et.al.|[2211.09878v1](http://arxiv.org/abs/2211.09878v1)|null|
 |**2022-11-17**|**Spatial Graph Convolution Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2211.09587v1](http://arxiv.org/abs/2211.09587v1)|null|
 |**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|null|
 |**2022-11-15**|**Laser and Diffusion Driven Optimal Discrimination of Similar Quantum Systems in Resonator**|K. A. Lyakhov et.al.|[2211.08214v1](http://arxiv.org/abs/2211.08214v1)|null|
