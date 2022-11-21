@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.20
+## Updated on 2022.11.21
 
 ## SLAM
 
@@ -609,11 +609,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-17**|**VeLO: Training Versatile Learned Optimizers by Scaling Up**|Luke Metz et.al.|[2211.09760v1](http://arxiv.org/abs/2211.09760v1)|**[link](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)**|
 |**2022-11-17**|**Exploring Earth's Ionosphere and its effect on low radio frequency observation with the uGMRT and the SKA**|Sarvesh Mangla et.al.|[2211.09738v1](http://arxiv.org/abs/2211.09738v1)|null|
-|**2022-11-17**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v1](http://arxiv.org/abs/2211.09721v1)|null|
+|**2022-11-18**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v2](http://arxiv.org/abs/2211.09721v2)|null|
 |**2022-11-17**|**The origin of star-forming rings in S0 galaxies**|J. L. Tous et.al.|[2211.09697v1](http://arxiv.org/abs/2211.09697v1)|null|
 |**2022-11-17**|**Mechanical configurable nanopatterning of polar topological states and formation of post-skyrmion**|Lizhe Hu et.al.|[2211.09645v1](http://arxiv.org/abs/2211.09645v1)|null|
 |**2022-11-17**|**Why Deep Learning Generalizes**|Benjamin L. Badger et.al.|[2211.09639v1](http://arxiv.org/abs/2211.09639v1)|**[link](https://github.com/blbadger/learning-generality)**|
-|**2022-11-17**|**Learning to Communicate with Intent: An Introduction**|Miguel Angel Gutierrez-Estevez et.al.|[2211.09613v1](http://arxiv.org/abs/2211.09613v1)|null|
+|**2022-11-18**|**Learning to Communicate with Intent: An Introduction**|Miguel Angel Gutierrez-Estevez et.al.|[2211.09613v2](http://arxiv.org/abs/2211.09613v2)|null|
 |**2022-11-17**|**Optimization on the symplectic Stiefel manifold: SR decomposition-based retraction and applications**|Bin Gao et.al.|[2211.09481v1](http://arxiv.org/abs/2211.09481v1)|null|
 |**2022-11-17**|**Metadynamics for transition paths in irreversible dynamics**|Tobias Grafke et.al.|[2211.09476v1](http://arxiv.org/abs/2211.09476v1)|null|
 |**2022-11-17**|**Abstractive Summarization Guided by Latent Hierarchical Document Structure**|Yifu Qiu et.al.|[2211.09458v1](http://arxiv.org/abs/2211.09458v1)|**[link](https://github.com/yfqiu-nlp/hiergnn)**|
@@ -1213,13 +1213,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-17**|**Bayesian Hierarchical Models For Multi-type Survey Data Using Spatially Correlated Covariates Measured With Error**|Saikat Nandy et.al.|[2211.09797v1](http://arxiv.org/abs/2211.09797v1)|null|
-|**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|null|
+|**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 |**2022-11-17**|**DiffusionDet: Diffusion Model for Object Detection**|Shoufa Chen et.al.|[2211.09788v1](http://arxiv.org/abs/2211.09788v1)|**[link](https://github.com/shoufachen/diffusiondet)**|
 |**2022-11-17**|**A Census of the Taurus Star-forming Region and Neighboring Associations with Gaia**|K. L. Luhman et.al.|[2211.09785v1](http://arxiv.org/abs/2211.09785v1)|null|
 |**2022-11-17**|**Three-body contact for fermions. I. General relations**|Félix Werner et.al.|[2211.09765v1](http://arxiv.org/abs/2211.09765v1)|null|
 |**2022-11-17**|**Optically Distributing Remote Two-node Microwave Entanglement using Doubly Parametric Quantum Transducers**|Akira Kyle et.al.|[2211.09762v1](http://arxiv.org/abs/2211.09762v1)|null|
 |**2022-11-17**|**Sub-Graph Learning for Spatiotemporal Forecasting via Knowledge Distillation**|Mehrtash Mehrabi et.al.|[2211.09740v1](http://arxiv.org/abs/2211.09740v1)|null|
-|**2022-11-17**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v1](http://arxiv.org/abs/2211.09721v1)|null|
+|**2022-11-18**|**A Finite-Particle Convergence Rate for Stein Variational Gradient Descent**|Jiaxin Shi et.al.|[2211.09721v2](http://arxiv.org/abs/2211.09721v2)|null|
 |**2022-11-17**|**Design, Optimization, and Reverse Engineering of High-Power Laser Systems**|Jack Hirschman et.al.|[2211.09640v1](http://arxiv.org/abs/2211.09640v1)|null|
 |**2022-11-17**|**Detecting deviations from Gaussianity in high-redshift CMB lensing maps**|Zhuoqi Zhang et.al.|[2211.09617v1](http://arxiv.org/abs/2211.09617v1)|null|
 |**2022-11-16**|**High-Eccentricity Migration with Disk-Induced Spin-Orbit Misalignment: a Preference for Perpendicular Hot Jupiters**|Michelle Vick et.al.|[2211.09122v1](http://arxiv.org/abs/2211.09122v1)|null|
